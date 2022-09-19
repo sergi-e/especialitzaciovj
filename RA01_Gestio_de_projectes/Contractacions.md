@@ -1,0 +1,1 @@
+Las contrataciones empiezan en preproducción pero se desarrollan durante la producción (por ejemplo, en preproducción probablemente aún no tendremos un CM, ya que el videojuego no está concretado siquiera). 
