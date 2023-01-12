@@ -27,6 +27,7 @@ Tenir en compte també que certes condicions econòmiques al igual que directriu
 > - [Unreal Engine](#unreal-engine)
 6. [Altres referències](#altres-referències)
 
+---
 
 # 1 Plataformes gratuïtes
 ## Epic Games Store
