@@ -5,7 +5,9 @@ Per a publicar el nostre videojoc a la plataforma GOG cal omplir un formulari
 ---
 **NOTE**  
 Formulari de publicació GOG: https://www.gog.com/indie
+
 ---
+
 ## itch.io
 https://itch.io/developers
 https://wiki.gdevelop.io/gdevelop5/publishing/publishing-to-itch-io
