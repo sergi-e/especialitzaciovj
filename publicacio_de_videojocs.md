@@ -94,7 +94,6 @@ Abans de començar amb el procés de publicació, cal fer una ullada als [requis
 
 El procediment per arribar a publicar en Apple Store pot resultar especialment complicat en un principi. [Ací](https://rocketbrush.com/blog/how-to-submit-mobile-game-app-to-app-store-guide) i [ací](https://www.thedroidsonroids.com/blog/how-to-submit-app-to-the-app-store-guide-and-checklist) trobarem dos guies molt detallades del procés a seguir, per tal de no ofuscar-nos. És important llegir-los amb antelació per comprendre cada pas. També és convenient llegir aquesta documentació oficial sobre el procés de [revisió](https://developer.apple.com/app-store/review/) i [submit](https://developer.apple.com/ios/submit/).
  
-https://developer.apple.com/ios/submit/
 ## Amazon AppStore
 https://developer.amazon.com/apps-and-games/app-submission
 https://developer.amazon.com/docs/app-submission/submitting-apps-to-amazon-appstore.html
