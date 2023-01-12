@@ -105,6 +105,12 @@ A diferència de Google Play i Apple Store, la creació d'un compte de desenvolu
 
 # 4 Publicació en consoles i altres serveis
 ## Epic Games Store
+  La Epic Games Store és la tenda digital desenvolupada per Epic Games, compatible per a dispositius Windows i Mac. Encara i que ho podriem pensar, els jocs disponibles a la tenda no han de ser necessàriament desenvolupats en Unreal Engine (propietat d'Epic). No obstant, els jocs basats en UE que estiguin a la venda en Epic Games Store, no tenen que pagar els royalties del 5% en l'ús del motor (tan sols en aquesta tenda, sí s'han de pagar en qualsevol altra).  
+  
+  La tenda té certs factors diferencials, com un major marge de benefici, 88%(devs)/12%(Epic) o el programa [Support-A-Creator](https://www.epicgames.com/affiliate/en-US/overview) per apropar creadors de contingut als developers. Per tal de sol·licitar la publicació d'un joc cal omplir [aquest](https://store.epicgames.com/es-ES/publish/form) formulari. 
+  
+  Actualment trobem a la tenda la beta tancada d'un sistema de self-publishing per poder dirigir la pàgina de tenda, preus, ofertes i actualitzacions del jocs amb major independència. Els detalls i possible resultats d'aquest sistema encara són desconeguts. 
+  
   https://store.epicgames.com/en-US/publish
   https://www.polygon.com/2018/12/4/18125498/epic-games-store-details-revenue-split-launch-date
 ## Nintendo Switch
