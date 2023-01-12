@@ -1,13 +1,10 @@
 
 # Plataformes gratuïtes per publicar videojocs:
 ## GOG
-Per a publicar el nostre videojoc a la plataforma GOG cal omplir un formulari 
----
+Per tal de publicar el nostre videojoc a la plataforma GOG cal omplir un formulari 
 
 **NOTE**  
-Formulari de publicació GOG: https://www.gog.com/indie
-
----
+> Formulari de publicació GOG: https://www.gog.com/indie
 
 ## itch.io
 https://itch.io/developers
