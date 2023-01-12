@@ -88,8 +88,6 @@ El marge de benefici, com és habitual, és 70%(devs)/30%(Google Play). Si un jo
 
 > :pushpin: Documentació per publicar una app a Google Play:https://support.google.com/googleplay/android-developer/answer/9859152?hl=en i per la realització de tests: https://support.google.com/googleplay/android-developer/answer/9845334
 
-
-https://help.gamesalad.com/gamesalad-cookbook/publishing/google-play-publishing/
 ## Apple Store
 https://developers.google.com/games/services/console/testpub
 https://developer.apple.com/ios/submit/
