@@ -4,28 +4,28 @@ Cal tenir en compte les Rules and guidelines de cada plataforma.
 +-------------------------------------------------------------------------------------------+
 |# Taula de continguts|
 +-------------------------------------------------------------------------------------------+
-|1. [Plataformes gratuïtes](#1-plataformes-gratuïtes)|
-|  - [GOG](#gog)|
-|  - [itch.io](#itch.io)|
-|  - [Humble Games](#humble-games)|
-|  - [GamersGate](#gamersgate)|
-|  - [Kongregate](#kongregate)|
-|2. [Plataformes de pagament](#2-plataformes-de-pagament)  |
-|  - [Steam](#steam)|
-|3. [Publicació en dispositius mòbils](3-publicació-en-dispositius-mòbils)|
-|  * [Google App Store](#google-app-store)|
-|  * [Apple Store](#apple-store)|
-|  * [Amazon AppStore](#amazon-app-store)|
-|4. [Publicació en consoles i altres serveis](#4-publicació-en-consoles-i-altres-serveis)|
-|  * [Epic Games Store](#epic-games-store)|
- | * [Nintendo Switch](#nintendo-switch)|
- | * [Playstation 5](#playstation-5)|
-|  * [Xbox One](#xbox-one)|
- | * [Game Pass](#game-pass)|
-|5. [Altres qüestions](#altres-qüestions)|
-|  * [Unity](#unity)|
- | * [Unreal Engine](#unreal-engine)|
-|6. [Altres referències](#altres-referències)|
+|[Plataformes gratuïtes](#1-plataformes-gratuïtes)|
+| [GOG](#gog)|
+|  [itch.io](#itch.io)|
+|  [Humble Games](#humble-games)|
+|  [GamersGate](#gamersgate)|
+|  [Kongregate](#kongregate)|
+|[Plataformes de pagament](#2-plataformes-de-pagament)  |
+|   [Steam](#steam)|
+|[Publicació en dispositius mòbils](3-publicació-en-dispositius-mòbils)|
+|  [Google App Store](#google-app-store)|
+|  [Apple Store](#apple-store)|
+|  [Amazon AppStore](#amazon-app-store)|
+| [Publicació en consoles i altres serveis](#4-publicació-en-consoles-i-altres-serveis)|
+|  [Epic Games Store](#epic-games-store)|
+ | [Nintendo Switch](#nintendo-switch)|
+ | [Playstation 5](#playstation-5)|
+|  [Xbox One](#xbox-one)|
+ | [Game Pass](#game-pass)|
+|[Altres qüestions](#altres-qüestions)|
+|  [Unity](#unity)|
+ | [Unreal Engine](#unreal-engine)|
+|[Altres referències](#altres-referències)|
 +-------------------------------------------------------------------------------------------+
 
 # 1 Plataformes gratuïtes
