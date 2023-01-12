@@ -11,10 +11,19 @@ La retribució coneguda és 70%(devs)/30%(GOG), igual que en Steam i altres, per
 
 
 ## itch.io
-https://itch.io/developers
-https://wiki.gdevelop.io/gdevelop5/publishing/publishing-to-itch-io
+Itch.io és una tenda i escaparat per als desenvolupadrs independents. Permet a qualsevol persona dissenyar una pàgina personal i vendre els seus productes, ajustant el preu i controlant les vendes mitjançant analítiques. A més a més, el contingut es pot anar editant iactualitzant amb el temps. 
+
+Una característica molt important és que, el preu determinat pel developer, és el preu mínim a pagar per adquirir el joc. Els compradors poden pagar la quantitat que consideren adient, mentre sigui superior o igual a aquesta (el preu mínim pot ser zero, de manera que pagar sigui opcional). El servici també conta amb suport per pre-orders, early-access, fòrums per als jugadors, rewards i altres, de manera que és totalment compatible amb una campanya de crowdfunding simultània. 
+
+En un inici, itch.io retenia un 0% per cada venda realitzada, però des de 2015 el sistema canvià per donar als developers la capacitat d'ajustar ells quin marge de benefici quedar-se i quin donar al servici.
+
+Per a pujar un nou projecte cal tenir un compte a la pàgina i seleccionar l'opció adient al menú personal. Cal fer ús de [butler](https://itch.io/docs/butler/) per a pujar les actualitzacions dels jocs, ja que d'aquesta manera s'actualitzen els canvis i s'autogenera el patch. 
+
+> :pushpin: documentació de itch.io: https://itch.io/docs/general/about
+
 ## Humble Bundle
 https://www.humblegames.com/submit-a-game/
+
 ## GamersGate
 ???
 ## Kongregate
@@ -66,6 +75,7 @@ Unreal Developer Network. UDN is available to developers that apply through Epic
 
 ### REFERÈNCIES ADDICIONALS:
 https://www.elotrolado.net/wiki/Good_Old_Games
+https://wiki.gdevelop.io/gdevelop5/publishing/publishing-to-itch-io
 https://codeswholesale.com/blog/5-best-platforms-to-publish-your-indie-game/
 https://ninichimusic.com/blog/2017/9/1/11-places-to-publish-release-your-indie-game
 https://www.reddit.com/r/gamedev/comments/4hp06e/indie_devs_was_it_worth_it_to_publish_your_game/
