@@ -32,8 +32,15 @@ Per a publicar un joc a Humble Games cal omplir un formulari informatiu on, entr
 
 ## GamersGate
 ???
+
 ## Kongregate
-https://developers.kongregate.com/
+Kongregate es una pàgina web i aplicació de videojocs amb l'estructura i estil clàssic de les pàgines de videojocs en línia. Els jocs desenvolupats poden estar en Flash/HTML5/WebGL, Unity Web Player o Iframe i poden fer ús de l'API proporcionada per Kongregate. 
+
+Per publicar a la pàgina de Kongregate cal tenir un compte i crear una pàgina per al joc. Abans de fer-ho, cal assegurar-se de que el joc compleix [aquest checklist](https://docs.kongregate.com/docs/submission-checklist-1), o no serà aprovat en el procés de revisió. Addicionalment, per publicar a mòbil junt am Kongregate, cal omplir [aquest formulari](https://docs.google.com/forms/d/e/1FAIpQLSfhGdqeKc_4Ph_jisGIv0HM6nD7ouPSMCy58XYj8FTmNLwp5g/viewform?formkey=dF9wRXJWZGFPbXJCalJXdnAtWXdyS1E6MQ&ifq). 
+
+Els jocs en Kongregate són gratuïts, de manera que el benefici ve donat d'una banda per anuncis inserits, del qual es rep un 50% (entre 1-2$ per cada 1.000 gameplays), i compres dintre del joc, de les uqe obtindrem un 70% del benefici. Per tal de facilitar aquestes últimes, la API de Kongregate ja permet utilitzar la moneda pròpia de Kongregate, de manera que ells controle taxes, atenció al client, etc. 
+
+> :pushpin: Publicació a Kongregate: https://developers.kongregate.com/ i https://blog.kongregate.com/
 
 
 # Plataformes de pagament per publicar videojocs:
