@@ -1,5 +1,8 @@
 
 # Plataformes gratuïtes per publicar videojocs:
+
+Cal tenir en compte les Rules and guidelines de cada plataforma. 
+
 ## GOG (Good Old Games) 
 GOG és un servici de venta i distribució de videojocs propietat de l'estudi CD PRojekt RED i especialitat en jocs per a ordinador. La principal característica és la distribució de jocs DRM-Free, és a dir, sense restriccions de drets i sense necessitat de cap client especial. Addicionalment, la plataforma tracta de garantir la compatibilitat entre plataformes (Windows, OSX i Linux) dels jocs que publica. 
 
@@ -42,15 +45,18 @@ Els jocs en Kongregate són gratuïts, de manera que el benefici ve donat d'una 
 
 > :pushpin: Publicació a Kongregate: https://developers.kongregate.com/ i https://blog.kongregate.com/
 
-
 # Plataformes de pagament per publicar videojocs:
 ## Steam
-https://partner.steamgames.com/steamdirect
-https://www.theverge.com/2018/11/30/18120577/valve-steam-game-marketplace-revenue-split-new-rules-competition
+Steam ha sigut la plataforma de videojocs de referència durant molts anys, pràcticament en una situació de monopoli. Fa uns anys existia el programa de Steam Greenlight on els developers podien pujar qualsevol joc a la plataforma, i eren els propis usuaris escollien els que eren publicats, però degut a la facilitat amb que aquest sistema podia ser explotat, es va canviar sustancialment. 
 
+Steam Direct és un sistema regulat i estructurat. Per tal de publicar un joc cal entregar paperasa amb la informació personal i bancària adient, crear la pàgina de Steam del joc (tot açò junt amb la build del joc seran revisats per l'equip de Steam), a més de pagar una tasa de 100$USD (uns 93€ a 12/01/23) per cada producte a distribuir. Aquestos 100$ tan sols seran recuperables després de que el joc generi 1.000$ de benefici per a la tenda, sent el marge de benefici de 70%(dev)/30%(Steam) per cada compra. 
+
+
+> :pushpin: Informació sobre Steam Direct: https://partner.steamgames.com/steamdirect
 
 # Publicació a dispositius mòbils
 ## Google App Store
+One-time fee 25$.
 https://developers.google.com/games/services/console/testpub
 https://help.gamesalad.com/gamesalad-cookbook/publishing/google-play-publishing/
 ## Apple Store
@@ -90,6 +96,7 @@ Unreal Developer Network. UDN is available to developers that apply through Epic
 https://www.elotrolado.net/wiki/Good_Old_Games
 https://wiki.gdevelop.io/gdevelop5/publishing/publishing-to-itch-io
 https://support.humblebundle.com/hc/en-us/sections/200515154-Developer-FAQ
+https://www.theverge.com/2018/11/30/18120577/valve-steam-game-marketplace-revenue-split-new-rules-competition
 https://codeswholesale.com/blog/5-best-platforms-to-publish-your-indie-game/
 https://ninichimusic.com/blog/2017/9/1/11-places-to-publish-release-your-indie-game
 https://www.reddit.com/r/gamedev/comments/4hp06e/indie_devs_was_it_worth_it_to_publish_your_game/
