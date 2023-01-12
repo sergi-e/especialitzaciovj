@@ -12,7 +12,7 @@ Cal tenir en compte les Rules and guidelines de cada plataforma.
 2. [Plataformes de pagament](#2-plataformes-de-pagament)  
 > - [Steam](#steam)
 3. [Publicació en dispositius mòbils](3-publicació-en-dispositius-mòbils)
-> - [Google App Store](#google-app-store)
+> - [Google Play App Store](#google-app-store)
 > - [Apple Store](#apple-store)
 > - [Amazon AppStore](#amazon-app-store)
 4. [Publicació en consoles i altres serveis](#4-publicació-en-consoles-i-altres-serveis)
@@ -80,9 +80,15 @@ Steam Direct és un sistema regulat i estructurat. Per tal de publicar un joc ca
 > :pushpin: Informació sobre Steam Direct: https://partner.steamgames.com/steamdirect
 
 # 3 Publicació en dispositius mòbils
-## Google App Store
-One-time fee 25$.
-https://developers.google.com/games/services/console/testpub
+## Google Play App Store
+La plataforma de distribució per a dispositius amb sistema operatiu Android, desenvolupada per Google. 
+Per tal de publicar un joc o una app, primer cal [crear un compte de desenvolupador](play.google.com/console) amb un costd 25$ (pagament únic). Després farem servir Play Console per gestionar tot el procés. 
+
+El marge de benefici, com és habitual, és 70%(devs)/30%(Google Play). Si un joc es registra com a gratuït, no podrà canviar-se a de pagament després. Mentre preparem el joc per a la seua publicació, caldrà estipular certa informació tal com la gestió de dades que realitzem, la presència d'anuncis i de quin tipus, l'audiència objectiu, classificació d'edat... Cal tenir en compte que podrem mantenir un grup de testers (es important afegir-nos a nosaltres mateix) per provar el joc abans de ser publicat o abans de publicar canvis/noves versions a la resta del món. 
+
+> :pushpin: Documentació per publicar una app a Google Play:https://support.google.com/googleplay/android-developer/answer/9859152?hl=en i per la realització de tests: https://support.google.com/googleplay/android-developer/answer/9845334
+
+
 https://help.gamesalad.com/gamesalad-cookbook/publishing/google-play-publishing/
 ## Apple Store
 https://developers.google.com/games/services/console/testpub
@@ -123,6 +129,7 @@ Unreal Developer Network. UDN is available to developers that apply through Epic
 - https://wiki.gdevelop.io/gdevelop5/publishing/publishing-to-itch-io
 - https://support.humblebundle.com/hc/en-us/sections/200515154-Developer-FAQ
 - https://www.theverge.com/2018/11/30/18120577/valve-steam-game-marketplace-revenue-split-new-rules-competition
+- https://developers.google.com/games/services/console/testpub
 - https://codeswholesale.com/blog/5-best-platforms-to-publish-your-indie-game/
 - https://ninichimusic.com/blog/2017/9/1/11-places-to-publish-release-your-indie-game
 - https://www.reddit.com/r/gamedev/comments/4hp06e/indie_devs_was_it_worth_it_to_publish_your_game/
