@@ -9,7 +9,6 @@ Tenir en compte també que certes condicions econòmiques al igual que directriu
 > - [GOG](#gog)
 > - [itch.io](#itch.io)
 > - [Humble Games](#humble-games)
-> - [GamersGate](#gamersgate)
 > - [Kongregate](#kongregate)
 2. [Plataformes de pagament](#2-plataformes-de-pagament)  
 > - [Steam](#steam)
@@ -67,10 +66,7 @@ Per a publicar un joc a Humble Games cal omplir un formulari informatiu on, entr
 
 > :pushpin: Publicació a Humble Games: https://itch.io/docs/general/abouthttps://www.humblegames.com/submit-a-game/
 
-## 1.4 GamersGate
-???
-
-## 1.5 Kongregate
+## Kongregate
 Kongregate es una pàgina web i aplicació de videojocs amb l'estructura i estil clàssic de les pàgines de videojocs en línia. Els jocs desenvolupats poden estar en Flash/HTML5/WebGL, Unity Web Player o Iframe i poden fer ús de l'API proporcionada per Kongregate. 
 
 Per publicar a la pàgina de Kongregate cal tenir un compte i crear una pàgina per al joc. Abans de fer-ho, cal assegurar-se de que el joc compleix [aquest checklist](https://docs.kongregate.com/docs/submission-checklist-1), o no serà aprovat en el procés de revisió. Addicionalment, per publicar a mòbil junt am Kongregate, cal omplir [aquest formulari](https://docs.google.com/forms/d/e/1FAIpQLSfhGdqeKc_4Ph_jisGIv0HM6nD7ouPSMCy58XYj8FTmNLwp5g/viewform?formkey=dF9wRXJWZGFPbXJCalJXdnAtWXdyS1E6MQ&ifq). 
