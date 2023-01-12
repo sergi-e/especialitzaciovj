@@ -1,12 +1,18 @@
 
 # Plataformes gratuïtes per publicar videojocs:
 ## GOG (Good Old Games) 
+GOG és un servici de venta i distribució de videojocs propietat de l'estudi CD PRojekt RED i especialitat en jocs per a ordinador. La principal característica és la distribució de jocs DRM-Free, és a dir, sense restriccions de drets. 
+
 Per tal de publicar el nostre videojoc a la plataforma GOG cal omplir un formulari on ens demanaran informació de nosaltres com a desenvolupadors, una breu descripció del joc amb vídeos del gameplay i screenshots, apart d'informació addicional sobre el funcionament d'aquest com: existència de microtransaccions,  possibles DLCs,...
 
-La retribució és 70%(GOG)/30%(Devs), igual que en Steam i altres. En el cas de GOG, està relacionada amb l'estudi CD Projekt Red, ja que comparteixen la mateixa empresa mare (Warsaw Stock Exchange). 
+La retribució és 70%(GOG)/30%(Devs), igual que en Steam i altres. 
 
-**NOTE**  
 > :pushpin: Formulari de publicació GOG: https://www.gog.com/indie
+<details>
+  <summary>Saber-ne més sobre el DRM</summary>
+  Moltes distribuidores (Steam), publishers (Ubisoft, Activision-Blizzard) i manufacturadors (Nintendo, Sony, Microsoft) fan ús del DRM per identificar les vendes online i registrar que, aquestes compres són tan sols llicències d'ús limitades segons consideren apropiades. Les publishers de jocs AAA acostumen a defensar el DRM en virtut d'evitar la pirateria, 
+ </details>
+  
 
 ## itch.io
 https://itch.io/developers
