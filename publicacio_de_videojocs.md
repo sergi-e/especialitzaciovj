@@ -1,5 +1,6 @@
 
 Cal tenir en compte les Rules and guidelines de cada plataforma. 
+Tenir en compte també que certes condicions econòmiques al igual que directrius varien segons la regió, no sols nostra, sinò també dels jugadors (per exemple a la Apple Store). 
 
 
 # Taula de continguts
@@ -90,11 +91,18 @@ El marge de benefici, com és habitual, és 70%(devs)/30%(Google Play). Si un jo
 
 ## Apple Store
 La plataforma de distribució per a dispositius amb sistema operatiu OsX, desenvolupada per Apple. 
-Abans de començar amb el procés de publicació, cal fer una ullada als [requisits tècnics i legals](https://developer.apple.com/app-store/review/guidelines/) de la tenda, ja que són més estrictes que a Google Play. Després cal  [crear un compte de desenvolupador](https://developer.apple.com/programs/enroll/) amb un cost 99$ (pagament anual).
+Abans de començar amb el procés de publicació, cal fer una ullada als [requisits tècnics i legals](https://developer.apple.com/app-store/review/guidelines/) de la tenda, ja que són més estrictes que a Google Play. Després cal  [crear un compte de desenvolupador](https://developer.apple.com/programs/enroll/) amb un cost 99$ (pagament anual). El marge de beneficis en la Apple Store es pràcticamente equivalent a l'estàndard: 70%(devs)/30%(Apple), tenint certes excepcions com un marge 85%/15% per a jocs amb subscripció amb més d'un any d'antiguitat. 
 
 El procediment per arribar a publicar en Apple Store pot resultar especialment complicat en un principi. [Ací](https://rocketbrush.com/blog/how-to-submit-mobile-game-app-to-app-store-guide) i [ací](https://www.thedroidsonroids.com/blog/how-to-submit-app-to-the-app-store-guide-and-checklist) trobarem dos guies molt detallades del procés a seguir, per tal de no ofuscar-nos. És important llegir-los amb antelació per comprendre cada pas. També és convenient llegir aquesta documentació oficial sobre el procés de [revisió](https://developer.apple.com/app-store/review/) i [submit](https://developer.apple.com/ios/submit/).
  
 ## Amazon AppStore
+Per acabar de copar el mercat mòbil, tenim la Amazon Appstore propietat de Amazon. 
+A diferència de Google Play i Apple Store, la creació d'un compte de desenvolupador és gratuita. El marge de beneficis és l'estàndard, 70%(devs)/30%(Amazon), existint la possibilitat d'aplicar per al programa de [Small Business](https://developer.amazon.com/apps-and-games/small-business-program), que oferiria la possibilitat de pujar el marge a un 80%/20% per als desenvolupadors que facturen menys de 1 milló USD anuals. La tenda també ofereix ajuda per gestionar [altres mètodes de monetització](https://developer.amazon.com/apps-and-games/services-and-apis/monetization), essencialment compres in-app i anuncis. 
+
+[Ací](https://developer.amazon.com/apps-and-games/app-submission) trobarem una checklist de coses a fer prèviament. Una vegada tot estigui preparat, podrem passar a pujar el joc a la tenda. [Ací](https://developer.amazon.com/docs/app-submission/submitting-apps-to-amazon-appstore.html) queda la documentació completa del procés. 
+
+> :pushpin: Documentació per publicar una app a Amazon Appstore: https://developer.amazon.com/apps-and-games
+
 https://developer.amazon.com/apps-and-games/app-submission
 https://developer.amazon.com/docs/app-submission/submitting-apps-to-amazon-appstore.html
 
@@ -131,6 +139,7 @@ Unreal Developer Network. UDN is available to developers that apply through Epic
 - https://support.humblebundle.com/hc/en-us/sections/200515154-Developer-FAQ
 - https://www.theverge.com/2018/11/30/18120577/valve-steam-game-marketplace-revenue-split-new-rules-competition
 - https://developers.google.com/games/services/console/testpub
+- https://www.statista.com/statistics/975776/revenue-split-leading-digital-content-store-worldwide/
 - https://www.thedroidsonroids.com/blog/how-to-submit-app-to-the-app-store-guide-and-checklist
 - https://codeswholesale.com/blog/5-best-platforms-to-publish-your-indie-game/
 - https://ninichimusic.com/blog/2017/9/1/11-places-to-publish-release-your-indie-game
