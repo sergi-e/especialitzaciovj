@@ -19,10 +19,16 @@ En un inici, itch.io retenia un 0% per cada venda realitzada, però des de 2015 
 
 Per a pujar un nou projecte cal tenir un compte a la pàgina i seleccionar l'opció adient al menú personal. Cal fer ús de [butler](https://itch.io/docs/butler/) per a pujar les actualitzacions dels jocs, ja que d'aquesta manera s'actualitzen els canvis i s'autogenera el patch. 
 
-> :pushpin: documentació de itch.io: https://itch.io/docs/general/about
+> :pushpin: Documentació de itch.io: https://itch.io/docs/general/about
 
-## Humble Bundle
-https://www.humblegames.com/submit-a-game/
+## Humble Games
+Humble Games és una altra tenda distribuidora més coneguda popularment pels anomenats "Humble Bundle", packs de jocs a preus molt reduïts que surten de manera periòdica, temàtica o per recollir diners per una causa benèfica. 
+
+Humble mostra predisposició per ajudar als desenvolupador ajudar a certs projectes amb recursos com: la figura del Humble Games Producer per orientar la producció, ajuda amb el desenvolupament multiplataforma, finançament pel manteniment dels desenvolupadors durant el procés. Aquests ajuts no són generalitzats, però la seua existència donant l'opció de mantenir total control creatiu i propietat de la IP al desenvolupador, poden ser determinants per certs jocs. 
+
+Per a publicar un joc a Humble Games cal omplir un formulari informatiu on, entre altres, cal entregar un pitch (proporcionen una plantilla per referència). El benefici és superior a l'estàndard, ja que es troba en un 75%(devs)/15%(Humble)/10%(beneficiència), sent la part de la beneficiència variable segons el projecte. 
+
+> :pushpin: Publicació a Humble Games: https://itch.io/docs/general/abouthttps://www.humblegames.com/submit-a-game/
 
 ## GamersGate
 ???
@@ -76,6 +82,7 @@ Unreal Developer Network. UDN is available to developers that apply through Epic
 ### REFERÈNCIES ADDICIONALS:
 https://www.elotrolado.net/wiki/Good_Old_Games
 https://wiki.gdevelop.io/gdevelop5/publishing/publishing-to-itch-io
+https://support.humblebundle.com/hc/en-us/sections/200515154-Developer-FAQ
 https://codeswholesale.com/blog/5-best-platforms-to-publish-your-indie-game/
 https://ninichimusic.com/blog/2017/9/1/11-places-to-publish-release-your-indie-game
 https://www.reddit.com/r/gamedev/comments/4hp06e/indie_devs_was_it_worth_it_to_publish_your_game/
