@@ -1,7 +1,8 @@
 
 Cal tenir en compte les Rules and guidelines de cada plataforma. 
 
-|# Taula de continguts
+|
+# Taula de continguts
 1. [Plataformes gratuïtes](#1-plataformes-gratuïtes)
 
   * [GOG](#gog)
@@ -24,7 +25,8 @@ Cal tenir en compte les Rules and guidelines de cada plataforma.
 5. [Altres qüestions](#altres-qüestions)
   * [Unity](#unity)
   * [Unreal Engine](#unreal-engine)
-6. [Altres referències](#altres-referències)|
+6. [Altres referències](#altres-referències)
+|
 
 # 1 Plataformes gratuïtes
 
