@@ -12,7 +12,7 @@ Cal tenir en compte les Rules and guidelines de cada plataforma.
 2. [Plataformes de pagament](#2-plataformes-de-pagament)  
 > - [Steam](#steam)
 3. [Publicació en dispositius mòbils](3-publicació-en-dispositius-mòbils)
-> - [Google Play App Store](#google-app-store)
+> - [Google Play App Store](#google-play-app-store)
 > - [Apple Store](#apple-store)
 > - [Amazon AppStore](#amazon-app-store)
 4. [Publicació en consoles i altres serveis](#4-publicació-en-consoles-i-altres-serveis)
