@@ -1,10 +1,12 @@
 
 # Plataformes gratuïtes per publicar videojocs:
-## GOG
-Per tal de publicar el nostre videojoc a la plataforma GOG cal omplir un formulari 
+## GOG (Good Old Games) 
+Per tal de publicar el nostre videojoc a la plataforma GOG cal omplir un formulari on ens demanaran informació de nosaltres com a desenvolupadors, una breu descripció del joc amb vídeos del gameplay i screenshots, apart d'informació addicional sobre el funcionament d'aquest com: existència de microtransaccions,  possibles DLCs,...
+
+La retribució és 70%(GOG)/30%(Devs), igual que en Steam i altres. En el cas de GOG, està relacionada amb l'estudi CD Projekt Red, ja que comparteixen la mateixa empresa mare (Warsaw Stock Exchange). 
 
 **NOTE**  
-> Formulari de publicació GOG: https://www.gog.com/indie
+> :pushpin: Formulari de publicació GOG: https://www.gog.com/indie
 
 ## itch.io
 https://itch.io/developers
@@ -20,6 +22,7 @@ https://developers.kongregate.com/
 # Plataformes de pagament per publicar videojocs:
 ## Steam
 https://partner.steamgames.com/steamdirect
+https://www.theverge.com/2018/11/30/18120577/valve-steam-game-marketplace-revenue-split-new-rules-competition
 
 
 # Publicació a dispositius mòbils
@@ -36,6 +39,7 @@ https://developer.amazon.com/docs/app-submission/submitting-apps-to-amazon-appst
 # Publicació en consoles i altres serveis específics
 ## Epic Games Store
   https://store.epicgames.com/en-US/publish
+  https://www.polygon.com/2018/12/4/18125498/epic-games-store-details-revenue-split-launch-date
 ## Nintendo Switch
   https://developer.nintendo.com/
   https://unity.com/solutions/nintendo-switch
