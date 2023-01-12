@@ -4,14 +4,13 @@ Cal tenir en compte les Rules and guidelines de cada plataforma.
 |
 # Taula de continguts
 1. [Plataformes gratuïtes](#1-plataformes-gratuïtes)
-
-  * [GOG](#gog)
-  * [itch.io](#itch.io)
-  * [Humble Games](#humble-games)
-  * [GamersGate](#gamersgate)
-  * [Kongregate](#kongregate)
+  - [GOG](#gog)
+  - [itch.io](#itch.io)
+  - [Humble Games](#humble-games)
+  - [GamersGate](#gamersgate)
+  - [Kongregate](#kongregate)
 2. [Plataformes de pagament](#2-plataformes-de-pagament)  
-  * [Steam](#steam)
+  - [Steam](#steam)
 3. [Publicació en dispositius mòbils](3-publicació-en-dispositius-mòbils)
   * [Google App Store](#google-app-store)
   * [Apple Store](#apple-store)
