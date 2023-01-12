@@ -1,16 +1,20 @@
 
 # Plataformes gratuïtes per publicar videojocs:
 ## GOG
-https://www.gog.com/indie
+Per a publicar el nostre videojoc a la plataforma GOG cal omplir un formulari 
+---
+**NOTE**  
+Formulari de publicació GOG: https://www.gog.com/indie
+---
 ## itch.io
 https://itch.io/developers
 https://wiki.gdevelop.io/gdevelop5/publishing/publishing-to-itch-io
 ## Humble Bundle
 https://www.humblegames.com/submit-a-game/
 ## GamersGate
+???
 ## Kongregate
 https://developers.kongregate.com/
-## Game Jolt
 
 
 # Plataformes de pagament per publicar videojocs:
@@ -42,10 +46,16 @@ https://developer.amazon.com/docs/app-submission/submitting-apps-to-amazon-appst
   https://www.scedev.net/
 ## Xbox One
 https://www.xbox.com/en-us/publish
+https://support.unity.com/hc/en-us/articles/205279729-How-can-I-access-the-Unity-Xbox-Forums-
 ## Game Pass
+???
 
+# Coses a tenir en compte amb Unity
+https://unity.com/solutions/create-games
 
-
+# Coses a tenir en compte amb Unreal Engine
+https://docs.unrealengine.com/4.26/en-US/SharingAndReleasing/
+Unreal Developer Network. UDN is available to developers that apply through Epic's developer program. It is a closed developer-only
 
 
 ### REFERÈNCIES ADDICIONALS:
