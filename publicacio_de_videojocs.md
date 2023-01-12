@@ -5,7 +5,7 @@ Cal tenir en compte les Rules and guidelines de cada plataforma.
 # Taula de continguts
 1. [Plataformes gratuïtes](#1-plataformes-gratuïtes)
 [GOG](#gog)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [itch.io](#itch.io)
+>> - [itch.io](#itch.io)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Humble Games](#humble-games)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [GamersGate](#gamersgate)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Kongregate](#kongregate)
