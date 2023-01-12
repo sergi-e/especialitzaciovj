@@ -103,9 +103,6 @@ A diferència de Google Play i Apple Store, la creació d'un compte de desenvolu
 
 > :pushpin: Documentació per publicar una app a Amazon Appstore: https://developer.amazon.com/apps-and-games
 
-https://developer.amazon.com/apps-and-games/app-submission
-https://developer.amazon.com/docs/app-submission/submitting-apps-to-amazon-appstore.html
-
 # 4 Publicació en consoles i altres serveis
 ## Epic Games Store
   https://store.epicgames.com/en-US/publish
