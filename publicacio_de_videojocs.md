@@ -1,21 +1,14 @@
 
 # Plataformes gratuïtes per publicar videojocs:
 ## GOG (Good Old Games) 
-GOG és un servici de venta i distribució de videojocs propietat de l'estudi CD PRojekt RED i especialitat en jocs per a ordinador. La principal característica és la distribució de jocs DRM-Free, és a dir, sense restriccions de drets. 
+GOG és un servici de venta i distribució de videojocs propietat de l'estudi CD PRojekt RED i especialitat en jocs per a ordinador. La principal característica és la distribució de jocs DRM-Free, és a dir, sense restriccions de drets i sense necessitat de cap client especial. Addicionalment, la plataforma tracta de garantir la compatibilitat entre plataformes (Windows, OSX i Linux) dels jocs que publica. 
 
-Per tal de publicar el nostre videojoc a la plataforma GOG cal omplir un formulari on ens demanaran informació de nosaltres com a desenvolupadors, una breu descripció del joc amb vídeos del gameplay i screenshots, apart d'informació addicional sobre el funcionament d'aquest com: existència de microtransaccions,  possibles DLCs,...
+A la tenda trobarem molts jocs antics difícils de trobar en cap altra, una mesura a valorar pel bé de la conservació del medi. No obstant, la tenda no es limita a aquests. Per tal de publicar el nostre videojoc a la plataforma GOG cal omplir un formulari on ens demanaran informació de nosaltres com a desenvolupadors, una breu descripció del joc amb vídeos del gameplay i screenshots, apart d'informació addicional sobre el funcionament d'aquest com: existència de microtransaccions,  possibles DLCs,...
 
-La retribució és 70%(GOG)/30%(Devs), igual que en Steam i altres. 
+La retribució coneguda és 70%(devs)/30%(GOG), igual que en Steam i altres, però cal tenir en compte que l'empresa dona poc a conéixer sobre les seues dades financeres. Cal destacar que l'acceptació a GOG pot ser més difícil que a altres tendes com Steam i és convenient enviar-ne una versió definitiva. Pot ser convenient, abans de la publicació del joc, moure's pels fòrums de la pàgina per donar-lo a conéixer. La tenda disposa d'un servici de suport al client i un sistema de devolució de 30 dies. 
 
 > :pushpin: Formulari de publicació GOG: https://www.gog.com/indie
-<details>
-  <summary>Saber-ne més sobre el DRM</summary>
-  Moltes distribuidores (Steam), publishers (Ubisoft, Activision-Blizzard) i manufacturadors (Nintendo, Sony, Microsoft) fan ús del DRM per identificar les vendes online i registrar que, aquestes compres són tan sols llicències d'ús limitades segons consideren apropiades. Les publishers de jocs AAA acostumen a defensar el DRM en virtut d'evitar la pirateria, però aquest no aporta gaire avantatges als usuaris, llevat del seguiment de certs assoliments o intercanvis als jocs. 
-  La compra d'un joc lliure de DRM permet realitzar còpies i instal·lacions a voluntat del propietari, però més enllà d'aquest punt, gran part de la polèmica amb el DRM va aparèixer quan les empreses començaren a distribuir els seus jocs amb l'obligatorietat d'estar en líniea permanentment per poder jugar, encara que sigui fora de línia ([article de Vandal al respecte](https://vandal.elespanol.com/noticia/1350698745/online-por-obligacion-los-juegos-que-enfadaron-a-la-comunidad/)).
-  https://www.hp.com/us-en/shop/tech-takes/gog-vs-steam-drm-pros-and-cons
-  https://www.elotrolado.net/wiki/Good_Old_Games
- </details>
-  
+
 
 ## itch.io
 https://itch.io/developers
@@ -72,5 +65,7 @@ Unreal Developer Network. UDN is available to developers that apply through Epic
 
 
 ### REFERÈNCIES ADDICIONALS:
+https://www.elotrolado.net/wiki/Good_Old_Games
 https://codeswholesale.com/blog/5-best-platforms-to-publish-your-indie-game/
 https://ninichimusic.com/blog/2017/9/1/11-places-to-publish-release-your-indie-game
+https://www.reddit.com/r/gamedev/comments/4hp06e/indie_devs_was_it_worth_it_to_publish_your_game/
