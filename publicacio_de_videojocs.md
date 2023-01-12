@@ -111,14 +111,20 @@ A diferència de Google Play i Apple Store, la creació d'un compte de desenvolu
 > :pushpin: Documentació per publicar una app a Amazon Appstore: https://developer.amazon.com/apps-and-games
 
 # 4 Publicació en consoles i altres serveis
+  Per tal de publicar en les consoles de les tres grans companyies, sempre han sigut necessaris els anomenats dev kits. Avuí en dia, aquesta publicació s'ha democratitzat lleugerament, ja que certes eines, middleware i SDKs són més accessibles que abans i de manera gratuïta. No obstant, l'obtenció del hardware de desenvolupament continua tenint condicions més estrictes.  A més a més, les directrius i especificacions que s'han de complir, són molt més estrictes qeu en les altres plataformes, i afecten no sols al rendiment del joc, sinò també al seu contingut. Aquest és revisat al detall, i és molt habitual haver de realitzar constants modificacions fins rebre l'aprovat  per part de la companyia. 
+
 ## Nintendo Switch
-  https://developer.nintendo.com/
-  https://unity.com/solutions/nintendo-switch
+  El procés de registre com a developer és totalment gratuit, i és possible tant com a individu com a part d'una companyia. Per tal d'obtenir una switch de desenvolupament cal estar registrat com a desenvolupador, tenir un acord amb Nintendo i pagar 450$ (una quantitat molt inferior al dev kit de la Wii U, que eren uns 2500$). 
+  Ambdós motors, Unity i Unreal Engine, tenen suport per al desenvolupament en Nintendo Switch. 
+
+> :pushpin: Tot sobre el sistema de developers de Nintendo: https://developer.nintendo.com/
+  
 ## Playstation 5
   https://support.unity.com/hc/en-us/articles/212064606-How-do-I-develop-to-PlayStation-platforms-
   https://register.playstation.net/partnership
   https://www.reddit.com/r/gamedev/comments/lt7bry/publishing_on_ps5_as_an_indie_developer/
   https://www.scedev.net/
+  https://xsolla.com/blog/score-dev-kits-for-xbox-playstation-and-nintendo
 ## Xbox One
 https://www.xbox.com/en-us/publish
 https://support.unity.com/hc/en-us/articles/205279729-How-can-I-access-the-Unity-Xbox-Forums-
@@ -128,6 +134,7 @@ https://support.unity.com/hc/en-us/articles/205279729-How-can-I-access-the-Unity
 # 5 Altres qüestions
 # Unity
 https://unity.com/solutions/create-games
+https://unity.com/solutions/nintendo-switch
 
 # Unreal Engine
 https://docs.unrealengine.com/4.26/en-US/SharingAndReleasing/
@@ -143,6 +150,7 @@ Unreal Developer Network. UDN is available to developers that apply through Epic
 - https://www.statista.com/statistics/975776/revenue-split-leading-digital-content-store-worldwide/
 - https://www.thedroidsonroids.com/blog/how-to-submit-app-to-the-app-store-guide-and-checklist
 - https://www.polygon.com/2018/12/4/18125498/epic-games-store-details-revenue-split-launch-date
+- http://nintendoeverything.com/switch-dev-talk-50000-yen-for-a-kit-capcom-wants-to-make-aaa-games-much-more/
 - https://codeswholesale.com/blog/5-best-platforms-to-publish-your-indie-game/
 - https://ninichimusic.com/blog/2017/9/1/11-places-to-publish-release-your-indie-game
 - https://www.reddit.com/r/gamedev/comments/4hp06e/indie_devs_was_it_worth_it_to_publish_your_game/
