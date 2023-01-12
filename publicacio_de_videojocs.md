@@ -3,7 +3,7 @@ Cal tenir en compte les Rules and guidelines de cada plataforma.
 
 # Taula de continguts
 1. [Plataformes gratuïtes per publicar videojocs](#1-plataformes-gratuïtes-per-publicar-videojocs)
-  1.1 [1.1 GOG (Good Old Games)](##1-1-gog-(good-old-games))
+  1.1 [1.1 GOG (Good Old Games)](#1-1-gog-(good-old-games))
 3. 
 4. 
 5. 
