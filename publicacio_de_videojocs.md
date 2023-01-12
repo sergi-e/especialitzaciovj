@@ -3,6 +3,7 @@
 ## GOG
 Per a publicar el nostre videojoc a la plataforma GOG cal omplir un formulari 
 ---
+
 **NOTE**  
 Formulari de publicació GOG: https://www.gog.com/indie
 
