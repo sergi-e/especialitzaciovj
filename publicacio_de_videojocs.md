@@ -89,7 +89,11 @@ El marge de benefici, com és habitual, és 70%(devs)/30%(Google Play). Si un jo
 > :pushpin: Documentació per publicar una app a Google Play:https://support.google.com/googleplay/android-developer/answer/9859152?hl=en i per la realització de tests: https://support.google.com/googleplay/android-developer/answer/9845334
 
 ## Apple Store
-https://developers.google.com/games/services/console/testpub
+La plataforma de distribució per a dispositius amb sistema operatiu OsX, desenvolupada per Apple. 
+Abans de començar amb el procés de publicació, cal fer una ullada als [requisits tècnics i legals](https://developer.apple.com/app-store/review/guidelines/) de la tenda, ja que són més estrictes que a Google Play. Després cal  [crear un compte de desenvolupador](https://developer.apple.com/programs/enroll/) amb un cost 99$ (pagament anual).
+
+El procediment per arribar a publicar en Apple Store pot resultar especialment complicat en un principi. [Ací](https://rocketbrush.com/blog/how-to-submit-mobile-game-app-to-app-store-guide) i [ací](https://www.thedroidsonroids.com/blog/how-to-submit-app-to-the-app-store-guide-and-checklist) trobarem dos guies molt detallades del procés a seguir, per tal de no ofuscar-nos. És important llegir-los amb antelació per comprendre cada pas. També és convenient llegir aquesta documentació oficial sobre el procés de [revisió](https://developer.apple.com/app-store/review/) i [submit](https://developer.apple.com/ios/submit/).
+ 
 https://developer.apple.com/ios/submit/
 ## Amazon AppStore
 https://developer.amazon.com/apps-and-games/app-submission
@@ -128,6 +132,7 @@ Unreal Developer Network. UDN is available to developers that apply through Epic
 - https://support.humblebundle.com/hc/en-us/sections/200515154-Developer-FAQ
 - https://www.theverge.com/2018/11/30/18120577/valve-steam-game-marketplace-revenue-split-new-rules-competition
 - https://developers.google.com/games/services/console/testpub
+- https://www.thedroidsonroids.com/blog/how-to-submit-app-to-the-app-store-guide-and-checklist
 - https://codeswholesale.com/blog/5-best-platforms-to-publish-your-indie-game/
 - https://ninichimusic.com/blog/2017/9/1/11-places-to-publish-release-your-indie-game
 - https://www.reddit.com/r/gamedev/comments/4hp06e/indie_devs_was_it_worth_it_to_publish_your_game/
