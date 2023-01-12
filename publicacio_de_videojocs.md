@@ -10,7 +10,10 @@ La retribució és 70%(GOG)/30%(Devs), igual que en Steam i altres.
 > :pushpin: Formulari de publicació GOG: https://www.gog.com/indie
 <details>
   <summary>Saber-ne més sobre el DRM</summary>
-  Moltes distribuidores (Steam), publishers (Ubisoft, Activision-Blizzard) i manufacturadors (Nintendo, Sony, Microsoft) fan ús del DRM per identificar les vendes online i registrar que, aquestes compres són tan sols llicències d'ús limitades segons consideren apropiades. Les publishers de jocs AAA acostumen a defensar el DRM en virtut d'evitar la pirateria, 
+  Moltes distribuidores (Steam), publishers (Ubisoft, Activision-Blizzard) i manufacturadors (Nintendo, Sony, Microsoft) fan ús del DRM per identificar les vendes online i registrar que, aquestes compres són tan sols llicències d'ús limitades segons consideren apropiades. Les publishers de jocs AAA acostumen a defensar el DRM en virtut d'evitar la pirateria, però aquest no aporta gaire avantatges als usuaris, llevat del seguiment de certs assoliments o intercanvis als jocs. 
+  La compra d'un joc lliure de DRM permet realitzar còpies i instal·lacions a voluntat del propietari, però més enllà d'aquest punt, gran part de la polèmica amb el DRM va aparèixer quan les empreses començaren a distribuir els seus jocs amb l'obligatorietat d'estar en líniea permanentment per poder jugar, encara que sigui fora de línia ([article de Vandal al respecte](https://vandal.elespanol.com/noticia/1350698745/online-por-obligacion-los-juegos-que-enfadaron-a-la-comunidad/)).
+  https://www.hp.com/us-en/shop/tech-takes/gog-vs-steam-drm-pros-and-cons
+  https://www.elotrolado.net/wiki/Good_Old_Games
  </details>
   
 
