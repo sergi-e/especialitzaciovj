@@ -2,11 +2,17 @@
 Cal tenir en compte les Rules and guidelines de cada plataforma. 
 
 # Taula de continguts
-1. [Plataformes gratuïtes per publicar videojocs)](#1-plataformes-gratuïtes-per-publicar-videojocs)
+1. [Plataformes gratuïtes per publicar videojocs](#1-plataformes-gratuïtes-per-publicar-videojocs)
+  1.1 [1.1 GOG (Good Old Games)](##1.1-gog-(good-old-games))
+3. 
+4. 
+5. 
+6. 
+7. 
 
 # 1 Plataformes gratuïtes per publicar videojocs
 
-## 1-1 GOG (Good Old Games) 
+## 1.1 GOG (Good Old Games) 
 GOG és un servici de venta i distribució de videojocs propietat de l'estudi CD PRojekt RED i especialitat en jocs per a ordinador. La principal característica és la distribució de jocs DRM-Free, és a dir, sense restriccions de drets i sense necessitat de cap client especial. Addicionalment, la plataforma tracta de garantir la compatibilitat entre plataformes (Windows, OSX i Linux) dels jocs que publica. 
 
 A la tenda trobarem molts jocs antics difícils de trobar en cap altra, una mesura a valorar pel bé de la conservació del medi. No obstant, la tenda no es limita a aquests. Per tal de publicar el nostre videojoc a la plataforma GOG cal omplir un formulari on ens demanaran informació de nosaltres com a desenvolupadors, una breu descripció del joc amb vídeos del gameplay i screenshots, apart d'informació addicional sobre el funcionament d'aquest com: existència de microtransaccions,  possibles DLCs,...
@@ -48,7 +54,7 @@ Els jocs en Kongregate són gratuïts, de manera que el benefici ve donat d'una 
 
 > :pushpin: Publicació a Kongregate: https://developers.kongregate.com/ i https://blog.kongregate.com/
 
-# 2. Plataformes de pagament per publicar videojocs:
+# 2. Plataformes de pagament per publicar videojocs
 ## 2.1 Steam
 Steam ha sigut la plataforma de videojocs de referència durant molts anys, pràcticament en una situació de monopoli. Fa uns anys existia el programa de Steam Greenlight on els developers podien pujar qualsevol joc a la plataforma, i eren els propis usuaris escollien els que eren publicats, però degut a la facilitat amb que aquest sistema podia ser explotat, es va canviar sustancialment. 
 
@@ -96,7 +102,7 @@ https://docs.unrealengine.com/4.26/en-US/SharingAndReleasing/
 Unreal Developer Network. UDN is available to developers that apply through Epic's developer program. It is a closed developer-only
 
 
-# 7. Altres referències:
+# 6. Altres referències
 https://www.elotrolado.net/wiki/Good_Old_Games
 https://wiki.gdevelop.io/gdevelop5/publishing/publishing-to-itch-io
 https://support.humblebundle.com/hc/en-us/sections/200515154-Developer-FAQ
