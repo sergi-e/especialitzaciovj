@@ -3,7 +3,8 @@ Cal tenir en compte les Rules and guidelines de cada plataforma.
 
 # Taula de continguts
 1. [Plataformes gratuïtes per publicar videojocs](#1-plataformes-gratuïtes-per-publicar-videojocs)
-  1.1 [1.1 GOG (Good Old Games)](#1-1-gog-(good-old-games))
+
+  1.1 [GOG](#1-1-gog)
 3. 
 4. 
 5. 
@@ -12,8 +13,8 @@ Cal tenir en compte les Rules and guidelines de cada plataforma.
 
 # 1 Plataformes gratuïtes per publicar videojocs
 
-## 1-1 GOG (Good Old Games) 
-GOG és un servici de venta i distribució de videojocs propietat de l'estudi CD PRojekt RED i especialitat en jocs per a ordinador. La principal característica és la distribució de jocs DRM-Free, és a dir, sense restriccions de drets i sense necessitat de cap client especial. Addicionalment, la plataforma tracta de garantir la compatibilitat entre plataformes (Windows, OSX i Linux) dels jocs que publica. 
+## 1-1 GOG
+GOG (Good Old Games) és un servici de venta i distribució de videojocs propietat de l'estudi CD PRojekt RED i especialitat en jocs per a ordinador. La principal característica és la distribució de jocs DRM-Free, és a dir, sense restriccions de drets i sense necessitat de cap client especial. Addicionalment, la plataforma tracta de garantir la compatibilitat entre plataformes (Windows, OSX i Linux) dels jocs que publica. 
 
 A la tenda trobarem molts jocs antics difícils de trobar en cap altra, una mesura a valorar pel bé de la conservació del medi. No obstant, la tenda no es limita a aquests. Per tal de publicar el nostre videojoc a la plataforma GOG cal omplir un formulari on ens demanaran informació de nosaltres com a desenvolupadors, una breu descripció del joc amb vídeos del gameplay i screenshots, apart d'informació addicional sobre el funcionament d'aquest com: existència de microtransaccions,  possibles DLCs,...
 
