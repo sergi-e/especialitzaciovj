@@ -5,9 +5,10 @@ Tenir en compte també que certes condicions econòmiques al igual que directriu
 
 # Taula de continguts
 1. [Plataformes gratuïtes](#1-plataformes-gratuïtes)
-[GOG](#gog)
+> - [Epic Games Store](#epic-games-store)
+> - [GOG](#gog)
 > - [itch.io](#itch.io)
-> -  [Humble Games](#humble-games)
+> - [Humble Games](#humble-games)
 > - [GamersGate](#gamersgate)
 > - [Kongregate](#kongregate)
 2. [Plataformes de pagament](#2-plataformes-de-pagament)  
@@ -17,7 +18,6 @@ Tenir en compte també que certes condicions econòmiques al igual que directriu
 > - [Apple Store](#apple-store)
 > - [Amazon AppStore](#amazon-app-store)
 4. [Publicació en consoles i altres serveis](#4-publicació-en-consoles-i-altres-serveis)
-> - [Epic Games Store](#epic-games-store)
 > - [Nintendo Switch](#nintendo-switch)
 > - [Playstation 5](#playstation-5)
 > - [Xbox One](#xbox-one)
@@ -29,7 +29,13 @@ Tenir en compte també que certes condicions econòmiques al igual que directriu
 
 
 # 1 Plataformes gratuïtes
-
+## Epic Games Store
+  La Epic Games Store és la tenda digital desenvolupada per Epic Games, compatible per a dispositius Windows i Mac. Encara i que ho podriem pensar, els jocs disponibles a la tenda no han de ser necessàriament desenvolupats en Unreal Engine (propietat d'Epic). No obstant, els jocs basats en UE que estiguin a la venda en Epic Games Store, no tenen que pagar els royalties del 5% en l'ús del motor (tan sols en aquesta tenda, sí s'han de pagar en qualsevol altra).  
+  
+  La tenda té certs factors diferencials, com un major marge de benefici, 88%(devs)/12%(Epic) o el programa [Support-A-Creator](https://www.epicgames.com/affiliate/en-US/overview) per apropar creadors de contingut als developers. Per tal de sol·licitar la publicació d'un joc cal omplir [aquest](https://store.epicgames.com/es-ES/publish/form) formulari. 
+  
+  Actualment trobem a la tenda la beta tancada d'un sistema de self-publishing per poder dirigir la pàgina de tenda, preus, ofertes i actualitzacions del jocs amb major independència. Els detalls i possible resultats d'aquest sistema encara són desconeguts. 
+  
 ## GOG
 GOG (Good Old Games) és un servici de venta i distribució de videojocs propietat de l'estudi CD PRojekt RED i especialitat en jocs per a ordinador. La principal característica és la distribució de jocs DRM-Free, és a dir, sense restriccions de drets i sense necessitat de cap client especial. Addicionalment, la plataforma tracta de garantir la compatibilitat entre plataformes (Windows, OSX i Linux) dels jocs que publica. 
 
@@ -104,15 +110,6 @@ A diferència de Google Play i Apple Store, la creació d'un compte de desenvolu
 > :pushpin: Documentació per publicar una app a Amazon Appstore: https://developer.amazon.com/apps-and-games
 
 # 4 Publicació en consoles i altres serveis
-## Epic Games Store
-  La Epic Games Store és la tenda digital desenvolupada per Epic Games, compatible per a dispositius Windows i Mac. Encara i que ho podriem pensar, els jocs disponibles a la tenda no han de ser necessàriament desenvolupats en Unreal Engine (propietat d'Epic). No obstant, els jocs basats en UE que estiguin a la venda en Epic Games Store, no tenen que pagar els royalties del 5% en l'ús del motor (tan sols en aquesta tenda, sí s'han de pagar en qualsevol altra).  
-  
-  La tenda té certs factors diferencials, com un major marge de benefici, 88%(devs)/12%(Epic) o el programa [Support-A-Creator](https://www.epicgames.com/affiliate/en-US/overview) per apropar creadors de contingut als developers. Per tal de sol·licitar la publicació d'un joc cal omplir [aquest](https://store.epicgames.com/es-ES/publish/form) formulari. 
-  
-  Actualment trobem a la tenda la beta tancada d'un sistema de self-publishing per poder dirigir la pàgina de tenda, preus, ofertes i actualitzacions del jocs amb major independència. Els detalls i possible resultats d'aquest sistema encara són desconeguts. 
-  
-  https://store.epicgames.com/en-US/publish
-  https://www.polygon.com/2018/12/4/18125498/epic-games-store-details-revenue-split-launch-date
 ## Nintendo Switch
   https://developer.nintendo.com/
   https://unity.com/solutions/nintendo-switch
@@ -144,6 +141,7 @@ Unreal Developer Network. UDN is available to developers that apply through Epic
 - https://developers.google.com/games/services/console/testpub
 - https://www.statista.com/statistics/975776/revenue-split-leading-digital-content-store-worldwide/
 - https://www.thedroidsonroids.com/blog/how-to-submit-app-to-the-app-store-guide-and-checklist
+- https://www.polygon.com/2018/12/4/18125498/epic-games-store-details-revenue-split-launch-date
 - https://codeswholesale.com/blog/5-best-platforms-to-publish-your-indie-game/
 - https://ninichimusic.com/blog/2017/9/1/11-places-to-publish-release-your-indie-game
 - https://www.reddit.com/r/gamedev/comments/4hp06e/indie_devs_was_it_worth_it_to_publish_your_game/
