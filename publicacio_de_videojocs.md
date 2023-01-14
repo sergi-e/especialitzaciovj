@@ -136,6 +136,7 @@ A diferència de Google Play i Apple Store, la creació d'un compte de desenvolu
   Els avantatges i inconvenients de cadascun d'aquests motors són temes complexes i per l'elecció d'un o altre cal tenir en compte molts factors. Per parlar del que ocupa aquesta publicació, cal tenir en compte que la publicació amb Unity és gratuïta mentre els beneficis no superen els 100.000$, mentre que el desenvolupament en Unreal Engine implica el pagament de royalties. Els termes i condicions de les llicències són molt importants i cal llegir-los i comprendre-los en la seua totalitat, ja que certs detalls moltes vegades passem per damunt detalls de gran repercusió. Per exemple, amb Unity en aplegar a cert benefici cal pagar una llicència per cada membre desenvolupador de l'equip; d'altra banda, en Unreal Engine, els royalties es calculen en base als beneficis totals del joc, és a dir, contant també el marge de beneficis qeu pugui tener una distribuidora con GOG, Steam o Epic.
 
 > :pushpin: Suport de Unity per desenvolupadors: https://unity.com/solutions/create-games
+
 > :pushpin: Suport de Unity per desenvolupadors: https://docs.unrealengine.com/4.26/en-US/SharingAndReleasing/
 
 
