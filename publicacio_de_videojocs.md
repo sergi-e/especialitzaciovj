@@ -107,7 +107,8 @@ A diferència de Google Play i Apple Store, la creació d'un compte de desenvolu
 > :pushpin: Documentació per publicar una app a Amazon Appstore: https://developer.amazon.com/apps-and-games
 
 # 4 Publicació en consoles i altres serveis
-  Per tal de publicar en les consoles de les tres grans companyies, sempre han sigut necessaris els anomenats dev kits. Avuí en dia, aquesta publicació s'ha democratitzat lleugerament, ja que certes eines, middleware i SDKs són més accessibles que abans i de manera gratuïta. No obstant, l'obtenció del hardware de desenvolupament continua tenint condicions més estrictes.  A més a més, les directrius i especificacions que s'han de complir, són molt més estrictes qeu en les altres plataformes, i afecten no sols al rendiment del joc, sinò també al seu contingut. Aquest és revisat al detall, i és molt habitual haver de realitzar constants modificacions fins rebre l'aprovat  per part de la companyia. 
+  Per tal de publicar en les consoles de les tres grans companyies, sempre han sigut necessaris els anomenats dev kits, SDKs proporcionats per les empreses amb eines i frameworks de treball. Avuí en dia, aquesta publicació s'ha democratitzat lleugerament, ja que certes eines, middleware i SDKs són més accessibles que abans i de manera gratuïta. No obstant, l'obtenció del hardware de desenvolupament continua tenint condicions més estrictes. Aquest és habitualment necessari, ja que es tracta de sistemes molt diferents a un desenvolupament habitual (XBox utilitza una variació de Windows, però PlayStation i Switch fan ús de modificacions de Free BSD), encara que moltes vegades es fa servir emuladors per qüestions econòmiques. Les directrius i especificacions que s'han de complir, són molt més estrictes qeu en les altres plataformes, i afecten no sols al rendiment del joc, sinò també al seu contingut. Aquest és revisat al detall, i és molt habitual haver de realitzar constants modificacions fins rebre l'aprovat  per part de la companyia. 
+  Per últim, encara que no és causa de les pròpies empreses de consoles, caldria fer un ull detallat a la llicència de Unity/Unreal Engine que tenim abans de considerar publicar en aquestes, ja que és altament probable que necessitem una llicència professional.   
 
 ## Nintendo Switch
   El procés de registre com a developer és totalment gratuit, i és possible tant com a individu com a part d'una companyia. Per tal d'obtenir una switch de desenvolupament cal estar registrat com a desenvolupador, tenir un acord amb Nintendo i pagar 450$ (una quantitat molt inferior al dev kit de la Wii U, que eren uns 2500$). 
@@ -116,25 +117,26 @@ A diferència de Google Play i Apple Store, la creació d'un compte de desenvolu
 > :pushpin: Tot sobre el sistema de developers de Nintendo: https://developer.nintendo.com/
   
 ## Playstation 5
-  https://support.unity.com/hc/en-us/articles/212064606-How-do-I-develop-to-PlayStation-platforms-
-  https://register.playstation.net/partnership
-  https://www.reddit.com/r/gamedev/comments/lt7bry/publishing_on_ps5_as_an_indie_developer/
-  https://www.scedev.net/
-  https://xsolla.com/blog/score-dev-kits-for-xbox-playstation-and-nintendo
+  Els developers de Playstation entre dintre de l'anomenat programa de Playstation Partners. Quan ens registrem en aquestes programa, rebrem accés a la DevNet (xarxa per desenvolupadors), un sistema de tickets per comunicar-nos amb empleats de Sony i una llicència pro de Unity tan sols aplicable per desenvolupaments per aquesta consola. A Playstation Partners es diferencia entre tres tipus de partners: Game Publishers/Developers, Tools & Middleware developers i Academia, que pot ser una opció interessant per equips d'estudiants. El formulari d'inscripció és més estricte i complet que el que podem trobar per Nintendo. 
+  Sobre el cost dels dev kits, hi ha moltes opcions que poden anar fins als 2.500-10.000$, però sembla haver-hi molts desenvolupadors indie que han rebut el paquet de manera gratuïta, i molts altres que senzillament, estan satisfets desenvolupant amb emuladors de PC. Cal mencionar-hi que, dintre del programa de Partners, Playstation ofereix opcions per autopublicar els jocs, que poden optar a ajudes econòmiques entre altres. 
+  
+> :pushpin: Pàgina oficial del programa partners: https://partners.playstation.net/ i altres recursos: https://www.scedev.net/
+  
 ## Xbox One
-https://www.xbox.com/en-us/publish
-https://support.unity.com/hc/en-us/articles/205279729-How-can-I-access-the-Unity-Xbox-Forums-
+  En el cas de XBox tenim dos programes diferents per desenvolupadors: ID2XBOX i el Creators Program, sent el primer més enfocat a developers i el segon a estudiants i primers aproximaments. 
+  El programa de creadors té un cost de 14€, però un formulari d'entrada molt senzill. Ofereix la integració de serveis de Xbox en el joc i opcions reduïdes de testeig i desenvolupament, per exemple provar el joc en mode desenvolupador mitjançant una consola domèstica (cosa que no ocorre amb Playstation ni Switch). Tan sols és necessari complir les polítiques de la tenda per poder publicar, però els jocs apareixeran en una secció separada de la tenda. 
+  El programa ID@Xbox requereix la presentació d'una proposta formal més estricta, però és gratuït i dona accés complet al es eines de desenvolupament sense cost afegit. 
+
+> :pushpin: Programes de desenvolupadors per XBox: https://www.xbox.com/en-US/publish
+
 ## Game Pass
-???
+  El cas de Game Pass és molt particular, ja que es tracta d'un format de jocs per subscripció que ha provocat un impacte en certa manera similar al que va provocar Steam en el seu moment. Hi ha molt a parlar sobre aquest servici i les seues conseqüències en el consum i desenvolupament de videojocs, però pel que ocupa a aquest article tan sols mencionar dos punts. Primerament, és la pròpia Xbox qui desenvolupa s'ocupa d'escollir els títols que vol publicar al Game Pass. En segon terme, certs moviments de la companyia, com la compra d'altres estudis, apunten a desenvolupaments orientats des del principi a una cronologia calculada per al Game Pass. 
 
-# 5 Altres qüestions
-# Unity
-https://unity.com/solutions/create-games
-https://unity.com/solutions/nintendo-switch
+# 5 Publicació amb Unity i Unreal Engine
+  Els avantatges i inconvenients de cadascun d'aquests motors són temes complexes i per l'elecció d'un o altre cal tenir en compte molts factors. Per parlar del que ocupa aquesta publicació, cal tenir en compte que la publicació amb Unity és gratuïta mentre els beneficis no superen els 100.000$, mentre que el desenvolupament en Unreal Engine implica el pagament de royalties. Els termes i condicions de les llicències són molt importants i cal llegir-los i comprendre-los en la seua totalitat, ja que certs detalls moltes vegades passem per damunt detalls de gran repercusió. Per exemple, amb Unity en aplegar a cert benefici cal pagar una llicència per cada membre desenvolupador de l'equip; d'altra banda, en Unreal Engine, els royalties es calculen en base als beneficis totals del joc, és a dir, contant també el marge de beneficis qeu pugui tener una distribuidora con GOG, Steam o Epic.
 
-# Unreal Engine
-https://docs.unrealengine.com/4.26/en-US/SharingAndReleasing/
-Unreal Developer Network. UDN is available to developers that apply through Epic's developer program. It is a closed developer-only
+> :pushpin: Suport de Unity per desenvolupadors: https://unity.com/solutions/create-games
+> :pushpin: Suport de Unity per desenvolupadors: https://docs.unrealengine.com/4.26/en-US/SharingAndReleasing/
 
 
 # 6 Altres referències
@@ -148,5 +150,7 @@ Unreal Developer Network. UDN is available to developers that apply through Epic
 - https://www.polygon.com/2018/12/4/18125498/epic-games-store-details-revenue-split-launch-date
 - http://nintendoeverything.com/switch-dev-talk-50000-yen-for-a-kit-capcom-wants-to-make-aaa-games-much-more/
 - https://codeswholesale.com/blog/5-best-platforms-to-publish-your-indie-game/
+- https://www.polygon.com/2013/7/24/4553842/so-how-much-does-it-cost-to-develop-for-playstation-4
+- https://xsolla.com/blog/score-dev-kits-for-xbox-playstation-and-nintendo
 - https://ninichimusic.com/blog/2017/9/1/11-places-to-publish-release-your-indie-game
 - https://www.reddit.com/r/gamedev/comments/4hp06e/indie_devs_was_it_worth_it_to_publish_your_game/
