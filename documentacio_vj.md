@@ -2,18 +2,10 @@
 # Documentació de videojocs 
 Mantenir una bona documentació pot requerir molt de temps per part de tots els desenvolupadors, però és un procés fonamental per a la producció, sobre tot a mesura que augmentem la mida de l'equip. Hi ha tantes metodologies i sistemes per redactar i mantenir la documentació com equips. De cap manera poden tenir el mateix fluxe de treball una gran empresa i un equip de tres desenvolupadors en un estudi indie, però aquestes diferències no deurien donar-se per un desconeixement o abandonament de la documentació, sinò com una adaptació d'aquesta a les necessitats específiques de l'equip. 
 
-Aquest article tracta de recopilar algunes de les eines i tendències més habituals de manera que els desenvolupadors puguen escollir, trobar o adaptar el sistema que millor els funcione. A més d'obtenir un coneixement base sobre la indústria que pugui ser d'utilitat per començar a treballar en aquesta. Alguns dels documents presentats tenen noms específics, com per exemple el pitch o el post-mortem, ja que són àmpliament utilitzats en la indústria. D'altres no tenen un nom ni format específic, ja que depenen àmpliament de les condicions del desenvolupament, pero reuneixen certs factors que cal documentar.  
+Aquest article tracta de recopilar algunes de les eines i tendències més habituals de manera que els desenvolupadors puguen escollir, trobar o adaptar el sistema que millor els funcione. A més d'obtenir un coneixement base sobre la indústria que pugui ser d'utilitat per començar a treballar en aquesta. Alguns dels documents presentats tenen noms específics, com per exemple el pitch o el post-mortem, ja que són àmpliament utilitzats en la indústria. D'altres no tenen un nom ni format específic, ja que depenen àmpliament de les condicions del desenvolupament, pero reuneixen certs factors que cal documentar.
 
-<div class="alert alert-danger" role="alert">
-    <div class="row vertical-align">
-        <div class="col-xs-1 text-center">
-            <i class="fa fa-exclamation-triangle fa-2x"></i>
-        </div>
-        <div class="col-xs-11">
-                <strong>Tot i que certs noms com "Game Design Document" són recurrents en la indústria, no hi ha cap consens en aquests. Els exemples que trobem adjunts en aquest article són tan sols un exemple recopilat.</strong>                   
-        </div>   
-    </div> 
-</div>
+| :warning: Tot i que certs noms com "Game Design Document" són recurrents en la indústria, no hi ha cap consens en aquests. Els exemples que trobem adjunts en aquest article són tan sols un exemple recopilat.</strong>   |
+| --- |
 
 ## Taula de continguts
 1. [Què i per què documentar](#què-i-per-què-documentar)
