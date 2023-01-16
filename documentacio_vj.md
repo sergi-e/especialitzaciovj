@@ -31,7 +31,7 @@ Aquest article tracta de recopilar algunes de les eines i tendències més habit
 
 3.2 [Documentació de producció](#3-2-documentació-de-producció)
 > - [Documentació de feature](#documentació-de-feature)
-> - [Asset tracking](#asset-tracking]
+> - [Asset tracking](#asset-tracking)
 > - [Screenshots i gameplay](#screenshots-i-gameplay)
 > - [Documentació àgil](#documentació-àgil)
 > - [Feedback i estàndards](#feedback-i-estàndards)
