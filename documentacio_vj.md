@@ -15,12 +15,36 @@ Aquest article tracta de recopilar algunes de les eines i tendències més habit
 > - [Entrevistes i transcripcions](#entrevistes-i-transcripcions)
 
 3.1 [Documentació de preproducció](#3-1-documentació-de-preproducció)
-
+> - [Pitch](#pitch)
+> - [Game Design Document](#game-design-document)
+> - [Documents de narrativa](#documents-de-narrativa)
+> - [Concept art](#concept-art)
+> - [Bíblia d'art](#bíblia-d'art)
+> - [Bíblia de món](#bíblia-de-món)
+> - [Documentació de nivells](#documentació-de-nivells)
+> - [Gameflow overview](#gameflow-overview)
+> - [UI flowchart](#ui-flowchart)
+> - [Technical Design Document](#technical-design-document)
+> - [Prototipat](#prototipat)
+> - [Documentació oficial](#documentació-oficial)
+> - [Documentació d'administració](documentació-d'administració)
 
 3.2 [Documentació de producció](#3-2-documentació-de-producció)
-
+> - [Documentació de feature](#documentació-de-feature)
+> - [Asset tracking](#asset-tracking]
+> - [Screenshots i gameplay](#screenshots-i-gameplay)
+> - [Documentació àgil](#documentació-àgil)
+> - [Feedback i estàndards](#feedback-i-estàndards)
+> - [Game builds](#game-builds)
+> - [Documentació de Q&A](#documentació-de-q&a)
 
 3.3 [Documentació de postproducció](#3-3-documentació-de-postproducció)
+> - [Documentació de Q&A](#documentació-de-q&a)
+> - [Grups focus](grups-focus)
+> - [Documentació de publicació](#documentació-de-publicació)
+> - [Gold Master Candidate build](#gold-master-candidate-build)
+> - [Archive](#archive)
+> - [Post-mortem](#post-mortem)
 
 ---
 
@@ -41,24 +65,41 @@ Utilitat: oficial, funcional, entregable, administrativa.
 
 ## 3-1 Documentació de preproducció
 ### Pitch
-### Demo
 ### Schedule + Cash flow
-### Evaluation + Contract + Key deliverables
-### Game Design Document + apèndixs
+### Game Design Document
++ apèndixs
+### Documents de narrativa
+### Concept art
+### Bíblia d'art
+### Bíblia de món
+### Documentació de nivells
+### Gameflow overview
+### UI flowchart
+### Technical Design Document
 ### Prototipat
++ paper designs
+### Documentació oficial
+Evaluation + Contract + Key deliverables
+### Documentació d'administració
+Contractacions, riscos, calendaris... 
+Schedule + cash flow
 
 ## 3-2 Documentació de producció
+### Documentació de feature
 PRD --> Feature proposal --> Spec
 ### Asset tracking
 ### Screenshots i gameplay
 ### Documentació àgil
   Whiteboards, scrums... 
-### Milestone feedback + Vendor standards
-### Game build + notes
-### Q&A
+### Feedback i estàndards
+Milestone feedback + Vendor standards
+### Game builds
++ notes
+### Documentació de Q&A
 
 ## 3-3 Documentació de postproducció
-### Bug database, burn-down chart, Q&A
+### Documentació de Q&A
+Bug database, burn-down chart, Q&A
 ### Grups focus
 ### Documentació de publicació
 ### Gold Master Candidate build
