@@ -4,7 +4,7 @@ Mantenir una bona documentació pot requerir molt de temps per part de tots els 
 
 Aquest article tracta de recopilar algunes de les eines i tendències més habituals de manera que els desenvolupadors puguen escollir, trobar o adaptar el sistema que millor els funcione. A més d'obtenir un coneixement base sobre la indústria que pugui ser d'utilitat per començar a treballar en aquesta. Alguns dels documents presentats tenen noms específics, com per exemple el pitch o el post-mortem, ja que són àmpliament utilitzats en la indústria. D'altres no tenen un nom ni format específic, ja que depenen àmpliament de les condicions del desenvolupament, pero reuneixen certs factors que cal documentar.
 
-| :warning: Tot i que certs noms com "Game Design Document" són recurrents en la indústria, no hi ha cap consens en aquests. Els exemples que trobem adjunts en aquest article són tan sols un exemple recopilat. :warning: |
+| :warning: Tot i que certs noms com "Game Design Document" són recurrents en la indústria, no hi ha cap consens en el format d'aquests. Els exemples que trobem adjunts en aquest article són senzillament una possible via de resoldre'ls. :warning: |
 | --- |
 
 ## Taula de continguts
