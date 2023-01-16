@@ -24,6 +24,7 @@ Aquest article tracta de recopilar algunes de les eines i tendències més habit
 > - [Documentació de nivells](#documentació-de-nivells)
 > - [Gameflow overview](#gameflow-overview)
 > - [UI flowchart](#ui-flowchart)
+> - [Player persona](#player-persona)
 > - [Technical Design Document](#technical-design-document)
 > - [Prototipat](#prototipat)
 > - [Documentació oficial](#documentació-oficial)
@@ -75,6 +76,7 @@ Utilitat: oficial, funcional, entregable, administrativa.
 ### Documentació de nivells
 ### Gameflow overview
 ### UI flowchart
+### Player persona
 ### Technical Design Document
 ### Prototipat
 + paper designs
@@ -90,7 +92,7 @@ PRD --> Feature proposal --> Spec
 ### Asset tracking
 ### Screenshots i gameplay
 ### Documentació àgil
-  Whiteboards, scrums... 
+  Whiteboards/Kanban, planificació de sprint, PBI, dailies... 
 ### Feedback i estàndards
 Milestone feedback + Vendor standards
 ### Game builds
