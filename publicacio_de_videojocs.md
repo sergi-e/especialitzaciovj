@@ -1,9 +1,9 @@
 
+# Publicació de videojocs 
 Cal tenir en compte les Rules and guidelines de cada plataforma. 
 Tenir en compte també que certes condicions econòmiques al igual que directrius varien segons la regió, no sols nostra, sinò també dels jugadors (per exemple a la Apple Store). 
 
-
-# Taula de continguts
+## Taula de continguts
 1. [Plataformes gratuïtes](#1-plataformes-gratuïtes)
 > - [Epic Games Store](#epic-games-store)
 > - [GOG](#gog)
@@ -28,8 +28,8 @@ Tenir en compte també que certes condicions econòmiques al igual que directriu
 
 ---
 
-# 1 Plataformes gratuïtes
-## Epic Games Store
+## 1 Plataformes gratuïtes
+### Epic Games Store
   La Epic Games Store és la tenda digital desenvolupada per Epic Games, compatible per a dispositius Windows i Mac. Encara i que ho podriem pensar, els jocs disponibles a la tenda no han de ser necessàriament desenvolupats en Unreal Engine (propietat d'Epic). No obstant, els jocs basats en UE que estiguin a la venda en Epic Games Store, no tenen que pagar els royalties del 5% en l'ús del motor (tan sols en aquesta tenda, sí s'han de pagar en qualsevol altra).  
   
   La tenda té certs factors diferencials, com un major marge de benefici, 88%(devs)/12%(Epic) o el programa [Support-A-Creator](https://www.epicgames.com/affiliate/en-US/overview) per apropar creadors de contingut als developers. Per tal de sol·licitar la publicació d'un joc cal omplir [aquest](https://store.epicgames.com/es-ES/publish/form) formulari. 
