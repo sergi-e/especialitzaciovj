@@ -23,14 +23,14 @@ Aquest article tracta de recopilar algunes de les eines i tendències més habit
 
 ---
 
-##1. Què i per què documentar
+## 1. Què i per què documentar
 Tasques
 SCRUM
 Actes
 Totes les vies de comunicació: oral, sistemes de missatgeria, correu... 
 Utilitat: oficial, funcional, entregable, administrativa. 
 
-##2. Eines per documentar
+## 2. Eines per documentar
 ### Software de documentació
 ### Wiki
 ### Processadors de text
@@ -38,7 +38,7 @@ Utilitat: oficial, funcional, entregable, administrativa.
 ### Gestor de correu
 ### Entrevistes i transcripcions
 
-##3-1 Documentació de preproducció
+## 3-1 Documentació de preproducció
 ### Pitch
 ### Demo
 ### Schedule + Cash flow
@@ -46,7 +46,7 @@ Utilitat: oficial, funcional, entregable, administrativa.
 ### Game Design Document + apèndixs
 ### Prototipat
 
-##3-2 Documentació de producció
+## 3-2 Documentació de producció
 PRD --> Feature proposal --> Spec
 ### Asset tracking
 ### Screenshots i gameplay
@@ -56,7 +56,7 @@ PRD --> Feature proposal --> Spec
 ### Game build + notes
 ### Q&A
 
-##3-3 Documentació de postproducció
+## 3-3 Documentació de postproducció
 ### Bug database, burn-down chart, Q&A
 ### Grups focus
 ### Documentació de publicació
