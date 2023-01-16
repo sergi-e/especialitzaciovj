@@ -21,7 +21,7 @@ Cal recordar i tenir en compte que la normativa i directrius de cada plataforma 
 > - [Playstation 5](#playstation-5)
 > - [Xbox One](#xbox-one)
 > - [Game Pass](#game-pass)
-5. [Altres qüestions](#altres-qüestions)
+5. [Publicació amb Unity i Unreal Engine](#publicació-amb-unity-i-unreal-engine)
 > - [Unity](#unity)
 > - [Unreal Engine](#unreal-engine)
 6. [Altres referències](#altres-referències)
