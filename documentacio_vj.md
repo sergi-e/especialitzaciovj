@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=ZE8v7uVGepM
+!!!
 
 # Documentació de videojocs 
 Mantenir una bona documentació pot requerir molt de temps per part de tots els desenvolupadors, però és un procés fonamental per a la producció, sobre tot a mesura que augmentem la mida de l'equip. Hi ha tantes metodologies i sistemes per redactar i mantenir la documentació com equips. De cap manera poden tenir el mateix fluxe de treball una gran empresa i un equip de tres desenvolupadors en un estudi indie, però aquestes diferències no deurien donar-se per un desconeixement o abandonament de la documentació, sinò com una adaptació d'aquesta a les necessitats específiques de l'equip. 
