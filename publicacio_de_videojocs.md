@@ -1,7 +1,7 @@
 
 # Publicació de videojocs 
-Cal tenir en compte les Rules and guidelines de cada plataforma. 
-Tenir en compte també que certes condicions econòmiques al igual que directrius varien segons la regió, no sols nostra, sinò també dels jugadors (per exemple a la Apple Store). 
+El procés de publicació d'un videojoc determina en gran mesura l'impacte final d'aquest i l'abast que assoleix. Sols tenint en compte les diferents opcions i vies de publicació pot resultar desbordant. Aquest article tracta de resumir les vies més utilitzades a gener de 2023 per a la publicació de videojocs i explicar breument les condicions, procediments, avantatges i inconvenients de cadascuna. 
+Cal recordar i tenir en compte que la normativa i directrius de cada plataforma varien amb el temps i són molt específiques. Més enllà de l'abast d'aquest article, cal fer-hi una lectura en detall abans de prendre cap decisió. No hem d'oblidar que moltes d'aquestes plataformes tenen un abast mundial, i algunes (per exempla la Apple Store), ens obliguen a compir certs requisits o varien les condicions econòmiques no sols depenent del lloc on publiquem, sinò també depenent de la localització dels jugadors. 
 
 ## Taula de continguts
 1. [Plataformes gratuïtes](#1-plataformes-gratuïtes)
