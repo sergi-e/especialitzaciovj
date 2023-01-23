@@ -139,14 +139,22 @@ https://www.gamedeveloper.com/disciplines/how-to-prototype-a-game-in-under-7-day
 3. Development, nobody cares: start with core mechanics. Correct is not best, if cannot get it, fake it. Cut losses by shooting baby in the crib. Players are smart, nothing salvages bad design (not fun) --> however, it makes it better. Great engineering != Great prototype, reusable code does not make it better. 
 4. General gameplay: complexity != fun. Some kind of creation/customization helps replayability. Experimental != complex. Build toward a gameplay goal. Make it juicy, responsive to input and world. 
 
-Master clas by Will Wright (Spoer, SimCity, The Sims...): https://www.masterclass.com/articles/will-wrights-tips-for-successful-prototyping-in-video-games
+Master clas by Will Wright (Spore, SimCity, The Sims...): https://www.masterclass.com/articles/will-wrights-tips-for-successful-prototyping-in-video-games
 - Digital allows to easily tweak variables. 
 - You need practice to prototype. Take notes, answer questions, pay attention to fun, learn and move on. Quick and cheap. 
+
+Prototyping tips: https://departmentofplay.net/7-tips-for-successful-video-game-prototyping/
+- Build only what necessary, hack around features: a wireframe can represent something to complex or out-of-scope, automate or fake what is unnecessary, explain as they play, use videos and visual backdrops. 
+- In Unity, create base project that can be reused having: basic game logic such as UI, level changes, sound. Asset packs, mobile functions (notifications, etc), analytics and ads SDKs. 
+
+Prototyping Sims 3: https://www.gamesindustry.biz/prototyping-the-sims-3
+- Different types of prototypes: some to seek solutions and others not directly related to the game sometimes, but to stirr conversations. Distilling things can be tedious, but it should turn into something fun. Do what feels good and fun for the player (tidy mechanic). They also did prototypes to affect players feelings (hateful sim). 
 
 Formal reasons and tips to prototype: https://www.masterclass.com/articles/how-to-make-and-test-a-prototype
 - Reasons: 1. test ux, 2. facilitates market research, 3. improves final design, 4. spark other ideas. 
 - Tips: 1. Do a patent search to look for similar projects, 2. Sign NDAs, 3. be cost effective. 4. Existe el out-sourcing. 
 
+--- 
 
 The rapid prototyping game by Matt Smith: https://www.gamedeveloper.com/design/the-rapid-prototyping-game
 - Reference: Building Blocks of Tabletop Game Design: An Encyclopedia of Mechanisms by Geoffrey Engelstein and Isaac Shalev. 
@@ -159,12 +167,6 @@ The rapid prototyping game by Matt Smith: https://www.gamedeveloper.com/design/t
 3. Reflection > Another deck witch questions to start covnersations. 
 4. Iteration > deck that forces changes: new mechanic, additional victory condition, change turns... Frustrating
 
-Prototyping tips: https://departmentofplay.net/7-tips-for-successful-video-game-prototyping/
-- Build only what necessary, hack around features: a wireframe can represent something to complex or out-of-scope, automate or fake what is unnecessary, explain as they play, use videos and visual backdrops. 
-- In Unity, create base project that can be reused having: basic game logic such as UI, level changes, sound. Asset packs, mobile functions (notifications, etc), analytics and ads SDKs. 
-
-Prototyping Sims 3: https://www.gamesindustry.biz/prototyping-the-sims-3
-- Different types of prototypes: some to seek solutions and others not directly related to the game sometimes, but to stirr conversations. Distilling things can be tedious, but it should turn into something fun. Do what feels good and fun for the player (tidy mechanic). They also did prototypes to affect players feelings (hateful sim). 
 
 
 Prototype in Unity: https://www.youtube.com/watch?v=x10P0RNHm4M
