@@ -48,11 +48,13 @@ Prototype Part 1: https://www.videogameworkshop.com/game-dev/Prototype-Your-Game
 - Some prototypes are bound to fail, and that is okay. They can also give lots of new ideas, not only discard games. 
 - Paper prototype: zero code. Can be changed while tested. Interactive. --> Spore. Also very good at testing UI. Also games like FF, Pokemon and other dice/probability based games. Even FPS, be creative --> The art of game design: a book of lenses. Check also board versions of games.
 - DIfficult to prototype games based on quick actions (not impossible). 
+
 Wireframe Prototype Part 2: https://www.videogameworkshop.com/game-dev/Prototype-Your-Game-Part2.html
 - Wireframe = Static fidelity representation of final product. What a blueprint is to a building. 
 - Wireframe != Mock ups --> Mock up = higher fidelity. Wireframe use low fidelity drawings meant to be replaced. 
 - Wireframe can provide a lot of information about the game concepts and mechanics with no need to interact with them.
 - Linking wireframes can make a working prototype. Tools: mockfow, go-mockingbird, even slides or comics (Harmonix's 2016 GDC Talk). 
+
 Greybox Prototype Part 3: https://www.videogameworkshop.com/game-dev/Prototype-Your-Game-Part3.html
 - get something playable without producing assets. Basic shapes as stand-in. 
 - Popular to test game mechanics and level design. 
