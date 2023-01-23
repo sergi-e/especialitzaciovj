@@ -110,7 +110,10 @@ Core loops (Based on Dan Spaventa): https://www.gamedeveloper.com/design/how-sup
 - What to prototype: core loop, UI/UX, Unique game mechanics and Game rules. 
 - Digital prototypes make easier to identify technical problems, as they arise. 
 - Playtest the prototype: Iron out edge cases and ambigual gameplay, listen to everybody's feedback. Tested by devs and players. Iterate. 
+
 https://www.gamedeveloper.com/design/keep-or-kill-3-design-features-to-test-during-prototyping
+
+
 https://www.uxpin.com/studio/blog/why-and-how-to-use-video-game-prototyping/
 
 https://www.masterclass.com/articles/will-wrights-tips-for-successful-prototyping-in-video-games
