@@ -100,8 +100,10 @@ Laws of prototyping: https://creatinggames.press.plymouth.edu/chapter/the-design
 
 https://www.gamesindustry.biz/phil-harrison-it-s-time-for-a-change-in-games-development
 - Phil Harrison (Atari president): "experiment earlier, fail more often, and fail more cheaply"
+
 https://www.gamesindustry.biz/phil-harrison-is-right-about-prototyping-says-betteridge
 - Mark Betteridge (programmer and executive at Rare, 2008) agrees and says proottype earlier. Prototype easy and quick. I don't care about a piece of paper, implementation matters. Rapid-prototype a number of ideas to find out which works better. Take the best ideas to core production. Publishers stay too much on safe franchise strategies. Have 100 ideas, prototype the best dozen, develop the best 3. 
+
 Core loops (Based on Dan Spaventa): https://www.gamedeveloper.com/design/how-supporting-core-loops-and-early-prototyping-are-key-to-your-game-s-success
 - Gameplay through which entire game is built. Minute to minute player interaction, most repeated set of actions, enablement of progress. TEST AND FLESH THIS. Find weak links and address these with minimal waste. 
 - Core loop is critical > if not fun, game not fun. all other game systems build on it. First thing to prototype. 
@@ -112,22 +114,63 @@ Core loops (Based on Dan Spaventa): https://www.gamedeveloper.com/design/how-sup
 - Playtest the prototype: Iron out edge cases and ambigual gameplay, listen to everybody's feedback. Tested by devs and players. Iterate. 
 
 https://www.gamedeveloper.com/design/keep-or-kill-3-design-features-to-test-during-prototyping
-
+- Play with camera angles to enhance clarity of gameplay
+- Minimize FOMO (fear of missing out), 
+- Prototype phase of casual game no more than 2/3 weeks. 
 
 https://www.uxpin.com/studio/blog/why-and-how-to-use-video-game-prototyping/
+WIREFRAME:
+- Wireframe are staple for UX designers. 
+- Low-fidelity meant to provide a better understanding. Accurately relay relationship between elements: menus, loading screens, conversations, pokemon-esque battles... and other static things. 
+- Use a frame for scale and placement. 
+- Define types of characters, UI/HUD, and SOME mechanics.
+- Can be created using slides or UX tools. 
+GREYBOX:
+- Adds physics and test the emerging complexity. 
+- Wireframe and mock ups are meant to show how it looks like. Greybox is meant to show how it feels like. 
+- Start using the tools you will use to develop. 
+- You can script dynamic actions. 
+- Rapid prototyping: rapidly going from one prototype to a slightly higher fidelity one in a short period of time. 
 
-https://www.masterclass.com/articles/will-wrights-tips-for-successful-prototyping-in-video-games
-Rapid prototyping
-https://www.gamedeveloper.com/design/the-rapid-prototyping-game
-https://www.uxpin.com/studio/blog/rapid-prototyping-process-fidelity-10-minute-guide-for-ui-ux-designers/
-https://starloopstudios.com/rapid-game-prototyping-why-is-it-important-in-game-development/
-https://starloopstudios.com/services/game-prototyping-2/
+https://www.gamedeveloper.com/disciplines/how-to-prototype-a-game-in-under-7-days
+- Experimental Gameplay Project > World of Goo (7 days, 1 student) > Prototype as many new forms of gameplay as possible. 
+1. Rapid is a state of mind. Rapid prototyping more than just a useful tool in pre-production, way of life. Embrace risk-taking and failure. Enforce short dev cycles. Any gameplay idea can be prototyped in less than one week, some 1 day. No correlation between time spent and successful game. Constraints (such as themes) enforce creativity. Game design is paramount. When creating different prototypes, work in parallel, only share at the beginning and end. 
+2. Myth of brainstorming: cannot schedule creativity. At least it makes everybody thinking (which can boost creativity later). It is useful when there is something specific to tackle or talk about. Alternative: gather music and concept art. Simulate in your head, draw, save time. 
+3. Development, nobody cares: start with core mechanics. Correct is not best, if cannot get it, fake it. Cut losses by shooting baby in the crib. Players are smart, nothing salvages bad design (not fun) --> however, it makes it better. Great engineering != Great prototype, reusable code does not make it better. 
+4. General gameplay: complexity != fun. Some kind of creation/customization helps replayability. Experimental != complex. Build toward a gameplay goal. Make it juicy, responsive to input and world. 
+
+Master clas by Will Wright (Spoer, SimCity, The Sims...): https://www.masterclass.com/articles/will-wrights-tips-for-successful-prototyping-in-video-games
+- Digital allows to easily tweak variables. 
+- You need practice to prototype. Take notes, answer questions, pay attention to fun, learn and move on. Quick and cheap. 
+
+Formal reasons and tips to prototype: https://www.masterclass.com/articles/how-to-make-and-test-a-prototype
+- Reasons: 1. test ux, 2. facilitates market research, 3. improves final design, 4. spark other ideas. 
+- Tips: 1. Do a patent search to look for similar projects, 2. Sign NDAs, 3. be cost effective. 4. Existe el out-sourcing. 
+
+
+The rapid prototyping game by Matt Smith: https://www.gamedeveloper.com/design/the-rapid-prototyping-game
+- Reference: Building Blocks of Tabletop Game Design: An Encyclopedia of Mechanisms by Geoffrey Engelstein and Isaac Shalev. 
+- Rapid prototyping methodology: 
+1. Dice categories (throw dice): 
+- Game Medium (board game, card game, etc.)
+- Game Format (competitive, cooperative, etc.)
+- Game Objective (exploration, building, etc.)
+2. Element decks (pull card): 
+3. Reflection > Another deck witch questions to start covnersations. 
+4. Iteration > deck that forces changes: new mechanic, additional victory condition, change turns... Frustrating
+
+Prototyping tips: https://departmentofplay.net/7-tips-for-successful-video-game-prototyping/
+- Build only what necessary, hack around features: a wireframe can represent something to complex or out-of-scope, automate or fake what is unnecessary, explain as they play, use videos and visual backdrops. 
+- In Unity, create base project that can be reused having: basic game logic such as UI, level changes, sound. Asset packs, mobile functions (notifications, etc), analytics and ads SDKs. 
+
+Prototyping Sims 3: https://www.gamesindustry.biz/prototyping-the-sims-3
+- Different types of prototypes: some to seek solutions and others not directly related to the game sometimes, but to stirr conversations. Distilling things can be tedious, but it should turn into something fun. Do what feels good and fun for the player (tidy mechanic). They also did prototypes to affect players feelings (hateful sim). 
+
 
 Prototype in Unity: https://www.youtube.com/watch?v=x10P0RNHm4M
 
-Against paper prot: https://departmentofplay.net/7-tips-for-successful-video-game-prototyping/
 
-https://www.nyfa.edu/student-resources/getting-the-most-out-of-your-prototype-game/
+
 
 
 GDC Prototype based design: https://www.youtube.com/watch?v=H-5m_KDCZdQ
@@ -139,13 +182,8 @@ GDC VR Prototyping 02: https://www.youtube.com/watch?v=vUwwrqFD_dM
 Prototype a game in 7 days: https://www.gamedeveloper.com/disciplines/how-to-prototype-a-game-in-under-7-days
 GDC Edith Finch 13prot. 1 game: https://www.youtube.com/watch?v=0xVYVP0hxME
 
-Prototyping Sims 3: https://www.gamesindustry.biz/prototyping-the-sims-3
 
 
-Paper prototyping
-Wireframe prototyping
-Code prototype:
-Greybox prototyping
 
 Examples game prototypes: https://www.gamedeveloper.com/design/appreciating-the-weird-beauty-of-game-prototypes
 Historic prototypes: https://www.si.edu/spotlight/the-father-of-the-video-game-the-ralph-baer-prototypes-and-electronic-games
