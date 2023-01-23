@@ -62,9 +62,6 @@ Greybox Prototype Part 3: https://www.videogameworkshop.com/game-dev/Prototype-Y
 - Braid & Alien Isolation started as prototypes. 
 - Really fast way to test level design. Lenght of platforms, AI, camera angles... > Kirby's adventure. 
 
-GDC Prototype based design: https://www.youtube.com/watch?v=H-5m_KDCZdQ
-GDC prototypes: https://www.youtube.com/watch?v=sYWkiv1hTPM
-GDC teach prototyping: https://www.youtube.com/watch?v=9O9Q8OVWrFA
 GDC animation prototyping: https://www.youtube.com/watch?v=a-zKMzboOec
 - Day 1: gameplay ideas, gray-boxing levels, art team ramping up concepts...
 - Fast but not ugly. Communicate only what you need to
@@ -76,23 +73,16 @@ GDC animation prototyping: https://www.youtube.com/watch?v=a-zKMzboOec
 - Getting outsource assets will not make it consistent. 
 - Be excited about redoing over and over. Not everyone suited. 
 - For this, it is good to be generalist. 
-GDC Narrative design prototyping: https://www.youtube.com/watch?v=taxcb_5lEI8
-GDC VR Prototyping 01: https://www.youtube.com/watch?v=G295PAPzZX8
-GDC VR Prototyping 02: https://www.youtube.com/watch?v=vUwwrqFD_dM
-Prototype a game in 7 days: https://www.gamedeveloper.com/disciplines/how-to-prototype-a-game-in-under-7-days
-GDC Edith Finch 13prot. 1 game: https://www.youtube.com/watch?v=0xVYVP0hxME
-
-
-https://www.youtube.com/watch?v=LVMzIy6ezPg
-
-Prototyping Sims 3: https://www.gamesindustry.biz/prototyping-the-sims-3
-
-https://www.gamesindustry.biz/phil-harrison-is-right-about-prototyping-says-betteridge
-https://www.gamedeveloper.com/design/how-supporting-core-loops-and-early-prototyping-are-key-to-your-game-s-success
-https://www.gamedeveloper.com/design/keep-or-kill-3-design-features-to-test-during-prototyping
 
 Principles: https://lvictorino.com/blog/what-is-a-prototype.html
+**- Size matters:** prototype != Alpha. Small and ugly, look for the very core. 
+**- Timing is essential:** don't exhaust resources. 
+**- Don't be perfect, be efficient:** pre-production starts after the prototyping, so don't overthink nor polish. 
+**- Don't add:** you will fall in the eternal prototyping pit. 
+**- You will do everything twice:** the prototype goes to trash, we don't build on top of it. Then we will rebuild with knowledge and solidly. 
+
 Prototype vs alpha: https://ppolsinelli.medium.com/what-is-a-game-prototype-506472ec67ad
+**- Prototype is based on design by substraction.** Sometimes people say "bring me a prototype" meaning an alpha of the game, which requires much more effort. Metaphor of the Space Shuttle. 
 
 Laws of prototyping: https://creatinggames.press.plymouth.edu/chapter/the-design-process-prototyping/
 - Playable form quickly and cheaply as possible. 
@@ -107,25 +97,52 @@ Laws of prototyping: https://creatinggames.press.plymouth.edu/chapter/the-design
 **- Notes about grids:** grids of squares are casual, familiar and easy to navigate. Diagonal movement becomes a problem. Hexes make it easier for diagonal but more difficult to create obstacles as movement is far less constrained. Also not so familiar. Open area board use tap measure to move. Freedom of movement but not familiar and susceptible to accidents and measurement fights.
 **- Adding features VS KISS:** start with just core. If this doesn't work, adding will not make it work. More rules over a unstable foundation could obscure the problems. Everytime you want to add, ask yourself if it is necessary. Let laziness override creativity. It is hard to leave things at the bare minimum. Make a list of items and cross of as many as possible. Ask other designers not attached to the idea. Everytime you add, add just ONE feature and playtest. Resist adding more. As in programming, add one thing and unit test. Accept that this process may not be particularly fun but tedious. 
 
-https://www.uxpin.com/studio/blog/why-and-how-to-use-video-game-prototyping/
-Paper prototyping
-Wireframe prototyping
-Code prototype:
-https://www.masterclass.com/articles/will-wrights-tips-for-successful-prototyping-in-video-games
-Greybox prototyping
 
+https://www.gamesindustry.biz/phil-harrison-it-s-time-for-a-change-in-games-development
+- Phil Harrison (Atari president): "experiment earlier, fail more often, and fail more cheaply"
+https://www.gamesindustry.biz/phil-harrison-is-right-about-prototyping-says-betteridge
+- Mark Betteridge (programmer and executive at Rare, 2008) agrees and says proottype earlier. Prototype easy and quick. I don't care about a piece of paper, implementation matters. Rapid-prototype a number of ideas to find out which works better. Take the best ideas to core production. Publishers stay too much on safe franchise strategies. Have 100 ideas, prototype the best dozen, develop the best 3. 
+Core loops (Based on Dan Spaventa): https://www.gamedeveloper.com/design/how-supporting-core-loops-and-early-prototyping-are-key-to-your-game-s-success
+- Gameplay through which entire game is built. Minute to minute player interaction, most repeated set of actions, enablement of progress. TEST AND FLESH THIS. Find weak links and address these with minimal waste. 
+- Core loop is critical > if not fun, game not fun. all other game systems build on it. First thing to prototype. 
+- Anything you add should be designed to improve a part of the core loop. 
+- Don't create competing systems in a core loop, that distracts players. 
+- What to prototype: core loop, UI/UX, Unique game mechanics and Game rules. 
+- Digital prototypes make easier to identify technical problems, as they arise. 
+- Playtest the prototype: Iron out edge cases and ambigual gameplay, listen to everybody's feedback. Tested by devs and players. Iterate. 
+https://www.gamedeveloper.com/design/keep-or-kill-3-design-features-to-test-during-prototyping
+https://www.uxpin.com/studio/blog/why-and-how-to-use-video-game-prototyping/
+
+https://www.masterclass.com/articles/will-wrights-tips-for-successful-prototyping-in-video-games
+Rapid prototyping
+https://www.gamedeveloper.com/design/the-rapid-prototyping-game
 https://www.uxpin.com/studio/blog/rapid-prototyping-process-fidelity-10-minute-guide-for-ui-ux-designers/
 https://starloopstudios.com/rapid-game-prototyping-why-is-it-important-in-game-development/
 https://starloopstudios.com/services/game-prototyping-2/
-
-Rapid prototyping
-https://www.gamedeveloper.com/design/the-rapid-prototyping-game
 
 Prototype in Unity: https://www.youtube.com/watch?v=x10P0RNHm4M
 
 Against paper prot: https://departmentofplay.net/7-tips-for-successful-video-game-prototyping/
 
 https://www.nyfa.edu/student-resources/getting-the-most-out-of-your-prototype-game/
+
+
+GDC Prototype based design: https://www.youtube.com/watch?v=H-5m_KDCZdQ
+GDC prototypes: https://www.youtube.com/watch?v=sYWkiv1hTPM
+GDC teach prototyping: https://www.youtube.com/watch?v=9O9Q8OVWrFA
+GDC Narrative design prototyping: https://www.youtube.com/watch?v=taxcb_5lEI8
+GDC VR Prototyping 01: https://www.youtube.com/watch?v=G295PAPzZX8
+GDC VR Prototyping 02: https://www.youtube.com/watch?v=vUwwrqFD_dM
+Prototype a game in 7 days: https://www.gamedeveloper.com/disciplines/how-to-prototype-a-game-in-under-7-days
+GDC Edith Finch 13prot. 1 game: https://www.youtube.com/watch?v=0xVYVP0hxME
+
+Prototyping Sims 3: https://www.gamesindustry.biz/prototyping-the-sims-3
+
+
+Paper prototyping
+Wireframe prototyping
+Code prototype:
+Greybox prototyping
 
 Examples game prototypes: https://www.gamedeveloper.com/design/appreciating-the-weird-beauty-of-game-prototypes
 Historic prototypes: https://www.si.edu/spotlight/the-father-of-the-video-game-the-ralph-baer-prototypes-and-electronic-games
