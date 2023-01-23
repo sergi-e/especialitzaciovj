@@ -87,14 +87,23 @@ Prototype vs alpha: https://ppolsinelli.medium.com/what-is-a-game-prototype-5064
 Laws of prototyping: https://creatinggames.press.plymouth.edu/chapter/the-design-process-prototyping/
 - Playable form quickly and cheaply as possible. 
 - Especially important for design-risk ideas, not clone-and-tweak. 
+-
 **- 4 steps per iteration:** design, prototyping, playtesting, evaluation.
+
 **- Corollary:** reduce time required in each iteration as much as possible. 
+
 **- How to save time:** schedule and plan playtest to save up explanations and spare time. Evaluation does not take long, yes/no, good/bad, done/tbd actions. Reduce time spent creating the prototype. Don't rush creativity. 
+
 **- On prototypes:** build as fast as possible. Cut corners. Ugly and cheap. Build only what necessary to evaluate. Make it easy to change. 
+
 **- Prototyping in paper/analog:** cheap, fast, easy to change, no guilt on throwing away, useful for most gameplay systems, imperative to design systems to make it playable (not "50 cards undefined" stuff). 
+
 **- Limitations of paper/analog:** Bad for dexterity or time based mechanics. Difficult to represent hidden information (fog of war?). Complex non automatized calculations can drag on the process (excel) --> be careful with designing complex systems, maybe the game isn't that fun (Sid Meier, Civilization). Not eye-candy (not a bad thing in a prototype). Not well suited to test UI, as it is static. 
+
 **- Prototyping realtime systems:** translate to board games with time based turns. Twitch mechanics such as dodging based on accuracy can be translated to random (as it is random from the opponent's perspective). Create a grid, though not high fidelity with game. 
+
 **- Notes about grids:** grids of squares are casual, familiar and easy to navigate. Diagonal movement becomes a problem. Hexes make it easier for diagonal but more difficult to create obstacles as movement is far less constrained. Also not so familiar. Open area board use tap measure to move. Freedom of movement but not familiar and susceptible to accidents and measurement fights.
+
 **- Adding features VS KISS:** start with just core. If this doesn't work, adding will not make it work. More rules over a unstable foundation could obscure the problems. Everytime you want to add, ask yourself if it is necessary. Let laziness override creativity. It is hard to leave things at the bare minimum. Make a list of items and cross of as many as possible. Ask other designers not attached to the idea. Everytime you add, add just ONE feature and playtest. Resist adding more. As in programming, add one thing and unit test. Accept that this process may not be particularly fun but tedious. 
 
 
