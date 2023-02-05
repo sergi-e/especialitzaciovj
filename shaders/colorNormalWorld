@@ -32,6 +32,8 @@ Shader "Unlit/Shader01"
                 v2f o;
                 o.vertex = UnityObjectToClipPos(v.vertex); //Convierte local space a Clip space multiplicando por la MVP Matrix (Model View Projection)
                 o.normal = UnityObjectToWorldNormal(v.normals); //convierte de object space a world space
+                /*¿Por qué no hacemos esta operación en fragment shader? Porque normalmente tneemos más píxeles que vértices, así que por optimizacion.
+                Si tuviéramos muchos vértices en un objeto muy lejano no pasaría, pero no es lo normal. Si se puede, al vertex shader*/
                 //Para hacer esto manualmente:
                 // o.normal = mul( v.normals, (float3x3)unity_WorldToObject); --> A pesar de que estemos haciendo Object to world, la matriz se llama worldToObject porque según como la pasemos, se traspone.
                 return o;
