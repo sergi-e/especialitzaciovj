@@ -46,6 +46,8 @@ Shader "Unlit/texture"{
 
 				float4 grass = tex2D(_MainTex, topDownProjection); //Mapeamos la textura según la worldpos. Esto se hace mucho en terreno.
 				float4 pattern = tex2D(_Pattern, i.uv);
+				//Para hacer que el pattern aparezca y desaparezca según cos del tiempo
+				//float4 pattern = tex2D(_Pattern, i.uv) * abs(cos(_Time.y));
 				float4 rock = tex2D(_SecTex, topDownProjection);
 				float4 finalColor = lerp(rock, grass, pattern); //Lerp entre un rojo y una textura
 
