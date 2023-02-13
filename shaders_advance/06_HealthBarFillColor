@@ -43,6 +43,8 @@ Shader "Unlit/healthBar"
 			fixed4 frag(v2f i) : SV_Target
 			{
 				float healthBarMask = _Health > i.uv.x;
+				//A octaus
+				//float healthBarMask = _Health >= (round(i.uv.x*8)/8);
 				float3 bgColor = float3(0, 0, 0);
 				
 				float3 healthBarColor = lerp(float3(1,0,0), float3(0,1,0), _Health); 
