@@ -50,6 +50,7 @@ Shader "Unlit/healthBar"
 				float3 healthBarColor = lerp(float3(1,0,0), float3(0,1,0), _Health); 
 
 				float3 outColor = lerp(float3(0,0,0), healthBarColor, healthBarMask);
+				//És convenient saber que Lerp --> Unclamped, però Math.lerp --> Clamped
 
 				return float4(outColor,1);
             }
