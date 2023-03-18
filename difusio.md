@@ -2,29 +2,30 @@ https://partner.steamgames.com/doc/home
 https://www.rengenmarketing.com/indie-game-marketing/
 Indie game marketing - per a devs que no tenen recursos per publicitar el joc. Normalment es basa en tècniques de marketing tipus “Grass roots” o “guerrilla marketing” que busquen high-impact en low-effort.
 
-#A) Errades habituals en indie marketing.
+<h1>A) Errades habituals en indie marketing.</h1>
 
-##1. No tenir un pla de marketing:
+<h2>1. No tenir un pla de marketing:</h2>
 L’escassetat de recursos no excusa l’absència d’un pla que establisca objectius i estratègies. Açò inclou market/audience research que guiaran les decisions de negoci.
 
-##2. No assignar cap recurs ni temps per al marketing:
+<h2>2. No assignar cap recurs ni temps per al marketing:</h2>
 Dedicar el 100% del temps i els recursos al development no ajudarà al projecte. Idealment es suggereix un 50/50. 
 
-##3. Conèixer a l’audiència: 
+<h2>3. Conèixer a l’audiència: </h2>
 No és suficient amb conèixer dades demogràfiques i altres jocs d’interès, cal saber també cóm i on es troben i crear oportunitats per entrar-hi.
 
-##4. Cada acció ha de tenir una intencionalitat:
+<h2>4. Cada acció ha de tenir una intencionalitat:</h2>
 Les accions buides tan sols et fan estar-hi més ocupat. Reflexiona de quina manera cada acció que fas t’apropa més al teu objectiu.
 
-#B) Quan començar amb el màrketing del joc?
+<h1>B) Quan començar amb el màrketing del joc?</h1>
 Ahir, quan abans millor per crear oportunitats i consciència del joc.
 
-#C) Com començar amb el màrketing?* Cal sentar les bases amb foundational marketing.
+<h1>C) Com començar amb el màrketing?</h1>
+Cal sentar les bases amb foundational marketing.
 
-##1. Crea un joc amb demanda de mercat:
+<h2>1. Crea un joc amb demanda de mercat:</h2>
 A l’hora de fer una elecció, per exemple fes un ull al benefici per gèneres (https://www.gamedeveloper.com/business/genre-viability-on-steam-and-other-trends---an-analysis-using-review-count). Centra’t en acabar el joc sense acabar els recursos.
 
-##2. Escriu un pla de marketing:
+<h2>2. Escriu un pla de marketing:</h2>
 
     a. Objectius: per contextualitzar el pla.
     
@@ -67,12 +68,12 @@ fracassat. Fixa’t en què destaca i estudia com posicionar-te.
 
 Tot açò pot ajudar-te a crear diferents player persona.
 
-##5. Els missatges de marketing han de ser clars i concisos
+<h2>5. Els missatges de marketing han de ser clars i concisos</h2>
 Siguin imatges, vídeos o qualsevol cosa, és molt més habitual del que pareix pensar que la nostra informació és clara i comprensible per algú sense el context que nosaltres tenim del projecte, per això podem recurrir a altres dev communities i testejar els nostres missatges.
 
 ```*LINK: Dev communities d'interès:* https://www.rengenmarketing.com/blog/indie-game-dev-communities/```
 
-##6. Creació del “viatge” del funnel.
+<h2>6. Creació del “viatge” del funnel.</h2>
 Els funnels són un viatge moltes vegades inconscient per als usuaris, però molt intencionats per la nostra part. Alguns exemples de Funnels podrien ser:
 
     a. Social media post &gt; web/landsite &gt; email list &gt; discord &gt; playtest &gt; purchase
@@ -86,41 +87,57 @@ Els funnels són un viatge moltes vegades inconscient per als usuaris, però mol
 Cada pas del funnel requereix una *Call-to-action*, què ha de fer l’usuari per avançar al funnel. Hi ha funnels llargs, curts, inclus poden solapar-se.
 El viatge de l’usuari ha de ser consistent i incorporar elements temàtics, materials i missatges del joc que ajudi a fer-lo resonar. D’açò se n’ocupa el experiential marketing.
 
-##7. Contingut per compartir:
+<h2>7. Contingut per compartir:</h2>
 
 Screenshots, art promocional, video/GIF clips, trailers. Sempre cal recordar el “show not tell”. Cal tenir també un press-kit que agrupe tots aquests recursos. El presskit podem tenir-lo a la nostra pàgina, al Drive o fent servir servicis com Presskit (https://dopresskit.com/) cal tenir en compte a qui van destinats aquests presskits per ajustar el contingut d’aquests. Per exemple, creadors de contingut valoren tenir recursos per crear thumbnails i altres (wallpapers, art, logos… tot en diverses mides).
 
 ```*LINK: How streamers choose games:* https://newsletter.gamediscover.co/p/how-streamers-pick-games-the-splattercat```
 
-#D) ESTRATÈGIES DE MÀRKETING
+<h1>D) ESTRATÈGIES DE MÀRKETING</h1>
 El més típic es pensar en fer servir xarxes socials, influencers i events de videojocs.
 
-##a. Xarxes socials: 
+<h2>a. Xarxes socials: </h2>
 Segons el teu objectiu, una plataforma serà més útil que una altra. Escull i has de conèixer-la a fons.
 
         i. Reddit: la principal base demogràfica de reddit és la mateixa que dels jocs indie. Relaciona’t també a subreddits que es relacionen indirectament amb el teu joc. Llig les normes de promoció de cada comunitat, normalment hi ha una norma de 1/10 posts poden ser promocionals.
 
         ii. Tik tok: l’audiència sol ser molt jove. El contingut es basa en vídeos música/sons atractius. Segueix altres game/non-game creators amb keywords i hash tags.
         
-        iii. Twitter: A twitter no li agraden els tweets amb links. Sigues selectiu amb qui interactues i fes-ho constantment. Participa en events setmanals com #screenshotsaturday. Fes pin d’un tweet amb una CTA link. Tingues DM oberts.
+        iii. Twitter: A twitter no li agraden els tweets amb links. Sigues selectiu amb qui interactues i fes-ho constantment. Participa en events setmanals com <h1>screenshotsaturday. Fes pin d’un tweet amb una CTA link. Tingues DM oberts.
 
-        iv. Influencers: els streamers normalment sols creen contingut mentre juguen un joc. Els content creators poden contingut a més de fer stream. Normalment aquests reben més views. Per trobar influencers podem fer servir servicis (Lurkit, Indieboost,Adshot…) o fer nosaltres la feina. Per fer la feina nosatlres, certes eines (Lurkit, Sullygnome, TwitchTracker, SocialBlade…) que poden ajudar-nos. Influencers més petits pot ser més fàcil obtenir resposta. A més, molts estan molt focalitzats en tipus de jocs. Per comunicar-te amb influencers connecta amb ells, siguis curt i concís, i fes la feina fàcil: CTA (què vols que facin), screenshots i link a un press-kit. 
+<h2>b. Influencers:</h2>
+Els streamers normalment sols creen contingut mentre juguen un joc. Els content creators poden contingut a més de fer stream. Normalment aquests reben més views. Per trobar influencers podem fer servir servicis (Lurkit, Indieboost,Adshot…) o fer nosaltres la feina. Per fer la feina nosatlres, certes eines (Lurkit, Sullygnome, TwitchTracker, SocialBlade…) que poden ajudar-nos. Influencers més petits pot ser més fàcil obtenir resposta. A més, molts estan molt focalitzats en tipus de jocs. Per comunicar-te amb influencers connecta amb ells, siguis curt i concís, i fes la feina fàcil: CTA (què vols que facin), screenshots i link a un press-kit. 
         
-        v. Events: els events físics tenen una sèrie de costos afegits (cabina, alquiler, viatge i dietes, materials de promoció, etc), però són una oportunitat per crear vincles. Per això és important tenir uns objectius clars i fer balanç d’aquests amb els costos. D’altra banda, els events virtuals cal saber com exposen els jocs, si hi ha streaming, com ha funcionat abans, etc.
+<h2>c. Events:</h2>
+Els events físics tenen una sèrie de costos afegits (cabina, alquiler, viatge i dietes, materials de promoció, etc), però són una oportunitat per crear vincles. Per això és important tenir uns objectius clars i fer balanç d’aquests amb els costos. D’altra banda, els events virtuals cal saber com exposen els jocs, si hi ha streaming, com ha funcionat abans, etc.
 
 Ací una llista interessant d’events:
-Steam Events and NEXT Festivals
-Future Games Show
-INDIE Live Expo
-Day of the Devs
-Guerilla Collective
-PC Gaming Show (E3)
-Indie Showcase and Rising (PAX)
-Tokyo Games Show
-The MIX
-IGF (Indie Game Festival – GDC)
-Indie Arena Booth (Gamescom)
-DreamHack Beyond
+```
+- Steam Events and NEXT Festivals
+
+- Future Games Show
+
+- INDIE Live Expo
+
+- Day of the Devs
+
+- Guerilla Collective
+
+- PC Gaming Show (E3)
+
+- Indie Showcase and Rising (PAX)
+
+- Tokyo Games Show
+
+- The MIX
+
+- IGF (Indie Game Festival – GDC)
+
+- Indie Arena Booth (Gamescom)
+
+- DreamHack Beyond
+```
+
 
 
 https://www.gamedeveloper.com/business/analytics-and-kpis-marketing-for-video-games
