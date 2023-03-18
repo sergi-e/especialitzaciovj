@@ -45,7 +45,7 @@ A l’hora de fer una elecció, per exemple fes un ull al benefici per gèneres 
     
     i. Timeline i pressupostos: detallem i expliquem els recursos, diners, temporalitat, etc. del plan.
 
-```*LINK: Com escriure un pla de marketing?* https://www.rengenmarketing.com/blog/indie-game-marketing-plan/```
+> _LINK: Com escriure un pla de marketing?_ https://www.rengenmarketing.com/blog/indie-game-marketing-plan/
 
 Cal conèixer el mercat tant com sigui possible. Conèixer un gènere no vol dir conèixer el mercat. Mira els populars i best-selling, compara’ls amb els que han
 fracassat. Fixa’t en què destaca i estudia com posicionar-te.
@@ -71,7 +71,7 @@ Tot açò pot ajudar-te a crear diferents player persona.
 <h2>5. Els missatges de marketing han de ser clars i concisos</h2>
 Siguin imatges, vídeos o qualsevol cosa, és molt més habitual del que pareix pensar que la nostra informació és clara i comprensible per algú sense el context que nosaltres tenim del projecte, per això podem recurrir a altres dev communities i testejar els nostres missatges.
 
-```*LINK: Dev communities d'interès:* https://www.rengenmarketing.com/blog/indie-game-dev-communities/```
+> _LINK: Dev communities d'interès:_ https://www.rengenmarketing.com/blog/indie-game-dev-communities/
 
 <h2>6. Creació del “viatge” del funnel.</h2>
 Els funnels són un viatge moltes vegades inconscient per als usuaris, però molt intencionats per la nostra part. Alguns exemples de Funnels podrien ser:
@@ -91,7 +91,7 @@ El viatge de l’usuari ha de ser consistent i incorporar elements temàtics, ma
 
 Screenshots, art promocional, video/GIF clips, trailers. Sempre cal recordar el “show not tell”. Cal tenir també un press-kit que agrupe tots aquests recursos. El presskit podem tenir-lo a la nostra pàgina, al Drive o fent servir servicis com Presskit (https://dopresskit.com/) cal tenir en compte a qui van destinats aquests presskits per ajustar el contingut d’aquests. Per exemple, creadors de contingut valoren tenir recursos per crear thumbnails i altres (wallpapers, art, logos… tot en diverses mides).
 
-```*LINK: How streamers choose games:* https://newsletter.gamediscover.co/p/how-streamers-pick-games-the-splattercat```
+> _LINK: How streamers choose games:_ https://newsletter.gamediscover.co/p/how-streamers-pick-games-the-splattercat
 
 <h1>D) ESTRATÈGIES DE MÀRKETING</h1>
 El més típic es pensar en fer servir xarxes socials, influencers i events de videojocs.
