@@ -73,9 +73,13 @@ Siguin imatges, vídeos o qualsevol cosa, és molt més habitual del que pareix 
 
 ##6. Creació del “viatge” del funnel.
 Els funnels són un viatge moltes vegades inconscient per als usuaris, però molt intencionats per la nostra part. Alguns exemples de Funnels podrien ser:
+
     a. Social media post &gt; web/landsite &gt; email list &gt; discord &gt; playtest &gt; purchase
+    
     b. Influencer coverage &gt; steam page &gt; wishlist &gt; discord &gt; playtest &gt; purchase
+    
     c. Steam browse &gt; wishlist &gt; purchase
+    
     d. Ad campaign &gt; pre-launch page &gt; crowdfund
 
 Cada pas del funnel requereix una *Call-to-action*, què ha de fer l’usuari per avançar al funnel. Hi ha funnels llargs, curts, inclus poden solapar-se.
