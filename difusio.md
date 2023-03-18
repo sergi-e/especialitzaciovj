@@ -138,6 +138,24 @@ Ací una llista interessant d’events:
 - DreamHack Beyond
 ```
 
+<h2>d. Altres idees:</h2>
+
+<h3>Landing Page:</h3>
+
+Sol formar part dels *funnels* i està pensada per convertir als usuaris en jugadors. No cal que sigui necessàriament una pàgina web del videojoc. 
+- _Pàgina web:_ tenen el millor índex de conversió (aprox. 24%). Per aconseguir-ho cal seguir pràctiques de *[Conversion Rate Optimization](https://moz.com/learn/seo/conversion-rate-optimization)* (CRO): saber cóm arriben els usuaris a la pàgina, centrar-se en un mètode de conversió (Discord, newsletter,...), incentivar la conversió amb alguna oferta (accés a beta o altres), saber interpreatar analítiques i mètriques. 
+- _Pàgina de Steam:_ la optimització és un poc diferent a una pàgina web. Cal optimitzar pensant en el cercador de Steam: un bon *capsule art*, screenshots, una descripcio clara i curta, i una selecció correcta de tags. 
+- _Pàgina en App store:_  la optimització és essencial. El nom de la app, icona i breu descricpión juguen un paper fonamental, i aquesta vegada el tràfic extern (anuncis pagats o xarxes socials) ajudarà a la Store a saber com gestionar la teua pàgina. Igual que en Steam, planifica molt bé l'ús de tags. 
+
+<h3>Crear una comunitat:</h3>
+- _Discord:_ Assegura't d'estructurar el servidor pensant bé els canals i el seu focus. Menys canals són més fàcils de gestionar. Invita a usuaris per crear una comunitat, mantin el servidor actiu, promociona'l i demana ajuda quan la necessites per moderar el contingut. 
+- _Altres comunitats:_ sigui per Youtube, Reddit, blogs, xarxes... aquests recursos ofereixen menys interacció que un servidor de Discord i és més difícil traure'n profit. Si recurreixes a aquestes i et preguntes si està sent d'utilitat, és perquè probablement, no ho està sent. 
+
+<h3>Marketing via e-mail:</h3>
+Per açò cal aconseguir que els usuaris s'apunten a una e-mail list, però aquells que ho fan, l'interès està garantitzat. Per aconseguir que s'apunten cal deixar molt clar com i com no es va a utilitzar aquest recurs, de manera que no hagin de preocupar-se perque sigui *spam*. Mantin un contacte regular, recull comentaris, dona atenció més personalitzada i guiada. Recorda que sempre pots consultar recursos de [e-mail marketing](https://themeisle.com/blog/best-free-email-marketing-services/). 
+
+<h3>Anuncis de pagament:</h3>
+La utilitat dels anuncis de pagament va més enllà d'aconseguir vendes. Permet obtenir mètriques per avaluar els materials de marketing, i obtenir de manera més precisa mètriques de ROI (*Return On Investment*, els marge de beneficis en relació a la inversió) i ROAS (*Return On Ad Spend*, el percentatge que relaciona el benefici final front a la inversió). Al calcular aquestes mètriques cal tenir en compte la plataforma de venda del joc. Els jocs que s'anuncien en una plataforma solen tenir un marge per a la plataforma, i les vendes in-game en jocs mòbils solen necessitar una SDK per extraure les dades de vendes. 
 
 
 https://www.gamedeveloper.com/business/analytics-and-kpis-marketing-for-video-games
