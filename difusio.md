@@ -1,46 +1,72 @@
 https://partner.steamgames.com/doc/home
 https://www.rengenmarketing.com/indie-game-marketing/
 Indie game marketing - per a devs que no tenen recursos per publicitar el joc. Normalment es basa en tècniques de marketing tipus “Grass roots” o “guerrilla marketing” que busquen high-impact en low-effort.
-*Errades habituals en indie marketing.*
-1. No tenir un pla de marketing: l’escassetat de recursos no excusa l’absència d’un pla que establisca objectius i estratègies. Açò inclou market/audience research que guiaran les decisions de negoci.
-2. No assignar cap recurs ni temps per al marketing: dedicar el 100% del temps i els recursos al development no ajudarà al projecte. Idealment es suggereix un 50/50. 
-3. Conèixer a l’audiència: no és suficient amb conèixer dades demogràfiques i altres jocs d’interès, cal saber també cóm i on es troben i crear oportunitats per entrar-hi.
-4. Cada acció ha de tenir una intencionalitat: les accions buides tan sols et fan estar-hi més ocupat. Reflexiona de quina manera cada acció que fas t’apropa més al teu objectiu.
-*Quan començar amb el màrketing del joc?*
+
+*A) Errades habituals en indie marketing.*
+
+*1. No tenir un pla de marketing:* l’escassetat de recursos no excusa l’absència d’un pla que establisca objectius i estratègies. Açò inclou market/audience research que guiaran les decisions de negoci.
+
+*2. No assignar cap recurs ni temps per al marketing:* dedicar el 100% del temps i els recursos al development no ajudarà al projecte. Idealment es suggereix un 50/50. 
+*3. Conèixer a l’audiència:* no és suficient amb conèixer dades demogràfiques i altres jocs d’interès, cal saber també cóm i on es troben i crear oportunitats per entrar-hi.
+
+*4. Cada acció ha de tenir una intencionalitat:* les accions buides tan sols et fan estar-hi més ocupat. Reflexiona de quina manera cada acció que fas t’apropa més al teu objectiu.
+
+*B) Quan començar amb el màrketing del joc?*
 Ahir, quan abans millor per crear oportunitats i consciència del joc.
-*Com començar amb el màrketing?* Cal sentar les bases amb foundational marketing.
-1. Crea un joc amb demanda de mercat: a l’hora de fer una elecció, per exemple fes
+
+*C) Com començar amb el màrketing?* Cal sentar les bases amb foundational marketing.
+
+*1. Crea un joc amb demanda de mercat:* a l’hora de fer una elecció, per exemple fes
 un ull al benefici per gèneres (https://www.gamedeveloper.com/business/genre-viability-on-steam-and-other-trends---an-analysis-using-review-count). Centra’t en
 acabar el joc sense acabar els recursos.
-2. Escriu un pla de marketing: ha de constar de les següents parts:
+
+*2. Escriu un pla de marketing:* ha de constar de les següents parts:
+
     a. Objectius: per contextualitzar el pla.
+    
     b. Objectius de marketing: per focalitzar el pla.
+    
     c. Recerca de mercat: busquem una comprensió holística de l’audiència.
+    
     d. Comunicació: descriu les maneres en que comunicarem el joc a l’audiència.
+    
     e. Contingut i recursos media: tot el contingut i el procés de creació per als recursos que requereix el pla.
-    f. Implementació del Funnel: concepde de marketing, com un embut que comunica les passes des de les accions de marketing fins l’oportunitat
-comercial. Els funnels normalment tenen passes: *adquisició* (donar a conèixer), *activació* (generar confiança), *retenció* (fidelització), *venda*
-(transformació d’usuaris a clients), *referència* (servei post-venda).
+    
+    f. Implementació del Funnel: concepde de marketing, com un embut que comunica les passes des de les accions de marketing fins l’oportunitat comercial. Els funnels normalment tenen passes: *adquisició* (donar a conèixer), *activació* (generar confiança), *retenció* (fidelització), *venda* (transformació d’usuaris a clients), *referència* (servei post-venda).
+    
     g. Estratègies de marketing: Canals i plataformes que ajuden a dirigir als usuaris pel funnel.
+    
     h. Mesurament de la campanya: processos i mètriques per assegurar-nos que les accions estan sent efectives. Ací és on cal escollir uns KPI relevants.
+    
     i. Timeline i pressupostos: detallem i expliquem els recursos, diners, temporalitat, etc. del plan.
 
-*COM ESCRIURE PLA DE MARKETING:* https://www.rengenmarketing.com/blog/indie-game-marketing-plan/
+```*LINK: Com escriure un pla de marketing?* https://www.rengenmarketing.com/blog/indie-game-marketing-plan/```
+
 Cal conèixer el mercat tant com sigui possible. Conèixer un gènere no vol dir conèixer el mercat. Mira els populars i best-selling, compara’ls amb els que han
 fracassat. Fixa’t en què destaca i estudia com posicionar-te.
+
     a. Juga a altres jocs del gènere.
+    
     b. Llig reviews d’aquests jocs i identifica pain points.
+    
     c. Fes preguntes en comunitats de jocs sobre com millorar el teu joc.
+    
     d. Pregunta a altres devs sobre les seues experiències i player feedback. Una bona recerca dirigirà el procés de desenvolupament del joc cap on correspon.
-    4. Cal conèixer l’audiència tant com sigui possible. No cal conèixer-los personalment, però pots trobar-los a comunitats per exemple d’altres títols de referència. Un exemple podria ser Reddit. Allí pots fixar-te en:
+    
+ Cal conèixer l’audiència tant com sigui possible. No cal conèixer-los personalment, però pots trobar-los a comunitats per exemple d’altres títols de referència. Un exemple podria ser Reddit. Allí pots fixar-te en:
+ 
     a. què els apasiona i què els desagrada?
+    
     b. com es comuniquen?
+    
     c. quins altres interessos tenen?
 
 Tot açò pot ajudar-te a crear diferents player persona.
+
 *5. Els missatges de marketing han de ser clars i concisos* (siguin imatges, vídeos o qualsevol cosa). És molt més habitual del que pareix pensar que la nostra
 informació és clara i comprensible per algú sense el context que nosaltres tenim del projecte, per això podem recurrir a altres dev communities i testejar els nostres missatges.
-DEV COMMUNITIES: https://www.rengenmarketing.com/blog/indie-game-dev-communities/
+```*LINK: Dev communities d'interès:* https://www.rengenmarketing.com/blog/indie-game-dev-communities/```
+
 *6. Creació del “viatge” del funnel.* Els funnels són un viatge moltes vegades inconscient per als usuaris, però molt intencionats per la nostra part. Alguns
 exemples de Funnels podrien ser:
     a. Social media post &gt; web/landsite &gt; email list &gt; discord &gt; playtest &gt; purchase
@@ -51,34 +77,27 @@ exemples de Funnels podrien ser:
 Cada pas del funnel requereix una Call-to-action, què ha de fer l’usuari per avançar al funnel. Hi ha funnels llargs, curts, inclus poden solapar-se.
 El viatge de l’usuari ha de ser consistent i incorporar elements temàtics, materials i missatges del joc que ajudi a fer-lo resonar. D’açò se n’ocupa el experiential marketing.
 
-*7. Contingut per compartir:* screenshots, art promocional, video/GIF clips, trailers
-“show not tell”.
+*7. Contingut per compartir:* screenshots, art promocional, video/GIF clips, trailers. Sempre cal recordar el “show not tell”.
 Cal tenir també un press-kit que agrupe tots aquests recursos. El presskit podem tenir-lo a la nostra pàgina, al Drive o fent servir servicis com Presskit
-(https://dopresskit.com/) cal tenir en compte a qui van destinats aquests presskits per ajustar el contingut d’aquests.
-How streamers choose games: https://newsletter.gamediscover.co/p/how-streamers-pick-games-the-splattercat
+(https://dopresskit.com/) cal tenir en compte a qui van destinats aquests presskits per ajustar el contingut d’aquests. Per exemple, creadors de contingut valoren tenir recursos per crear thumbnails i altres (wallpapers, art, logos… tot en diverses mides).
+```*LINK: How streamers choose games:* https://newsletter.gamediscover.co/p/how-streamers-pick-games-the-splattercat```
 
-Valoren tenir recursos per crear thumbnails i altres (wallpapers, art, logos… tot en diverses mides).
-*8. Estratègies de marketing*
+*D) ESTRATÈGIES DE MÀRKETING*
 El més típic es pensar en fer servir xarxes socials, influencers i events de videojocs.
-    a. Xarxes socials: segons el teu objectiu, una plataforma serà més útil que una altra.
+
+    *a. Xarxes socials: segons el teu objectiu, una plataforma serà més útil que una altra.
 Escull i has de conèixer-la a fons.
-    i. Reddit: la principal base demogràfica de reddit és la mateixa que dels jocs
-indie. Relaciona’t també a subreddits que es relacionen indirectament amb el
-teu joc. Llig les normes de promoció de cada comunitat, normalment hi ha
-una norma de 1/10 posts poden ser promocionals.
-    ii. Tik tok: l’audiència sol ser molt jove. El contingut es basa en vídeos amb
-música/sons atractius. Segueix altres game/non-game creators amb
-keywords i hash tags.
-    iii. Twitter: A twitter no li agraden els tweets amb links. Sigues selectiu amb qui
-interactues i fes-ho constantment. Participa en events setmanals com
-#screenshotsaturday. Fes pin d’un tweet amb una CTA link. Tingues DM
-oberts.
-    iv. Influencers: els streamers normalment sols creen contingut mentre juguen un joc. Els content creators poden contingut a més de fer stream.
-Normalment aquests reben més views. Per trobar influencers podem fer servir servicis (Lurkit, Indieboost,Adshot…) o fer nosaltres la feina. Per fer la
-feina nosatlres, certes eines (Lurkit, Sullygnome, TwitchTracker, SocialBlade…) que poden ajudar-nos. Influencers més petits pot ser més fàcil
-obtenir resposta. A més, molts estan molt focalitzats en tipus de jocs. Per comunicar-te amb influencers connecta amb ells, siguis curt i concís, i fes la
-feina fàcil: CTA (què vols que facin), screenshots i link a un press-kit. 
-    v. Events: els events físics tenen una sèrie de costos afegits (cabina, alquiler, viatge i dietes, materials de promoció, etc), però són una oportunitat per crear vincles. Per això és important tenir uns objectius clars i fer balanç d’aquests amb els costos. D’altra banda, els events virtuals cal saber com exposen els jocs, si hi ha streaming, com ha funcionat abans, etc.
+
+        i. Reddit: la principal base demogràfica de reddit és la mateixa que dels jocs indie. Relaciona’t també a subreddits que es relacionen indirectament amb el teu joc. Llig les normes de promoció de cada comunitat, normalment hi ha una norma de 1/10 posts poden ser promocionals.
+
+        ii. Tik tok: l’audiència sol ser molt jove. El contingut es basa en vídeos música/sons atractius. Segueix altres game/non-game creators amb keywords i hash tags.
+        
+        iii. Twitter: A twitter no li agraden els tweets amb links. Sigues selectiu amb qui interactues i fes-ho constantment. Participa en events setmanals com
+#screenshotsaturday. Fes pin d’un tweet amb una CTA link. Tingues DM oberts.
+
+        iv. Influencers: els streamers normalment sols creen contingut mentre juguen un joc. Els content creators poden contingut a més de fer stream. Normalment aquests reben més views. Per trobar influencers podem fer servir servicis (Lurkit, Indieboost,Adshot…) o fer nosaltres la feina. Per fer la feina nosatlres, certes eines (Lurkit, Sullygnome, TwitchTracker, SocialBlade…) que poden ajudar-nos. Influencers més petits pot ser més fàcil obtenir resposta. A més, molts estan molt focalitzats en tipus de jocs. Per comunicar-te amb influencers connecta amb ells, siguis curt i concís, i fes la feina fàcil: CTA (què vols que facin), screenshots i link a un press-kit. 
+        
+        v. Events: els events físics tenen una sèrie de costos afegits (cabina, alquiler, viatge i dietes, materials de promoció, etc), però són una oportunitat per crear vincles. Per això és important tenir uns objectius clars i fer balanç d’aquests amb els costos. D’altra banda, els events virtuals cal saber com exposen els jocs, si hi ha streaming, com ha funcionat abans, etc.
 
 Ací una llista interessant d’events:
 Steam Events and NEXT Festivals
