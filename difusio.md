@@ -69,6 +69,7 @@ Tot açò pot ajudar-te a crear diferents player persona.
 
 ##5. Els missatges de marketing han de ser clars i concisos
 Siguin imatges, vídeos o qualsevol cosa, és molt més habitual del que pareix pensar que la nostra informació és clara i comprensible per algú sense el context que nosaltres tenim del projecte, per això podem recurrir a altres dev communities i testejar els nostres missatges.
+
 ```*LINK: Dev communities d'interès:* https://www.rengenmarketing.com/blog/indie-game-dev-communities/```
 
 ##6. Creació del “viatge” del funnel.
@@ -86,7 +87,9 @@ Cada pas del funnel requereix una *Call-to-action*, què ha de fer l’usuari pe
 El viatge de l’usuari ha de ser consistent i incorporar elements temàtics, materials i missatges del joc que ajudi a fer-lo resonar. D’açò se n’ocupa el experiential marketing.
 
 ##7. Contingut per compartir:
+
 Screenshots, art promocional, video/GIF clips, trailers. Sempre cal recordar el “show not tell”. Cal tenir també un press-kit que agrupe tots aquests recursos. El presskit podem tenir-lo a la nostra pàgina, al Drive o fent servir servicis com Presskit (https://dopresskit.com/) cal tenir en compte a qui van destinats aquests presskits per ajustar el contingut d’aquests. Per exemple, creadors de contingut valoren tenir recursos per crear thumbnails i altres (wallpapers, art, logos… tot en diverses mides).
+
 ```*LINK: How streamers choose games:* https://newsletter.gamediscover.co/p/how-streamers-pick-games-the-splattercat```
 
 #D) ESTRATÈGIES DE MÀRKETING
