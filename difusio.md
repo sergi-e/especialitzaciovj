@@ -1,31 +1,41 @@
-https://partner.steamgames.com/doc/home
-https://www.rengenmarketing.com/indie-game-marketing/
-Indie game marketing - per a devs que no tenen recursos per publicitar el joc. Normalment es basa en tècniques de marketing tipus “Grass roots” o “guerrilla marketing” que busquen high-impact en low-effort.
 
-<h1>A) Errades habituals en indie marketing.</h1>
+<h1> Indie game marketing</h1>
 
-<h2>1. No tenir un pla de marketing:</h2>
-L’escassetat de recursos no excusa l’absència d’un pla que establisca objectius i estratègies. Açò inclou market/audience research que guiaran les decisions de negoci.
+Per a devs que no tenen gairebé recursos per publicitar el joc. Normalment es basa en tècniques de marketing tipus “Grass roots” o “guerrilla marketing” que busquen high-impact en low-effort. Cal fixar-se en les campanyes més virals dels videojocs. A nivell indie tenim el misteri en la campanya de *Firewatch*, les demos personalitzades de *Stanley Parable* o *This war of mine* repartint keys gratuites a _Pirate Bay_. Per la banda dels AAA tenim *Bioshock 2* i "Something in the sea", el tràiler de *Dead Island 2*, o *GTA4* i el màrketing agresiu. 
 
-<h2>2. No assignar cap recurs ni temps per al marketing:</h2>
-Dedicar el 100% del temps i els recursos al development no ajudarà al projecte. Idealment es suggereix un 50/50. 
+<h2>A) Errades habituals en indie marketing.</h2>
 
-<h2>3. Conèixer a l’audiència: </h2>
+<h3>1. No tenir un pla de marketing:</h3>
+L’escassetat de recursos no excusa l’absència d’un pla que establisca objectius i estratègies. Açò inclou market/audience research que guiaran les decisions de negoci. Cal tenir una planificació temporal i una gestió dels recursos que estiguin a l'abast. Cal planificar amb temps per poder seguir les mètriques i avaluar el nostre progrés. Cal pensar-hi en el marketing com una part més del desenvolupament. 
+
+<h3>2. No assignar cap recurs ni temps per al marketing:</h3>
+Dedicar el 100% del temps i els recursos al development no ajudarà al projecte. Idealment es suggereix un 50/50, ja que per exemple abans del llançament és convenient tenir ja una petita comunitat que generi moviment i conversació al voltant del joc i que pugui oferir unes primeres bones resenyes del producte. 
+
+<h3>3. Escollir els KPI apropiats: </h3>
+Els Key Points of Interest (KPI) són mètriques que ens permeten avaluar el resultat de les nostres accions de marketing. Des del nombre de pre-orders, al nombre de seguidors en Twitter, dades demogràfiques, retenció setmanal... Tot són mètriques en les qeu ens hem de fixar prèviament a fer una acció, per poder analitzar la manera en que aquesta afecta les dades. Recorda fer ús d'eines com Google Analytics o Xsolla Tracking Tool. 
+
+> _LINK: Més sobre l'elecció i gestió de KPI:_ https://www.gamedeveloper.com/business/analytics-and-kpis-marketing-for-video-games
+> _LINK: Més sobre KPI importantes en indie game marketing:_ https://gameifyouare.com/2019/01/24/the-most-important-metrics-for-indie-game-marketing/
+
+<h3>4. Conèixer a l’audiència: </h3>
 No és suficient amb conèixer dades demogràfiques i altres jocs d’interès, cal saber també cóm i on es troben i crear oportunitats per entrar-hi.
 
-<h2>4. Cada acció ha de tenir una intencionalitat:</h2>
+<h3>5. Cada acció ha de tenir una intencionalitat:</h3>
 Les accions buides tan sols et fan estar-hi més ocupat. Reflexiona de quina manera cada acció que fas t’apropa més al teu objectiu.
 
-<h1>B) Quan començar amb el màrketing del joc?</h1>
+<h3>6. Falta de branding i compromís amb la comunitat:</h3>
+El joc ha de tener una identitat molt clara i la campanya ha d'estar preparada per transmetre açò de manera constant amb influencers, prensa, jugadors i la comunitat més fidel, per poder satisfer les diferents vies de demanda que requereixen. 
+
+<h2>B) Quan començar amb el màrketing del joc?</h2>
 Ahir, quan abans millor per crear oportunitats i consciència del joc.
 
-<h1>C) Com començar amb el màrketing?</h1>
+<h2>C) Com començar amb el màrketing?</h2>
 Cal sentar les bases amb foundational marketing.
 
-<h2>1. Crea un joc amb demanda de mercat:</h2>
+<h3>1. Crea un joc amb demanda de mercat:</h3>
 A l’hora de fer una elecció, per exemple fes un ull al benefici per gèneres (https://www.gamedeveloper.com/business/genre-viability-on-steam-and-other-trends---an-analysis-using-review-count). Centra’t en acabar el joc sense acabar els recursos.
 
-<h2>2. Escriu un pla de marketing:</h2>
+<h3>2. Escriu un pla de marketing:</h3>
 
     a. Objectius: per contextualitzar el pla.
     
@@ -68,12 +78,12 @@ fracassat. Fixa’t en què destaca i estudia com posicionar-te.
 
 Tot açò pot ajudar-te a crear diferents player persona.
 
-<h2>5. Els missatges de marketing han de ser clars i concisos</h2>
+<h3>5. Els missatges de marketing han de ser clars i concisos</h3>
 Siguin imatges, vídeos o qualsevol cosa, és molt més habitual del que pareix pensar que la nostra informació és clara i comprensible per algú sense el context que nosaltres tenim del projecte, per això podem recurrir a altres dev communities i testejar els nostres missatges.
 
 > _LINK: Dev communities d'interès:_ https://www.rengenmarketing.com/blog/indie-game-dev-communities/
 
-<h2>6. Creació del “viatge” del funnel.</h2>
+<h3>6. Creació del “viatge” del funnel.</h3>
 Els funnels són un viatge moltes vegades inconscient per als usuaris, però molt intencionats per la nostra part. Alguns exemples de Funnels podrien ser:
 
     a. Social media post &gt; web/landsite &gt; email list &gt; discord &gt; playtest &gt; purchase
@@ -87,28 +97,31 @@ Els funnels són un viatge moltes vegades inconscient per als usuaris, però mol
 Cada pas del funnel requereix una *Call-to-action*, què ha de fer l’usuari per avançar al funnel. Hi ha funnels llargs, curts, inclus poden solapar-se.
 El viatge de l’usuari ha de ser consistent i incorporar elements temàtics, materials i missatges del joc que ajudi a fer-lo resonar. D’açò se n’ocupa el experiential marketing.
 
-<h2>7. Contingut per compartir:</h2>
+<h3>7. Contingut per compartir:</h3>
 
 Screenshots, art promocional, video/GIF clips, trailers. Sempre cal recordar el “show not tell”. Cal tenir també un press-kit que agrupe tots aquests recursos. El presskit podem tenir-lo a la nostra pàgina, al Drive o fent servir servicis com Presskit (https://dopresskit.com/) cal tenir en compte a qui van destinats aquests presskits per ajustar el contingut d’aquests. Per exemple, creadors de contingut valoren tenir recursos per crear thumbnails i altres (wallpapers, art, logos… tot en diverses mides).
 
 > _LINK: How streamers choose games:_ https://newsletter.gamediscover.co/p/how-streamers-pick-games-the-splattercat
 
-<h1>D) ESTRATÈGIES DE MÀRKETING</h1>
+<h2>D) ESTRATÈGIES DE MÀRKETING</h2>
 El més típic es pensar en fer servir xarxes socials, influencers i events de videojocs.
 
-<h2>a. Xarxes socials: </h2>
+<h3>a. Xarxes socials: </h3>
 Segons el teu objectiu, una plataforma serà més útil que una altra. Escull i has de conèixer-la a fons.
 
         i. Reddit: la principal base demogràfica de reddit és la mateixa que dels jocs indie. Relaciona’t també a subreddits que es relacionen indirectament amb el teu joc. Llig les normes de promoció de cada comunitat, normalment hi ha una norma de 1/10 posts poden ser promocionals.
 
         ii. Tik tok: l’audiència sol ser molt jove. El contingut es basa en vídeos música/sons atractius. Segueix altres game/non-game creators amb keywords i hash tags.
         
-        iii. Twitter: A twitter no li agraden els tweets amb links. Sigues selectiu amb qui interactues i fes-ho constantment. Participa en events setmanals com <h1>screenshotsaturday. Fes pin d’un tweet amb una CTA link. Tingues DM oberts.
+        iii. Twitter: A twitter no li agraden els tweets amb links. Sigues selectiu amb qui interactues i fes-ho constantment. Participa en events setmanals com <h2>screenshotsaturday. Fes pin d’un tweet amb una CTA link. Tingues DM oberts.
 
-<h2>b. Influencers:</h2>
+<h3>b. Influencers i prensa:</h3>
 Els streamers normalment sols creen contingut mentre juguen un joc. Els content creators poden contingut a més de fer stream. Normalment aquests reben més views. Per trobar influencers podem fer servir servicis (Lurkit, Indieboost,Adshot…) o fer nosaltres la feina. Per fer la feina nosatlres, certes eines (Lurkit, Sullygnome, TwitchTracker, SocialBlade…) que poden ajudar-nos. Influencers més petits pot ser més fàcil obtenir resposta. A més, molts estan molt focalitzats en tipus de jocs. Per comunicar-te amb influencers connecta amb ells, siguis curt i concís, i fes la feina fàcil: CTA (què vols que facin), screenshots i link a un press-kit. 
+
+> _LINK: Template per a una game press release:_ https://indiegamegirl.com/press-release-template/
+> _LINK: Exemple d'una bona press release:_ https://indiegamegirl.com/press-release-example/
         
-<h2>c. Events:</h2>
+<h3>c. Events:</h3>
 Els events físics tenen una sèrie de costos afegits (cabina, alquiler, viatge i dietes, materials de promoció, etc), però són una oportunitat per crear vincles. Per això és important tenir uns objectius clars i fer balanç d’aquests amb els costos. D’altra banda, els events virtuals cal saber com exposen els jocs, si hi ha streaming, com ha funcionat abans, etc.
 
 Ací una llista interessant d’events:
@@ -138,114 +151,45 @@ Ací una llista interessant d’events:
 - DreamHack Beyond
 ```
 
-<h2>d. Altres idees:</h2>
+<h3>d. Altres idees:</h3>
 
-<h3>Landing Page:</h3>
+<h4>Landing Page:</h4>
 
 Sol formar part dels *funnels* i està pensada per convertir als usuaris en jugadors. No cal que sigui necessàriament una pàgina web del videojoc. 
 - _Pàgina web:_ tenen el millor índex de conversió (aprox. 24%). Per aconseguir-ho cal seguir pràctiques de *[Conversion Rate Optimization](https://moz.com/learn/seo/conversion-rate-optimization)* (CRO): saber cóm arriben els usuaris a la pàgina, centrar-se en un mètode de conversió (Discord, newsletter,...), incentivar la conversió amb alguna oferta (accés a beta o altres), saber interpreatar analítiques i mètriques. 
-- _Pàgina de Steam:_ la optimització és un poc diferent a una pàgina web. Cal optimitzar pensant en el cercador de Steam: un bon *capsule art*, screenshots, una descripcio clara i curta, i una selecció correcta de tags. 
+- _Pàgina de Steam:_ la optimització és un poc diferent a una pàgina web. Cal optimitzar pensant en el cercador de Steam: un bon *capsule art*, screenshots, una descripcio clara i curta, i una selecció correcta de tags. En aquest cas, com en el de la App Store, és convenient tenir bones resenyes abans del llançament, per tenir una moviment d'inèrcia previ. 
 - _Pàgina en App store:_  la optimització és essencial. El nom de la app, icona i breu descricpión juguen un paper fonamental, i aquesta vegada el tràfic extern (anuncis pagats o xarxes socials) ajudarà a la Store a saber com gestionar la teua pàgina. Igual que en Steam, planifica molt bé l'ús de tags. 
 
-<h3>Crear una comunitat:</h3>
-- _Discord:_ Assegura't d'estructurar el servidor pensant bé els canals i el seu focus. Menys canals són més fàcils de gestionar. Invita a usuaris per crear una comunitat, mantin el servidor actiu, promociona'l i demana ajuda quan la necessites per moderar el contingut. 
+> _LINK: Documentació per partners de steam:_ https://partner.steamgames.com/doc/home
+
+<h4>Crear una comunitat:</h4>
+
+- _Discord:_ Assegura't d'estructurar el servidor pensant bé els canals i el seu focus. Menys canals són més fàcils de gestionar. Invita a usuaris per crear una comunitat, mantin el servidor actiu, promociona'l i demana ajuda quan la necessites per moderar el contingut. Un exemple són els creadors de *Descenders* (RageSquid), que crearen un meta-joc al seu servidor de Discord. 
+
 - _Altres comunitats:_ sigui per Youtube, Reddit, blogs, xarxes... aquests recursos ofereixen menys interacció que un servidor de Discord i és més difícil traure'n profit. Si recurreixes a aquestes i et preguntes si està sent d'utilitat, és perquè probablement, no ho està sent. 
 
-<h3>Marketing via e-mail:</h3>
-Per açò cal aconseguir que els usuaris s'apunten a una e-mail list, però aquells que ho fan, l'interès està garantitzat. Per aconseguir que s'apunten cal deixar molt clar com i com no es va a utilitzar aquest recurs, de manera que no hagin de preocupar-se perque sigui *spam*. Mantin un contacte regular, recull comentaris, dona atenció més personalitzada i guiada. Recorda que sempre pots consultar recursos de [e-mail marketing](https://themeisle.com/blog/best-free-email-marketing-services/). 
+<h4>Marketing via e-mail:</h4>
+Per açò cal aconseguir que els usuaris s'apunten a una e-mail list, però aquells que ho fan, l'interès està garantitzat. Per aconseguir que s'apunten cal deixar molt clar com i com no es va a utilitzar aquest recurs, de manera que no hagin de preocupar-se perque sigui *spam*. Mantin un contacte regular, recull comentaris, dona atenció més personalitzada i guiada. Recorda que sempre pots consultar recursos de [e-mail marketing](https://themeisle.com/blog/best-free-email-marketing-services/). I sempre intenta buscar una manera de que la teua campanya destaque. Els creadors de _Boyfriend Dungeon_ aconseguiren açò fent que la seua campanya per e-mail estigués escrita per un dels personatges del joc. 
 
-<h3>Anuncis de pagament:</h3>
+<h4>Anuncis de pagament:</h4>
 La utilitat dels anuncis de pagament va més enllà d'aconseguir vendes. Permet obtenir mètriques per avaluar els materials de marketing, i obtenir de manera més precisa mètriques de ROI (*Return On Investment*, els marge de beneficis en relació a la inversió) i ROAS (*Return On Ad Spend*, el percentatge que relaciona el benefici final front a la inversió). Al calcular aquestes mètriques cal tenir en compte la plataforma de venda del joc. Els jocs que s'anuncien en una plataforma solen tenir un marge per a la plataforma, i les vendes in-game en jocs mòbils solen necessitar una SDK per extraure les dades de vendes. 
 
+---
 
-https://www.gamedeveloper.com/business/analytics-and-kpis-marketing-for-video-games
-https://gameifyouare.com/2019/01/24/the-most-important-metrics-for-indie-game-marketing/
+<h2> Recursos a consultar </h2>
 
-
-
-https://www.gamedeveloper.com/business/a-comprehensive-guide-to-indie-game-pre-launch-campaigns
-Tener una estrategia sólida de pre-lanzamiento es clave para construir una audiencia comprometida antes del lanzamiento del juego.
-Es importante crear un sitio web atractivo y fácil de usar que incluya información importante sobre el juego y que pueda ser compartido en redes sociales.
-Las páginas de la tienda digital deben ser optimizadas para atraer a los jugadores y para aparecer en los resultados de búsqueda de la tienda.
-Generar interés en redes sociales es fundamental, y esto puede ser logrado a través de publicaciones regulares, la creación de una comunidad comprometida y la realización de concursos.
-Es importante tener un tráiler impactante que muestre lo mejor del juego y que pueda ser compartido en redes sociales y en sitios web.
-Generar reseñas previas al lanzamiento es crucial para crear un buzz positivo alrededor del juego, y esto puede ser logrado a través del envío de versiones de prensa y la participación en eventos y conferencias.
-Involucrar a la comunidad es importante y se puede lograr mediante la realización de encuestas, la recopilación de comentarios y la participación en foros y grupos de redes sociales.
-Los comentarios de los jugadores deben ser tomados en cuenta y utilizados para mejorar el juego antes del lanzamiento y para generar interés en los jugadores.
-En general, el artículo proporciona consejos valiosos para crear una campaña de lanzamiento exitosa para un videojuego indie, con el objetivo de construir una audiencia comprometida antes del lanzamiento del juego.
-
-
-https://gameanalytics.com/blog/creative-ways-game-community/
-Es importante construir una comunidad fuerte alrededor del juego para aumentar la retención de jugadores y fomentar el crecimiento orgánico.
-La inclusión de contenido generado por los usuarios, como videos, capturas de pantalla y memes, puede ser una forma efectiva de generar interacción y compromiso con la comunidad.
-La creación de eventos en el juego y la realización de concursos y desafíos pueden ser una forma efectiva de fomentar la participación y la lealtad de la comunidad.
-La transparencia y la comunicación abierta son importantes para construir una relación de confianza con la comunidad, y esto puede ser logrado a través de actualizaciones regulares, la resolución de problemas y la retroalimentación.
-La inclusión de características sociales en el juego, como tablas de clasificación, logros y la posibilidad de conectarse con amigos, puede ser una forma efectiva de fomentar la interacción entre los jugadores.
-La creación de una comunidad fuera del juego, a través de foros, redes sociales y otros medios, puede ayudar a construir una audiencia comprometida y leal.
-La colaboración con otros desarrolladores y la inclusión de referencias a otros juegos en el juego pueden ser una forma efectiva de fomentar la participación de la comunidad y aumentar la visibilidad del juego.
-En general, el artículo proporciona consejos creativos y prácticos para construir una comunidad fuerte alrededor del juego, con el objetivo de fomentar la retención de jugadores y el crecimiento orgánico.
-
-https://www.youtube.com/watch?v=mrZlSDngwH8
-presentado en la GDC, la ponente Holly Pickering de la agencia de relaciones públicas Indigo Pearl comparte su experiencia y estrategias para planificar y llevar a cabo una campaña de relaciones públicas para un juego.
-En resumen, los puntos importantes que aborda en el video son los siguientes:
-La importancia de entender la visión y los objetivos del juego, así como su audiencia objetivo.
-Cómo establecer una estrategia clara y medible para la campaña, incluyendo objetivos específicos y métricas para medir el éxito.
-Cómo crear un kit de prensa efectivo, que incluya información clave sobre el juego, capturas de pantalla, tráileres, logotipos y otra información útil para los medios de comunicación.
-Cómo establecer y mantener relaciones sólidas con los medios de comunicación y los periodistas, incluyendo la identificación de los medios clave, el establecimiento de contactos y el seguimiento.
-Cómo aprovechar eventos clave, como ferias y exposiciones, para promocionar el juego y establecer relaciones con los medios de comunicación.
-Cómo utilizar herramientas digitales como las redes sociales, blogs y boletines informativos para promocionar el juego y mantener a los seguidores informados.
-En general, el video ofrece una perspectiva práctica y útil sobre cómo planificar y llevar a cabo una campaña de relaciones públicas exitosa para un juego, y cómo maximizar su visibilidad y alcance en los medios de comunicación y la comunidad de jugadores.
-
-https://www.youtube.com/watch?v=bbn64jIHjCo
-En resumen, los puntos importantes que aborda en el video son los siguientes:
-La importancia de crear una historia convincente y auténtica que conecte emocionalmente con la audiencia y muestre el valor del juego.
-Cómo crear un sitio web eficaz y atractivo para el juego, que incluya información útil y atractiva, capturas de pantalla y tráileres.
-Cómo utilizar los medios sociales y la comunidad de jugadores para generar interés y compromiso con el juego, incluyendo la creación de contenido exclusivo para la comunidad y la participación en eventos y foros.
-Cómo colaborar con los medios de comunicación y los influyentes de la industria para maximizar la exposición y la cobertura del juego.
-Cómo aprovechar eventos clave, como ferias y exposiciones, para promocionar el juego y establecer relaciones con los medios de comunicación.
-Cómo medir y evaluar el éxito de la campaña de marketing, incluyendo el seguimiento de las métricas clave, la retroalimentación de los jugadores y el análisis de los resultados finales.
-En general, el video ofrece una perspectiva práctica y detallada sobre cómo planificar y llevar a cabo una campaña de marketing exitosa para un juego, y cómo aprovechar eficazmente los recursos y herramientas disponibles para maximizar la exposición y el éxito del juego.
-
-
-https://www.devuego.es/blog/2019/03/15/marketing-de-videojuegos-indie-problemas-comunes-y-como-arreglarlos/
-El primer problema común es la falta de una estrategia de marketing clara y bien definida. El autor recomienda establecer objetivos y plazos concretos para la campaña de marketing, y considerar factores como el público objetivo y los canales de marketing adecuados.
-El segundo problema común es la falta de atención al branding y la imagen de la marca. El autor sugiere que los desarrolladores se centren en crear una marca sólida y coherente para su juego, con una identidad visual atractiva y un tono de voz claro.
-El tercer problema común es la falta de compromiso con la comunidad de jugadores. El autor destaca la importancia de construir una relación positiva y activa con la comunidad de jugadores, involucrándolos en el proceso de desarrollo y promoción del juego.
-El cuarto problema común es la falta de una estrategia de relaciones públicas efectiva. El autor recomienda establecer relaciones con los medios de comunicación y los influyentes de la industria, y ofrecer exclusivas y contenido interesante para generar interés y cobertura del juego.
-El quinto problema común es la falta de seguimiento y análisis de los resultados de la campaña de marketing. El autor destaca la importancia de medir y analizar los resultados de la campaña para evaluar su éxito y hacer ajustes y mejoras en el futuro.
-
-https://gameanalytics.com/blog/marketing-indie-game-without-budget/
-La creatividad es la clave para llevar a cabo una campaña de marketing de videojuegos indie con bajo presupuesto.
-Se deben establecer objetivos claros y realistas en función de los recursos disponibles, lo que ayudará a enfocar la estrategia de marketing.
-Se recomienda centrarse en la construcción de una comunidad en línea a través de las redes sociales y plataformas de juego, como Discord y Twitch.
-Las relaciones públicas son una herramienta efectiva para dar a conocer el juego a través de medios de comunicación especializados y streamers.
-La identidad visual del juego es importante para captar la atención de los jugadores potenciales, por lo que se recomienda tener una página web atractiva y una imagen coherente en las redes sociales.
-Los lanzamientos y eventos pueden ayudar a generar entusiasmo y atención alrededor del juego. También se pueden aprovechar los eventos temáticos como Halloween o Navidad para promocionar el juego.
-Las colaboraciones con otros desarrolladores o marcas pueden aumentar la visibilidad del juego y su alcance en la comunidad de juegos.
-Es importante seguir aprendiendo sobre el marketing de videojuegos y estar atento a nuevas tendencias y herramientas disponibles.
-    
-    
-https://indiegamegirl.com/no-budget-marketing/
-Para llevar a cabo una campaña de marketing de videojuegos indie con bajo presupuesto, es necesario centrarse en la creatividad y la planificación.
-La construcción de una comunidad en línea es importante, por lo que se recomienda aprovechar las redes sociales y las plataformas de juego como Twitch y Steam.
-El contenido generado por los usuarios es una herramienta efectiva para llegar a nuevos jugadores y aumentar la visibilidad del juego.
-Las relaciones públicas son esenciales para dar a conocer el juego a través de los medios de comunicación especializados y los bloggers de juegos.
-Las asociaciones con otros desarrolladores y empresas pueden ayudar a aumentar el alcance y la visibilidad del juego.
-Los eventos y concursos pueden ser una herramienta efectiva para generar entusiasmo y aumentar la atención alrededor del juego.
-Es importante estar siempre en busca de nuevas oportunidades de promoción y estar al tanto de las últimas tendencias y herramientas disponibles.
-La clave para tener éxito en el marketing de videojuegos indie con bajo presupuesto es tener una estrategia clara y enfocarse en las herramientas y tácticas que generen el mayor impacto para el juego.
-
-PRESS RELEASE TIPS: https://indiegamegirl.com/press-release-template/
-https://indiegamegirl.com/press-release-example/
-Encabezado llamativo: El título debe ser llamativo e informativo, y resumir brevemente el contenido de la press release.
-Párrafo de apertura fuerte: El primer párrafo es crucial, ya que debe captar la atención del lector y presentar los aspectos más destacados del juego.
-Descripción del juego: Incluya una descripción detallada del juego, sus características únicas, jugabilidad y cualquier otro elemento que lo haga especial.
-Capturas de pantalla y tráileres: Asegúrese de incluir capturas de pantalla y un tráiler del juego para darle a los periodistas una idea visual del juego.
-Datos de contacto: Incluya información de contacto detallada, incluyendo su nombre, correo electrónico y número de teléfono, para que los periodistas puedan ponerse en contacto con usted fácilmente para obtener más información o para solicitar una entrevista.
-Personalización: Es importante adaptar la press release a cada periodista o medio de comunicación específico. Investigue a los periodistas que cubren juegos indie y adapte su mensaje para asegurarse de que sea relevante para su audiencia.
-Lanzamiento o fecha de disponibilidad: No olvide incluir la fecha de lanzamiento o disponibilidad del juego.
-Cierre: Termine la press release con una conclusión clara y concisa que resuma la información clave y que anime a los periodistas a ponerse en contacto con usted para obtener más información.
-Recuerde, su press release debe ser clara, concisa y llamativa para que sea efectiva. Asegúrese de enviarla a los periodistas adecuados y en el momento adecuado para aumentar las posibilidades de que su juego indie reciba la cobertura que merece.
+- https://enjin.io/blog/5-examples-of-successful-indie-game-marketing-campaigns
+- https://www.rengenmarketing.com/indie-game-marketing/
+- https://www.gamedeveloper.com/business/analytics-and-kpis-marketing-for-video-games
+- https://gameifyouare.com/2019/01/24/the-most-important-metrics-for-indie-game-marketing/
+- https://www.gamedeveloper.com/business/a-comprehensive-guide-to-indie-game-pre-launch-campaigns
+- https://gameanalytics.com/blog/creative-ways-game-community/
+- https://www.youtube.com/watch?v=mrZlSDngwH8
+- https://www.youtube.com/watch?v=bbn64jIHjCo
+- https://www.devuego.es/blog/2019/03/15/marketing-de-videojuegos-indie-problemas-comunes-y-como-arreglarlos/
+- https://gameanalytics.com/blog/marketing-indie-game-without-budget/
+- https://indiegamegirl.com/no-budget-marketing/
+- https://indiegamegirl.com/press-release-example/
 
 
 
