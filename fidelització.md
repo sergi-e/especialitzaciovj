@@ -39,6 +39,7 @@ De manera molt senzilla:
 -> Llegim les notificacions (catalitzador) i premem la del nostre lloc per recollir una recompensa (acció). 
 Aquests són dos hàbits encadenats. Açò pot aplicar-se a dintre del propi joc amb el que anomenem **Feedback loop**, on cada acció del jugador li report aun feedback que provoca una nova acció. 
 > Monstre apareix (catalitzador) -> jugador ataca (acció> -> Monstre mor i dóna recompensa (catalitzador) -> Creem nou equipament amb el botí (acció) -> ...
+
 Els feedback loops que tracten de crear nous hàbits són especialment eficients quan són curts, no requereixen la presa de decisions i retornen feedback positiu o mostren progrés. Aquests bucles es repetiran moltíssimes vegades en un joc, de manera que han de ser gratificants i divertits per als jugadors. Açò és especialment evident en jocs tipus arcade, però inclús en un MMO, les quests ofereixen petits loops que s'entremesclen amb loops més llargs. 
 
 En la creació d'hàbits cal tenir en compte la diferència entre hàbit i adicció. Una retenció a llarg termini es bsa en al creació d'hàbits saludables que proporcionen una experiència positiva. Encara que explotem mecanismes psicològics (com el [reward system](https://www.wikiwand.com/en/Reward_system)). Podem recurrir a tècniques com les caixes de Skinner o mecàniques de grindeig que forcen els límits ètics del desenvolupament, però és millor utilitzar recursos que no exploten als usuaris en sí, sinò les seues ganes d'aprendre, descobrir, aconseguir, millorar... 
