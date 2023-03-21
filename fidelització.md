@@ -33,11 +33,13 @@ També cal saber evitar pèrdues i tallar. Si un joc té molt baixa retenció D1
 
 Una de les millors maneres de crear usuaris fidels és crear un hàbit de joc. Aquest tarda en crear-se entre 18 i 254 dies, de mitjana 66, però açò no és una regla. Hàbits senzills poden acomodar-se en qüestió de dies.  
 ![imatge](https://user-images.githubusercontent.com/59253112/226701820-9f53b5b7-1439-4dc4-a4c4-84df574493fc.png)
+
 Cada hàbit té un catalitzador que provoca l'acció, especialment si hi ha una recompensa. Obrir el feed de Twitter o Instagram és molt fàcil i gratificant, de s'automatitza fàcilment. Les millors maneres d'acostumar un hàbit són recompenses (intrínseques o extrínseques) i construir-los sobre hàbits ja instaurats.
 De manera molt senzilla:
 -> El mòbil vibra (catalitzador) i l'engegem per veure les nostres notificacions (acció). 
 -> Llegim les notificacions (catalitzador) i premem la del nostre lloc per recollir una recompensa (acció). 
 Aquests són dos hàbits encadenats. Açò pot aplicar-se a dintre del propi joc amb el que anomenem **Feedback loop**, on cada acció del jugador li report aun feedback que provoca una nova acció. 
+
 > Monstre apareix (catalitzador) -> jugador ataca (acció> -> Monstre mor i dóna recompensa (catalitzador) -> Creem nou equipament amb el botí (acció) -> ...
 
 Els feedback loops que tracten de crear nous hàbits són especialment eficients quan són curts, no requereixen la presa de decisions i retornen feedback positiu o mostren progrés. Aquests bucles es repetiran moltíssimes vegades en un joc, de manera que han de ser gratificants i divertits per als jugadors. Açò és especialment evident en jocs tipus arcade, però inclús en un MMO, les quests ofereixen petits loops que s'entremesclen amb loops més llargs. 
