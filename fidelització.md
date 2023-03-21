@@ -44,10 +44,19 @@ Aquests són dos hàbits encadenats. Açò pot aplicar-se a dintre del propi joc
 
 Els feedback loops que tracten de crear nous hàbits són especialment eficients quan són curts, no requereixen la presa de decisions i retornen feedback positiu o mostren progrés. Aquests bucles es repetiran moltíssimes vegades en un joc, de manera que han de ser gratificants i divertits per als jugadors. Açò és especialment evident en jocs tipus arcade, però inclús en un MMO, les quests ofereixen petits loops que s'entremesclen amb loops més llargs. 
 
+- Feedback loop: https://www.smashingmagazine.com/2013/02/designing-great-feedback-loops/
+Per tal de millorar el Feedback loop cal identificar primer el loop a millorar. Llista els patrons d'accions que es repeteixen (poden implicar moments, espais, mitjans o inclús diferents persones) i fixa't en els catalitzadors i les accions associades. Els loops poden millorar-se en quatre aspectes:
+- **Velocitat:** quan més tarde el feedback, pitjor. Açò té a veure amb el _Descompte hiperbòlic_, un biaix que du a les persones a escollir recompenses petites però immediates front al llarg termini. Aquest feedback pot ser real o simulat, per exemple, les pàgines de bancs utilitzen simulen els efectes de les decisions per estimular la presa d'aquestes en base al que impliquen a llarg termini. D'altra banda, targetes de crèdit han reforçat un hàbit negatiu de manera contrària, dilatant un feedback negatiu (extraure els diners del compte) a final de mes. 
+- 
+
+
 En la creació d'hàbits cal tenir en compte la diferència entre hàbit i adicció. Una retenció a llarg termini es bsa en al creació d'hàbits saludables que proporcionen una experiència positiva. Encara que explotem mecanismes psicològics (com el [reward system](https://www.wikiwand.com/en/Reward_system)). Podem recurrir a tècniques com les caixes de Skinner o mecàniques de grindeig que forcen els límits ètics del desenvolupament, però és millor utilitzar recursos que no exploten als usuaris en sí, sinò les seues ganes d'aprendre, descobrir, aconseguir, millorar... 
 
-Feedback loop: https://www.smashingmagazine.com/2013/02/designing-great-feedback-loops/
-Operant conditioning (Skinner box): https://simplypsychology.org/operant-conditioning.html
+
+
+
+
+- Operant conditioning (Skinner box): https://simplypsychology.org/operant-conditioning.html
 
 
 ---
