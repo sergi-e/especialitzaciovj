@@ -86,6 +86,7 @@ El que sí podem aclarir és que el gacha té una història més complerta als s
 https://renatus.com/gacha-types-of-gotcha
 https://www.xataka.com/videojuegos/que-loot-boxes-videojuegos-explicado-para-que-todavia-piensan-que-como-cromos-panini
 https://www.xfire.com/gacha-vs-lootboxes-whats-the-difference/
+https://cultureofgaming.com/operant-conditioning-how-games-condition-players/
 
 ![imatge](https://user-images.githubusercontent.com/59253112/227146191-ec41d3b6-c3ea-49a6-a7c2-c08566782f74.png)
 
