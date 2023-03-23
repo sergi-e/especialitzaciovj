@@ -76,6 +76,17 @@ El condicionament operant implica la repetició d'un comportament, però: quant 
 
 Els millors resultats s'obtenen amb el reforç per ràtio variable, on el comportament es repeteix molt ràpidament, i l'extinció és molt lenta, ja que el caràcter arbitrari fa difícil de predir la resposta. Lo impredecible del reforç produeix respostes més consistents. Ací entren a debat mecanismes que exploten aquesta arbitrarietat per crear sistemes que tracten de reforçar un comportament adictiu. **GATCHAS, LOOTBOXES...**
 
+- **Què és una loot box?** Les loot boxes són mecanismes de pagament (sigui directe o indirecte) a un videojoc que ofereixen una recompensa aleatòria, siguin cosmètics o amb conseqüències de joc. Cal tenir en compte que, encara i que 
+- **I què és un _gacha_?** Els gacha tenen un origen un poc diferent de les _loot boxes_, però es tracta essencialment de jocs de pagament amb recompenses aleatoris. Podriem dir que són dos mecanismes molt similars que es van desenvolupar a diferents zones geogràfiques, però que avuí en dia estan tan vinculats que no hi ha gaire manera de diferenciar-los. Algunes persones comenten que la relació entre gacha i loot box és como la dels polzes amb els dits: tots els polzes són dits, però no tots els dits són polzes. De la mateixa manera, tots els gacha són loot boxes, però no totes les loot boxes són un gacha. Les dos principals diferències que es comenten són:
+- Un gacha té transparència pel que fa a la probabilitat d'obtenir qualsevol tipus de recompensa. 
+- Si un videojoc tan sols utilitza aquest mecanisme aleatori per la seua financiació, és un gacha (per lo tant un joc F2P amb loot boxes seria un gacha). D'altra banda, si el mecanisme aleatori està construit a sobre d'un joc de pagament, es tracta senzillament d'un joc amb loot boxes. No obstant, aquesta no es tracta diferenciació no és clara i establerta. 
+
+El que sí podem aclarir és que el gacha té una història més complerta als seus paísos d'origen, on, abans dels videojocs, ja existien màquines de joguets que funcionaven amb aquesta mecànica. 
+
+https://renatus.com/gacha-types-of-gotcha
+https://www.xataka.com/videojuegos/que-loot-boxes-videojuegos-explicado-para-que-todavia-piensan-que-como-cromos-panini
+https://www.xfire.com/gacha-vs-lootboxes-whats-the-difference/
+
 ![imatge](https://user-images.githubusercontent.com/59253112/227146191-ec41d3b6-c3ea-49a6-a7c2-c08566782f74.png)
 
 Tots aquests principis s'utilitzen per definir diferents tècniques de modificació de comportament. Dos de les més conegudes serien: 
