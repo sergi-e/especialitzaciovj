@@ -58,6 +58,8 @@ En la creació d'hàbits cal tenir en compte la diferència entre hàbit i adicc
 
 
 - Operant conditioning (Skinner box): https://simplypsychology.org/operant-conditioning.html
+- https://simplypsychology.org/schedules-of-reinforcement.html
+
 Mètode d'aprenentatge que reforça la repetició d'un comportament recompensat i evita un castigat (aquesta és la llei d'efecte-reforç). No tracta de comprendre els mecanismes més interns i profunds de la ment que determinen el comportament, sinò afectar aquest directament. Per aconseguir açò, trobem tres maneres d'actuar: 
 - **Reforç positiu:** tracta d'aconseguir la repetició d'un comportament per repetició d'un estat desitjat. Per açò tenim reforços primaris, que satisfan una necessitat com la set o la fam, i secundaris, que no són una necessitat vital però poden ser igual de poderosos. Un exemple és rebre 5€ cada vegada que completem una tasca. 
 - **Reforç negatiu:** similar al reforç positiu, tracta de reforçar un comportament mitjançant la supresió d'un estat negatiu. Per exemple, menjar és un comportament reforçat negativament per la sensació de gana. 
@@ -66,16 +68,22 @@ Mètode d'aprenentatge que reforça la repetició d'un comportament recompensat 
 > Cal comprendre que reforços i càstics poden ser efectes directes o indirectes. És a dir, aplicar un shock és un càstic, però arrebatar un objecte desitjat també. 
 
 El condicionament operant implica la repetició d'un comportament, però: quant de temps tarda aquest en desaparèixer? Doncs depèn del patró de reforç que seguim. Cal fixar-nos en dos aspectes: la ràtio d'extinció (quant tarda el comportament en desaparèixer quan no hi ha reforç), i la ràtio de repetició (quantes vegades es repeteix el comportament per minut/hora/...).
-- **A) Reforç continu:** es recompensa el comportament sempre que es produeix. 
-- **B) Reforç per ràtio fixa:** recompensa cada X vegades que es produeix el comportament. 
-- **C) Reforç per interval fixe:** recompensa cada Y temps. 
-- **D) Reforç per ràtio variable:** recompensa quan el comportament es produeix un nombre indeterminat de vegades. 
-- **E) Reforç per interval variable:** recompensa cada nombre indeterminat de temps.  
+- **A) Reforç continu:** es recompensa el comportament sempre que es produeix. &#10132; **Response:** lenta | **Extinction:** ràpida &#10132; _Una màquina expendedora. _
+- **B) Reforç per ràtio fixa:** recompensa cada X vegades que es produeix el comportament. &#10132; **Response:** ràpida | **Extinction:** mitja &#10132; _Un gofre gratuït cada deu compres._
+- **C) Reforç per interval fixe:** recompensa cada Y temps. &#10132; **Response:** mitja | **Extinction:** mitja &#10132; _Estudiar per una prova setmanal._ 
+- **D) Reforç per ràtio variable:** recompensa quan el comportament es produeix un nombre indeterminat de vegades. &#10132; **Response:** ràpida | **Extinction:** lenta &#10132; _La loteria._
+- **E) Reforç per interval variable:** recompensa cada nombre indeterminat de temps. &#10132; **Response:** ràpida | **Extinction:** lenta &#10132; _guanyar un nivell en un joc arcade._
+
+Els millors resultats s'obtenen amb el reforç per ràtio variable, on el comportament es repeteix molt ràpidament, i l'extinció és molt lenta, ja que el caràcter arbitrari fa difícil de predir la resposta. Lo impredecible del reforç produeix respostes més consistents. Ací entren a debat mecanismes que exploten aquesta arbitrarietat per crear sistemes que tracten de reforçar un comportament adictiu. **GATCHAS, LOOTBOXES...**
 
 ![imatge](https://user-images.githubusercontent.com/59253112/227146191-ec41d3b6-c3ea-49a6-a7c2-c08566782f74.png)
 
+Tots aquests principis s'utilitzen per definir diferents tècniques de modificació de comportament. Dos de les més conegudes serien: 
+- **Economia de tokens:** uns tokens actuen com a reforços secundaris (no són un reforç en sí mateix, sinò que duen a aquest reforç). Aquests tokens després s'intercanvien o donen accés a la recompensa o el reforç dessitjat. 
+- **Behaviour shaping:** es condicionen comportaments complexos fent una iteració gradual de comportaments més senzills que, cada vegada que l'individu s'aproxima un pas més a l'objectiu dessitjat, s'activen i actualitzen. 
 
-https://simplypsychology.org/schedules-of-reinforcement.html
+
+
 
 
 
@@ -87,6 +95,7 @@ https://simplypsychology.org/schedules-of-reinforcement.html
 - https://gameanalytics.com/blog/key-lessons-boost-game-retention/
 - https://www.indeed.com/career-advice/career-development/what-are-game-metrics
 - https://gameanalytics.com/blog/habit-formation-key-long-term-retention/
+- https://simplypsychology.org/operant-conditioning.html
 - Ad strategies for user acquisition: https://gameanalytics.com/blog/mobile-ad-creative-strategies/
 - Extra Credits Skinner box: https://www.youtube.com/watch?v=tWtvrPTbQ_c
 - Exra Credits (How good games avoid Skinner box): https://www.youtube.com/watch?v=S5camMoNw-o
