@@ -1,11 +1,11 @@
 ---> App Annie (https://www.data.ai/es/) per veure mètriques
 
-xxx https://gameanalytics.com/blog/strategies-gamers-loyalty-retention/
+- xxx https://gameanalytics.com/blog/strategies-gamers-loyalty-retention/
 La comunicació és vital per a la loyalty. Respon a les males reviews (idealment no més del 15%) i a les preguntes. Comprova sempre les featured reviews (les que més es veuen). Considera les features demandades pels usuaris, ja que els agrada tenir el poder d'afectar al resultat.
 
-xx https://gameanalytics.com/blog/key-lessons-boost-game-retention/
-xx https://www.indeed.com/career-advice/career-development/what-are-game-metrics
-xx https://gameanalytics.com/blog/habit-formation-key-long-term-retention/
+- xx https://gameanalytics.com/blog/key-lessons-boost-game-retention/
+- xx https://www.indeed.com/career-advice/career-development/what-are-game-metrics
+- xx https://gameanalytics.com/blog/habit-formation-key-long-term-retention/
 
 KEY MOBILE METRICS: 
 Retenció: percentatge d'usuaris que instalen el joc i tornen a jugar-lo, calculat en un dia específic des de la descàrrega. 
@@ -54,13 +54,29 @@ Per tal de millorar el Feedback loop cal identificar primer el loop a millorar. 
 - **Motivació:** fins i tot tenint context, si aquest no connecta mb motivacions de l'usuari, no crea un vincle sostenible. Punts i medalles que no signifiquen res significatiu no duraran. Pot ser complicat comprendre les motivacions darrere de les persones. Per ajudar-nos tenim conceptes com la piràmide de Maslow o la teoria de l'autodeterminació a psicologia. 
 
 
-En la creació d'hàbits cal tenir en compte la diferència entre hàbit i adicció. Una retenció a llarg termini es bsa en al creació d'hàbits saludables que proporcionen una experiència positiva. Encara que explotem mecanismes psicològics (com el [reward system](https://www.wikiwand.com/en/Reward_system)). Podem recurrir a tècniques com les caixes de Skinner o mecàniques de grindeig que forcen els límits ètics del desenvolupament, però és millor utilitzar recursos que no exploten als usuaris en sí, sinò les seues ganes d'aprendre, descobrir, aconseguir, millorar... 
-
-
-
+En la creació d'hàbits cal tenir en compte la diferència entre hàbit i adicció. Una retenció a llarg termini es bsa en al creació d'hàbits saludables que proporcionen una experiència positiva. Encara que explotem mecanismes psicològics (com el [reward system](https://www.wikiwand.com/en/Reward_system)). Podem recurrir a tècniques com les caixes de Skinner o mecàniques de grindeig que forcen els límits ètics del desenvolupament, però és millor utilitzar recursos que no exploten als usuaris en sí, sinò les seues ganes d'aprendre, descobrir, aconseguir, millorar...
 
 
 - Operant conditioning (Skinner box): https://simplypsychology.org/operant-conditioning.html
+Mètode d'aprenentatge que reforça la repetició d'un comportament recompensat i evita un castigat (aquesta és la llei d'efecte-reforç). No tracta de comprendre els mecanismes més interns i profunds de la ment que determinen el comportament, sinò afectar aquest directament. Per aconseguir açò, trobem tres maneres d'actuar: 
+- **Reforç positiu:** tracta d'aconseguir la repetició d'un comportament per repetició d'un estat desitjat. Per açò tenim reforços primaris, que satisfan una necessitat com la set o la fam, i secundaris, que no són una necessitat vital però poden ser igual de poderosos. Un exemple és rebre 5€ cada vegada que completem una tasca. 
+- **Reforç negatiu:** similar al reforç positiu, tracta de reforçar un comportament mitjançant la supresió d'un estat negatiu. Per exemple, menjar és un comportament reforçat negativament per la sensació de gana. 
+- **Càstic:** és el contrari al reforç. Tracta d'evitar un comportament mitjançant un estat negatiu. Cal fixar-se que reforç negatiu i càstic no són el mateix. Ambdós reforços, positiu i negatiu, tracten d'afavorir un comportament, però el càstic tracta d'evitar-lo. L'ús de càstic té més complicacions de les que pareix, ja que no fa oblidar un comportament, sinò que el suprimeix fins que el càstic desapareix. També incrementa l'agressió i la por, i pot dirigir cap a comportaments no desitjats en lloc de reforçar. El càstic no diu quin és el compotament desitjat, simplement marca un comportament coma  no desitjat. 
+
+> Cal comprendre que reforços i càstics poden ser efectes directes o indirectes. És a dir, aplicar un shock és un càstic, però arrebatar un objecte desitjat també. 
+
+El condicionament operant implica la repetició d'un comportament, però: quant de temps tarda aquest en desaparèixer? Doncs depèn del patró de reforç que seguim. Cal fixar-nos en dos aspectes: la ràtio d'extinció (quant tarda el comportament en desaparèixer quan no hi ha reforç), i la ràtio de repetició (quantes vegades es repeteix el comportament per minut/hora/...).
+- **A) Reforç continu:** es recompensa el comportament sempre que es produeix. 
+- **B) Reforç per ràtio fixa:** recompensa cada X vegades que es produeix el comportament. 
+- **C) Reforç per interval fixe:** recompensa cada Y temps. 
+- **D) Reforç per ràtio variable:** recompensa quan el comportament es produeix un nombre indeterminat de vegades. 
+- **E) Reforç per interval variable:** recompensa cada nombre indeterminat de temps.  
+
+![imatge](https://user-images.githubusercontent.com/59253112/227146191-ec41d3b6-c3ea-49a6-a7c2-c08566782f74.png)
+
+
+https://simplypsychology.org/schedules-of-reinforcement.html
+
 
 
 ---
