@@ -2,26 +2,28 @@
 
 ---> App Annie (https://www.data.ai/es/) per veure mètriques
 
+A l'hora de desenvolupar un videojoc és vital comprendre de quina manera facilitem que els jugadors vulguin jugar i dedicar el seu temps al nostre joc. Certes fites poden ser evidents; per exemple sabem que tenir males reviews és mala senyal (més d'un 15% és mala senyal) o que si fem cas als jugadors, afegim les features que suggereixen, creem nou contingut, etc. podem afavorir el cicle de vida del nostre projecte. 
+No obstant, si volem aconseguir un coneixement profund i específic de la manera en que els jugadors fan ús del nostre videojoc, necessitem fer servir el que anomenem **mètriques**. Les mètriques són analítiques concretes i mesurables que es tenen en compte des del mateix moment del desenvolupament per poder planificar un análisi contorlat i amb els mecanismes i recursos necessaris per obtenir resultats que s'ajusten a la realitat.
 
-La comunicació és vital per a la loyalty. Respon a les males reviews (idealment no més del 15%) i a les preguntes. Comprova sempre les featured reviews (les que més es veuen). Considera les features demandades pels usuaris, ja que els agrada tenir el poder d'afectar al resultat.
+En grans empreses, l'anàlisi de mètriques sol ser responsabilitat de càrrecs relacionats amb el màrketing o la UX; per exemple, un UX researcher que condueix diversos procesos de testeig). En aquest article no ens centrarem molt en profunditat en les mètriques, però cal utilitzar-les per poder parlar més en profunditat sobre els habits de jocs. Per això, com aquest article està sobre tot enfocat a developers, farem una breu introducció a mètriques relevants per al desenvolupament de videojocs mòbils, un bon mercat per experimentar com a desenvolupador novel. 
+
 
 
 ## Mètriques clau a videojocs mòbil
 
-**Retenció:** percentatge d'usuaris que instalen el joc i tornen a jugar-lo, calculat en un dia específic des de la descàrrega. 
-Hugo Peyron (Publishing expert Voodoo): Si un joc te baixa retenció, el matem. 
-Retenció de top performing titles: 
+- **Retenció:** percentatge d'usuaris que instalen el joc i tornen a jugar-lo, calculat en un dia específic des de la descàrrega. Cal tenir en compte que, moltes vegades, aquesta mètrica determina si matar o no un projecte, com bé remarca Hugo Peyron (publisher en Voodoo). Per als jocs amb una retenció destacada cal esperar unes xifres similars a aquestes:
 - Day 1: 40%
 - Day 7: 15%
 - Day 28: 6.5%
-- Major retenció D28 categoria "Words" i menor "Kids" (15% i 1.8% respectivament). 
-Stickiness: Quants usuaris juguen al joc tots els dies? 
-- Stickiness inferior a 7% és mala, top performing titles tenen de mitjana 20%. 
-Sessió: el temps que passa jugant un usuari abans d'abandonar la partida. 
-- Lideren Cards/Casino amb 35 minuts. 
+
+Les categories de videojocs mòbils amb una retenció mitjana més alta són _Words_ i _Kids_, amb una D28 de 15% i 1.8%
+
+- **Stickiness:** Quants usuaris juguen al joc tots els dies. Una stickiness inferior a 7% és mala, mentre que la dels jocs amb millor rendiment sol estar al voltant del 20%.
+- **Sessió:** el temps que passa jugant un usuari abans d'abandonar la partida. En aquesta mètrica, els jocs amb sessions més llargues solen ser els de cartes/casino, amb una mitjana de 35 minuts. 
+
 ![image](https://user-images.githubusercontent.com/59253112/226655743-39c57be6-35f9-4cca-b6d9-a1f327c05cef.png)
 
-ALTRES MÈTRIQUES A CONÉIXER: Daily Active Users, Installs, First Payment Conversion (temps fins primer pagament), Churn rate (% uninstalls after they play, opposite of retention).
+Hi ha moltes altres mètriques relevants, però per no allargar aquesta introducció, mencionarem altres que són molt relevants per qualsevol desenvolupament : _Daily Active Users_, _Installs_, _First Payment Conversion_ (temps fins primer pagament) i la _Churn rate_ (% desinstal·lacions després de jugar, el contrari a la retenció).
 
 És important tenir un bone core game loop per poder afavorir la retenció, però ací entra el game design. 
 Cal identificar en quin moment els usuaris abandonen el joc. 
