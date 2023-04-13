@@ -1,11 +1,8 @@
 ---> App Annie (https://www.data.ai/es/) per veure mètriques
 
-- xxx https://gameanalytics.com/blog/strategies-gamers-loyalty-retention/
+
 La comunicació és vital per a la loyalty. Respon a les males reviews (idealment no més del 15%) i a les preguntes. Comprova sempre les featured reviews (les que més es veuen). Considera les features demandades pels usuaris, ja que els agrada tenir el poder d'afectar al resultat.
 
-- xx https://gameanalytics.com/blog/key-lessons-boost-game-retention/
-- xx https://www.indeed.com/career-advice/career-development/what-are-game-metrics
-- xx https://gameanalytics.com/blog/habit-formation-key-long-term-retention/
 
 ## Mètriques clau a videojocs mòbil
 
@@ -47,8 +44,6 @@ Aquests són dos hàbits encadenats. Açò pot aplicar-se a dintre del propi joc
 
 Els feedback loops que tracten de crear nous hàbits són especialment eficients quan són curts, no requereixen la presa de decisions i retornen feedback positiu o mostren progrés. Aquests bucles es repetiran moltíssimes vegades en un joc, de manera que han de ser gratificants i divertits per als jugadors. Açò és especialment evident en jocs tipus arcade, però inclús en un MMO, les quests ofereixen petits loops que s'entremesclen amb loops més llargs. 
 
-- Feedback loop: https://www.smashingmagazine.com/2013/02/designing-great-feedback-loops/
-
 Per tal de millorar el Feedback loop cal identificar primer el loop a millorar. Llista els patrons d'accions que es repeteixen (poden implicar moments, espais, mitjans o inclús diferents persones) i fixa't en els catalitzadors i les accions associades. Els loops poden millorar-se en quatre aspectes:
 
 - **Velocitat:** quan més tarde el feedback, pitjor. Açò té a veure amb el _Descompte hiperbòlic_, un biaix que du a les persones a escollir recompenses petites però immediates front al llarg termini. Aquest feedback pot ser real o simulat, per exemple, les pàgines de bancs utilitzen simulen els efectes de les decisions per estimular la presa d'aquestes en base al que impliquen a llarg termini. D'altra banda, targetes de crèdit han reforçat un hàbit negatiu de manera contrària, dilatant un feedback negatiu (extraure els diners del compte) a final de mes. 
@@ -61,9 +56,6 @@ En la creació d'hàbits cal tenir en compte la diferència entre hàbit i adicc
 
 
 ## Caixes de Skinner i la psicologia de la recompensa
-
-- Operant conditioning (Skinner box): https://simplypsychology.org/operant-conditioning.html
-- https://simplypsychology.org/schedules-of-reinforcement.html
 
 Mètode d'aprenentatge que reforça la repetició d'un comportament recompensat i evita un castigat (aquesta és la llei d'efecte-reforç). No tracta de comprendre els mecanismes més interns i profunds de la ment que determinen el comportament, sinò afectar aquest directament. Per aconseguir açò, trobem tres maneres d'actuar: 
 - **Reforç positiu:** tracta d'aconseguir la repetició d'un comportament per repetició d'un estat desitjat. Per açò tenim reforços primaris, que satisfan una necessitat com la set o la fam, i secundaris, que no són una necessitat vital però poden ser igual de poderosos. Un exemple és rebre 5€ cada vegada que completem una tasca. 
@@ -82,7 +74,6 @@ El condicionament operant implica la repetició d'un comportament, però: quant 
 ![imatge](https://user-images.githubusercontent.com/59253112/227146191-ec41d3b6-c3ea-49a6-a7c2-c08566782f74.png)
 
 Els millors resultats s'obtenen amb el reforç per ràtio variable, on el comportament es repeteix molt ràpidament, i l'extinció és molt lenta, ja que el caràcter arbitrari fa difícil de predir la resposta. Lo impredecible del reforç produeix respostes més consistents. Ací entren a debat mecanismes que exploten aquesta arbitrarietat per crear sistemes que tracten de reforçar un comportament adictiu. **GATCHAS, LOOTBOXES...**
-
 
 ## Els perills de les mecàniques explotatives
 
@@ -105,11 +96,21 @@ Tots aquests principis s'utilitzen per definir diferents tècniques de modificac
 - **Behaviour shaping:** es condicionen comportaments complexos fent una iteració gradual de comportaments més senzills que, cada vegada que l'individu s'aproxima un pas més a l'objectiu dessitjat, s'activen i actualitzen. 
 
 
-
-
 ---
 
-<h2>Recursos</h2>
+## Recursos utilitzats
+
+- https://gameanalytics.com/blog/key-lessons-boost-game-retention/
+- https://www.indeed.com/career-advice/career-development/what-are-game-metrics
+- https://gameanalytics.com/blog/habit-formation-key-long-term-retention/
+- https://gameanalytics.com/blog/strategies-gamers-loyalty-retention/
+- https://www.smashingmagazine.com/2013/02/designing-great-feedback-loops/
+- https://www.wikiwand.com/en/Reward_system
+- https://simplypsychology.org/operant-conditioning.html
+- https://simplypsychology.org/schedules-of-reinforcement.html
+-
+
+<h2>Recursos per comprovar</h2>
 
 - https://gameanalytics.com/blog/strategies-gamers-loyalty-retention/
 - https://gameanalytics.com/blog/key-lessons-boost-game-retention/
