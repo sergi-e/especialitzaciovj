@@ -11,11 +11,10 @@ En grans empreses, l'anàlisi de mètriques sol ser responsabilitat de càrrecs 
 
 ## Mètriques clau a videojocs mòbil
 
-- **Retenció:** percentatge d'usuaris que instalen el joc i tornen a jugar-lo, calculat en un dia específic des de la descàrrega. Cal tenir en compte que, moltes vegades, aquesta mètrica determina si matar o no un projecte, com bé remarca Hugo Peyron (publisher en Voodoo). Per als jocs amb una retenció destacada cal esperar unes xifres similars a aquestes:
+- **Retenció:** percentatge d'usuaris que instalen el joc i tornen a jugar-lo, calculat en un dia específic des de la descàrrega. Cal tenir en compte que, moltes vegades, aquesta mètrica determina si cal matar/redissenyar o no un projecte, com bé remarca Hugo Peyron (publisher en Voodoo). Els publishers poden demanar dades específiques, per exemple una D1 del 40% (atenent sempre al context i gènere específics del videojoc). Per als jocs amb una retenció destacada normalment cal esperar unes xifres similars a aquestes:
 - Day 1: 40%
 - Day 7: 15%
 - Day 28: 6.5%
-
 Les categories de videojocs mòbils amb una retenció mitjana més alta són _Words_ i _Kids_, amb una D28 de 15% i 1.8%
 
 - **Stickiness:** Quants usuaris juguen al joc tots els dies. Una stickiness inferior a 7% és mala, mentre que la dels jocs amb millor rendiment sol estar al voltant del 20%.
@@ -25,13 +24,9 @@ Les categories de videojocs mòbils amb una retenció mitjana més alta són _Wo
 
 Hi ha moltes altres mètriques relevants, però per no allargar aquesta introducció, mencionarem altres que són molt relevants per qualsevol desenvolupament : _Daily Active Users_, _Installs_, _First Payment Conversion_ (temps fins primer pagament) i la _Churn rate_ (% desinstal·lacions després de jugar, el contrari a la retenció).
 
-És important tenir un bone core game loop per poder afavorir la retenció, però ací entra el game design. 
-Cal identificar en quin moment els usuaris abandonen el joc. 
-La retenció D28 és més fàcil de millorar que la D7. Per aquest punt els usuaris ja els agrada el joc, cal millorar l'endgame. 
-Cal tenir en compte la temporalitat. La stickiness per exemple millora al començar Q4, però empitjora abans de festes de Nadal. 
+L'anàlisi de mètriques és un procés complicat i que requereix una comprensió holística del jugador. Per exemple: una retenció de D28 és més fàcil de millorar que una D7, ja que per aquest punt sabem que a l'usuari li agrada el joc en sí i el que cal millorar és l'endgame. També cal tenir en compte factors que poden afectar els resultats de moltes maneres. Altre exemple, la _stickiness_ acostuma a milorar en començar el Q4, però empitjora abans de Nadal, on sol haver molta nova oferta de videojocs. 
 
-És important recompensar als usuaris fidels, de manera que cal saber quina és la mitjana de duració d'una sessió al teu joc o gènere. Pots donar-los free stuff (coins, items o lives), fites (logros), o descomptes. 
-També cal saber evitar pèrdues i tallar. Si un joc té molt baixa retenció D1, probablement cal redissenyar o matar. Els publishers solen buscar D1~40% (però depèn del gènere sempre). 
+En tenir els resultats de les nostres mètriques podem prendre decisions per tal de millorar aquestos resultats. Si per exemple volem augmentar la mitjana de duració de sessió, podem oferir recompenses en jugar X partides o descomptes, fites... Però més enllà de mesures específiques, una manera fonamental de millorar els resultats generals del nostre videojoc és atendre amb cura al **game loop**, a la manera en que dissenyem el propi joc. 
 
 ## Creació d'hàbits i fidelització
 
