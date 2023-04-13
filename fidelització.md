@@ -1,3 +1,5 @@
+# Fidelització i el comportament dels jugadors
+
 ---> App Annie (https://www.data.ai/es/) per veure mètriques
 
 
