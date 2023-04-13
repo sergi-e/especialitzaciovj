@@ -79,6 +79,8 @@ El condicionament operant implica la repetició d'un comportament, però: quant 
 - **D) Reforç per ràtio variable:** recompensa quan el comportament es produeix un nombre indeterminat de vegades. &#10132; **Response:** ràpida | **Extinction:** lenta &#10132; _La loteria._
 - **E) Reforç per interval variable:** recompensa cada nombre indeterminat de temps. &#10132; **Response:** ràpida | **Extinction:** lenta &#10132; _guanyar un nivell en un joc arcade._
 
+![imatge](https://user-images.githubusercontent.com/59253112/227146191-ec41d3b6-c3ea-49a6-a7c2-c08566782f74.png)
+
 Els millors resultats s'obtenen amb el reforç per ràtio variable, on el comportament es repeteix molt ràpidament, i l'extinció és molt lenta, ja que el caràcter arbitrari fa difícil de predir la resposta. Lo impredecible del reforç produeix respostes més consistents. Ací entren a debat mecanismes que exploten aquesta arbitrarietat per crear sistemes que tracten de reforçar un comportament adictiu. **GATCHAS, LOOTBOXES...**
 
 
@@ -95,9 +97,6 @@ https://renatus.com/gacha-types-of-gotcha
 https://www.xataka.com/videojuegos/que-loot-boxes-videojuegos-explicado-para-que-todavia-piensan-que-como-cromos-panini
 https://www.xfire.com/gacha-vs-lootboxes-whats-the-difference/
 https://cultureofgaming.com/operant-conditioning-how-games-condition-players/
-
-![imatge](https://user-images.githubusercontent.com/59253112/227146191-ec41d3b6-c3ea-49a6-a7c2-c08566782f74.png)
-
 
 ## Altres vies per reforçar comportaments
 
