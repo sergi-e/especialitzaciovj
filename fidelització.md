@@ -7,7 +7,8 @@ La comunicació és vital per a la loyalty. Respon a les males reviews (idealmen
 - xx https://www.indeed.com/career-advice/career-development/what-are-game-metrics
 - xx https://gameanalytics.com/blog/habit-formation-key-long-term-retention/
 
-KEY MOBILE METRICS: 
+## Mètriques clau a videojocs mòbil
+
 Retenció: percentatge d'usuaris que instalen el joc i tornen a jugar-lo, calculat en un dia específic des de la descàrrega. 
 Hugo Peyron (Publishing expert Voodoo): Si un joc te baixa retenció, el matem. 
 Retenció de top performing titles: 
@@ -29,7 +30,9 @@ La retenció D28 és més fàcil de millorar que la D7. Per aquest punt els usua
 Cal tenir en compte la temporalitat. La stickiness per exemple millora al començar Q4, però empitjora abans de festes de Nadal. 
 
 És important recompensar als usuaris fidels, de manera que cal saber quina és la mitjana de duració d'una sessió al teu joc o gènere. Pots donar-los free stuff (coins, items o lives), fites (logros), o descomptes. 
-També cal saber evitar pèrdues i tallar. Si un joc té molt baixa retenció D1, probablement cal redissenyar o matar. Els publishers solen buscar D1~40% (però depèn del gènere sempre).  
+També cal saber evitar pèrdues i tallar. Si un joc té molt baixa retenció D1, probablement cal redissenyar o matar. Els publishers solen buscar D1~40% (però depèn del gènere sempre). 
+
+## Creació d'hàbits i fidelització
 
 Una de les millors maneres de crear usuaris fidels és crear un hàbit de joc. Aquest tarda en crear-se entre 18 i 254 dies, de mitjana 66, però açò no és una regla. Hàbits senzills poden acomodar-se en qüestió de dies.  
 ![imatge](https://user-images.githubusercontent.com/59253112/226701820-9f53b5b7-1439-4dc4-a4c4-84df574493fc.png)
@@ -57,6 +60,8 @@ Per tal de millorar el Feedback loop cal identificar primer el loop a millorar. 
 En la creació d'hàbits cal tenir en compte la diferència entre hàbit i adicció. Una retenció a llarg termini es bsa en al creació d'hàbits saludables que proporcionen una experiència positiva. Encara que explotem mecanismes psicològics (com el [reward system](https://www.wikiwand.com/en/Reward_system)). Podem recurrir a tècniques com les caixes de Skinner o mecàniques de grindeig que forcen els límits ètics del desenvolupament, però és millor utilitzar recursos que no exploten als usuaris en sí, sinò les seues ganes d'aprendre, descobrir, aconseguir, millorar...
 
 
+## Caixes de Skinner i la psicologia de la recompensa
+
 - Operant conditioning (Skinner box): https://simplypsychology.org/operant-conditioning.html
 - https://simplypsychology.org/schedules-of-reinforcement.html
 
@@ -76,6 +81,9 @@ El condicionament operant implica la repetició d'un comportament, però: quant 
 
 Els millors resultats s'obtenen amb el reforç per ràtio variable, on el comportament es repeteix molt ràpidament, i l'extinció és molt lenta, ja que el caràcter arbitrari fa difícil de predir la resposta. Lo impredecible del reforç produeix respostes més consistents. Ací entren a debat mecanismes que exploten aquesta arbitrarietat per crear sistemes que tracten de reforçar un comportament adictiu. **GATCHAS, LOOTBOXES...**
 
+
+## Els perills de les mecàniques explotatives
+
 - **Què és una loot box?** Les loot boxes són mecanismes de pagament (sigui directe o indirecte) a un videojoc que ofereixen una recompensa aleatòria, siguin cosmètics o amb conseqüències de joc. Cal tenir en compte que, encara i que 
 - **I què és un _gacha_?** Els gacha tenen un origen un poc diferent de les _loot boxes_, però es tracta essencialment de jocs de pagament amb recompenses aleatoris. Podriem dir que són dos mecanismes molt similars que es van desenvolupar a diferents zones geogràfiques, però que avuí en dia estan tan vinculats que no hi ha gaire manera de diferenciar-los. Algunes persones comenten que la relació entre gacha i loot box és como la dels polzes amb els dits: tots els polzes són dits, però no tots els dits són polzes. De la mateixa manera, tots els gacha són loot boxes, però no totes les loot boxes són un gacha. Les dos principals diferències que es comenten són:
 - Un gacha té transparència pel que fa a la probabilitat d'obtenir qualsevol tipus de recompensa. 
@@ -90,11 +98,12 @@ https://cultureofgaming.com/operant-conditioning-how-games-condition-players/
 
 ![imatge](https://user-images.githubusercontent.com/59253112/227146191-ec41d3b6-c3ea-49a6-a7c2-c08566782f74.png)
 
+
+## Altres vies per reforçar comportaments
+
 Tots aquests principis s'utilitzen per definir diferents tècniques de modificació de comportament. Dos de les més conegudes serien: 
 - **Economia de tokens:** uns tokens actuen com a reforços secundaris (no són un reforç en sí mateix, sinò que duen a aquest reforç). Aquests tokens després s'intercanvien o donen accés a la recompensa o el reforç dessitjat. 
 - **Behaviour shaping:** es condicionen comportaments complexos fent una iteració gradual de comportaments més senzills que, cada vegada que l'individu s'aproxima un pas més a l'objectiu dessitjat, s'activen i actualitzen. 
-
-
 
 
 
