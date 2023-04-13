@@ -87,7 +87,6 @@ El que sí podem aclarir és que el gacha té una història més complerta als s
 https://renatus.com/gacha-types-of-gotcha
 https://www.xataka.com/videojuegos/que-loot-boxes-videojuegos-explicado-para-que-todavia-piensan-que-como-cromos-panini
 https://www.xfire.com/gacha-vs-lootboxes-whats-the-difference/
-https://cultureofgaming.com/operant-conditioning-how-games-condition-players/
 
 ## Altres vies per reforçar comportaments
 
@@ -108,10 +107,10 @@ Tots aquests principis s'utilitzen per definir diferents tècniques de modificac
 - https://www.wikiwand.com/en/Reward_system
 - https://simplypsychology.org/operant-conditioning.html
 - https://simplypsychology.org/schedules-of-reinforcement.html
--
 
 <h2>Recursos per comprovar</h2>
 
+- https://cultureofgaming.com/operant-conditioning-how-games-condition-players/
 - https://gameanalytics.com/blog/strategies-gamers-loyalty-retention/
 - https://gameanalytics.com/blog/key-lessons-boost-game-retention/
 - https://www.indeed.com/career-advice/career-development/what-are-game-metrics
