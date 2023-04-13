@@ -9,7 +9,7 @@ La comunicació és vital per a la loyalty. Respon a les males reviews (idealmen
 
 ## Mètriques clau a videojocs mòbil
 
-Retenció: percentatge d'usuaris que instalen el joc i tornen a jugar-lo, calculat en un dia específic des de la descàrrega. 
+**Retenció:** percentatge d'usuaris que instalen el joc i tornen a jugar-lo, calculat en un dia específic des de la descàrrega. 
 Hugo Peyron (Publishing expert Voodoo): Si un joc te baixa retenció, el matem. 
 Retenció de top performing titles: 
 - Day 1: 40%
