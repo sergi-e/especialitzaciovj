@@ -81,18 +81,16 @@ Els millors resultats s'obtenen amb el reforç per ràtio variable, on el compor
 
 En els últims deu anys, l'ús de mecàniques d'ètica qüestionable s'han anat expandint per la indústria del videojoc fins plagar per complet les mecàniques de jocs referents del seu gènere com FIFA. L'ús d'aquestos mecanismes ha sigut l'objecte de casos d'estudi legal, com [EA i les loot boxes](https://www.eurogamer.net/ea-loot-box-lawsuit-fails-in-bid-to-brand-games-as-gambling) o [Epic i Fornite](https://www.vox.com/recode/2022/12/19/23516925/epic-games-ftc-settlement-520-million) perdent el cas més gran contra el consumidor registrat en la indústria. Quan parlem de mecàniques explotatives, podriem parlar no sols de mecanismes d'addició sinò també de vies i tècniques per alterar l'experiència d'usuari i joc per tal d'afavorir acccions de venda en menors o d'invasió de la privacitat. 
 
-No obstant, per la pròpia per
+No obstant, per la pròpia l'abast d'aquest article sobre la creació d'hàbits i la fidelització d'usuaris, ens anem a centrar sobre tot en comprendre els conceptes de _loot box_ i _gacha_, que avuí en dia son molt vigents: 
 
-- **Què és una loot box?** Les loot boxes són mecanismes de pagament (sigui directe o indirecte) a un videojoc que ofereixen una recompensa aleatòria, siguin cosmètics o amb conseqüències de joc. Cal tenir en compte que, encara i que 
+- **Què és una loot box?** Les loot boxes són mecanismes de pagament (sigui directe o indirecte) a un videojoc que ofereixen una recompensa aleatòria, siguin cosmètics o amb conseqüències de joc. Cal tenir en compte que aquestes mecàniques resulten especialment problemàtiques quan les recompenses intefereixen amb les mecàniques de joc i poden convertir-lo en un **pay-to-win** ja que aquestes ofereixen possibilitats d'èxit molt superior. Tenim l'exemple dels sobres amb jugadors en _FIFA/FUT_ o els personatges principals en _Battlefront II_. És important diferenciar les _loot boxes_ dels micropagaments, on el jugador sap exactament què està comprant. Tenint açò clar, un joc amb micropagaments pot ser _pay-to-win_ sense necessitat de tenir _loot boxes_, i un joc pot tenir _loot boxes_ sense que aquestes interfereixen amb el joc en sí. 
 - **I què és un _gacha_?** Els gacha tenen un origen un poc diferent de les _loot boxes_, però es tracta essencialment de jocs de pagament amb recompenses aleatoris. Podriem dir que són dos mecanismes molt similars que es van desenvolupar a diferents zones geogràfiques, però que avuí en dia estan tan vinculats que no hi ha gaire manera de diferenciar-los. Algunes persones comenten que la relació entre gacha i loot box és como la dels polzes amb els dits: tots els polzes són dits, però no tots els dits són polzes. De la mateixa manera, tots els gacha són loot boxes, però no totes les loot boxes són un gacha. Les dos principals diferències que es comenten són:
 - Un gacha té transparència pel que fa a la probabilitat d'obtenir qualsevol tipus de recompensa. 
 - Si un videojoc tan sols utilitza aquest mecanisme aleatori per la seua financiació, és un gacha (per lo tant un joc F2P amb loot boxes seria un gacha). D'altra banda, si el mecanisme aleatori està construit a sobre d'un joc de pagament, es tracta senzillament d'un joc amb loot boxes. No obstant, aquesta no es tracta diferenciació no és clara i establerta. 
 
-El que sí podem aclarir és que el gacha té una història més complerta als seus paísos d'origen, on, abans dels videojocs, ja existien màquines de joguets que funcionaven amb aquesta mecànica. 
+El que sí podem aclarir és que el gacha té una història més complerta als seus paísos d'origen, on, abans dels videojocs, ja existia certa cultura de màquines de joguets que funcionaven amb aquesta mecànica. 
 
-https://renatus.com/gacha-types-of-gotcha
-https://www.xataka.com/videojuegos/que-loot-boxes-videojuegos-explicado-para-que-todavia-piensan-que-como-cromos-panini
-https://www.xfire.com/gacha-vs-lootboxes-whats-the-difference/
+> :pushpin: Ací tenim un article que diferencia entre els [cinc tipus principals de gacha](https://renatus.com/gacha-types-of-gotcha)
 
 ## Altres vies per reforçar comportaments
 
@@ -113,6 +111,9 @@ Tots aquests principis s'utilitzen per definir diferents tècniques de modificac
 - https://www.wikiwand.com/en/Reward_system
 - https://simplypsychology.org/operant-conditioning.html
 - https://simplypsychology.org/schedules-of-reinforcement.html
+- https://renatus.com/gacha-types-of-gotcha
+- https://www.xataka.com/videojuegos/que-loot-boxes-videojuegos-explicado-para-que-todavia-piensan-que-como-cromos-panini
+- https://www.xfire.com/gacha-vs-lootboxes-whats-the-difference/
 
 <h2>Recursos per comprovar</h2>
 
