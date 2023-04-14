@@ -51,7 +51,6 @@ Per tal de millorar el Feedback loop cal identificar primer el loop a millorar. 
 - **Context:** la informació sense context i/o un objectiu major, no és efectiva. No és el mateix dir que hem gastat 500€ aquesta setmana, que dir que hem gastat 500€ d'un pressupost semanal de 300€. Els rellotges intel·ligents creen molts feedback loops a partir de crear un context de metes diàries en passes, hores de son, etc. fent servir barres, diagrames, etc. 
 - **Motivació:** fins i tot tenint context, si aquest no connecta mb motivacions de l'usuari, no crea un vincle sostenible. Punts i medalles que no signifiquen res significatiu no duraran. Pot ser complicat comprendre les motivacions darrere de les persones. Per ajudar-nos tenim conceptes com la piràmide de Maslow o la teoria de l'autodeterminació a psicologia. 
 
-
 En la creació d'hàbits cal tenir en compte la diferència entre hàbit i adicció. Una retenció a llarg termini es basa en la creació d'hàbits saludables que proporcionen una experiència positiva. Encara que explotem mecanismes psicològics (com el [reward system](https://www.wikiwand.com/en/Reward_system)). Podem recurrir a tècniques com les caixes de Skinner o mecàniques de grindeig que forcen els límits ètics del desenvolupament, però és millor utilitzar recursos que no exploten als usuaris en sí, sinò les seues ganes d'aprendre, descobrir, aconseguir, millorar...
 
 
@@ -123,8 +122,6 @@ Tots aquests principis s'utilitzen per definir diferents tècniques de modificac
 - https://simplypsychology.org/operant-conditioning.html
 - Ad strategies for user acquisition: https://gameanalytics.com/blog/mobile-ad-creative-strategies/
 - Extra Credits Skinner box: https://www.youtube.com/watch?v=tWtvrPTbQ_c
-- Exra Credits (How good games avoid Skinner box): https://www.youtube.com/watch?v=S5camMoNw-o
-- Extra Credits (game feeling generic): https://www.youtube.com/watch?v=NxX9sGhsbks
 - Extra Credits (good game rewards extrinsic/intrinsic): https://www.youtube.com/watch?v=h86g-XgUCA8
 - Extra Credits (Illusion of choice - Balance Freedom and scope): https://www.youtube.com/watch?v=45PdtGDGhac
 - - https://yukaichou.com/gamification-study/behavior-principles-and-good-game-design/
