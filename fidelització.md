@@ -15,6 +15,7 @@ En grans empreses, l'anàlisi de mètriques sol ser responsabilitat de càrrecs 
 - Day 1: 40%
 - Day 7: 15%
 - Day 28: 6.5%
+
 Les categories de videojocs mòbils amb una retenció mitjana més alta són _Words_ i _Kids_, amb una D28 de 15% i 1.8%
 
 - **Stickiness:** Quants usuaris juguen al joc tots els dies. Una stickiness inferior a 7% és mala, mentre que la dels jocs amb millor rendiment sol estar al voltant del 20%.
