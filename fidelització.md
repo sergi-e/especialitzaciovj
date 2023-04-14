@@ -73,7 +73,7 @@ El condicionament operant implica la repetició d'un comportament, però: quant 
 
 ![imatge](https://user-images.githubusercontent.com/59253112/227146191-ec41d3b6-c3ea-49a6-a7c2-c08566782f74.png)
 
-Els millors resultats s'obtenen amb el reforç per ràtio variable, on el comportament es repeteix molt ràpidament i l'extinció és molt lenta, ja que el caràcter arbitrari fa difícil de predir la resposta. Lo impredecible del reforç produeix respostes més consistents. Ací entren a debat mecanismes que exploten aquesta arbitrarietat per crear sistemes que tracten de reforçar un comportament adictiu. Com a desenvolupadors, hem de ser conscients de les tècniques que apliquem i tenim una responsabilitat sobre la manera en que es diferencien l'entrenteniment de l'addicció, i els mecanismes de joc dels de venda. 
+Els millors resultats s'obtenen amb el reforç per ràtio variable, on el comportament es repeteix molt ràpidament i l'extinció és molt lenta, ja que el caràcter arbitrari fa difícil de predir la resposta. Lo impredecible del reforç produeix respostes més consistents. Ací entren a debat mecanismes que exploten aquesta arbitrarietat per crear sistemes que tracten de reforçar un comportament adictiu. Cal tenir en compte que el condicionament és diferent de l'adicció: l'ús de caixes de Skinner no implica necessàriament ludopatia, però es tracta d'un mecanisme que, utilitzat a la força i sense altres reforços, resulta en una experiència buida. Com a desenvolupadors, hem de ser conscients de les tècniques que apliquem i tenim una responsabilitat sobre la manera en que utilitzem mecanismes de joc i de venda. 
 
 ## Els perills de les mecàniques explotatives
 
