@@ -54,7 +54,7 @@ Per tal de millorar el Feedback loop cal identificar primer el loop a millorar. 
 - **Motivació:** fins i tot tenint context, si aquest no connecta mb motivacions de l'usuari, no crea un vincle sostenible. Punts i medalles que no signifiquen res significatiu no duraran. Pot ser complicat comprendre les motivacions darrere de les persones. Per ajudar-nos tenim conceptes com la piràmide de Maslow o la teoria de l'autodeterminació a psicologia. 
 
 
-En la creació d'hàbits cal tenir en compte la diferència entre hàbit i adicció. Una retenció a llarg termini es bsa en al creació d'hàbits saludables que proporcionen una experiència positiva. Encara que explotem mecanismes psicològics (com el [reward system](https://www.wikiwand.com/en/Reward_system)). Podem recurrir a tècniques com les caixes de Skinner o mecàniques de grindeig que forcen els límits ètics del desenvolupament, però és millor utilitzar recursos que no exploten als usuaris en sí, sinò les seues ganes d'aprendre, descobrir, aconseguir, millorar...
+En la creació d'hàbits cal tenir en compte la diferència entre hàbit i adicció. Una retenció a llarg termini es basa en la creació d'hàbits saludables que proporcionen una experiència positiva. Encara que explotem mecanismes psicològics (com el [reward system](https://www.wikiwand.com/en/Reward_system)). Podem recurrir a tècniques com les caixes de Skinner o mecàniques de grindeig que forcen els límits ètics del desenvolupament, però és millor utilitzar recursos que no exploten als usuaris en sí, sinò les seues ganes d'aprendre, descobrir, aconseguir, millorar...
 
 
 ## Caixes de Skinner i la psicologia de la recompensa
