@@ -1,7 +1,5 @@
 # Fidelització i el comportament dels jugadors
 
----> App Annie (https://www.data.ai/es/) per veure mètriques
-
 A l'hora de desenvolupar un videojoc és vital comprendre de quina manera facilitem que els jugadors vulguin jugar i dedicar el seu temps al nostre joc. Certes fites poden ser evidents; per exemple sabem que tenir males reviews és mala senyal (més d'un 15% és mala senyal) o que si fem cas als jugadors, afegim les features que suggereixen, creem nou contingut, etc. podem afavorir el cicle de vida del nostre projecte. 
 No obstant, si volem aconseguir un coneixement profund i específic de la manera en que els jugadors fan ús del nostre videojoc, necessitem fer servir el que anomenem **mètriques**. Les mètriques són analítiques concretes i mesurables que es tenen en compte des del mateix moment del desenvolupament per poder planificar un análisi contorlat i amb els mecanismes i recursos necessaris per obtenir resultats que s'ajusten a la realitat.
 
