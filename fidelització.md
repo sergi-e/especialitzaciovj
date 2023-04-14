@@ -7,7 +7,7 @@ No obstant, si volem aconseguir un coneixement profund i específic de la manera
 
 En grans empreses, l'anàlisi de mètriques sol ser responsabilitat de càrrecs relacionats amb el màrketing o la UX; per exemple, un UX researcher que condueix diversos procesos de testeig). En aquest article no ens centrarem molt en profunditat en les mètriques, però cal utilitzar-les per poder parlar més en profunditat sobre els habits de jocs. Per això, com aquest article està sobre tot enfocat a developers, farem una breu introducció a mètriques relevants per al desenvolupament de videojocs mòbils, un bon mercat per experimentar com a desenvolupador novel. 
 
-> :pushpin: Tenim pàgines i servicis com [data.ai](https://www.data.ai/es/), [similarweb](https://www.similarweb.com/) o [Google Analytics](https://analytics.google.com/analytics/web/) que ens permeten consultar analítiques mètriques de diferents apps, jocs o pàgines. Açò pot ser important per tenir dades de referència pel nostre desenvolupament. 
+> :pushpin: Pàgines i servicis com [data.ai](https://www.data.ai/es/), [similarweb](https://www.similarweb.com/) o [Google Analytics](https://analytics.google.com/analytics/web/) que ens permeten consultar analítiques mètriques de diferents apps, jocs o pàgines. Açò pot ser important per tenir dades de referència pel nostre desenvolupament. 
 
 
 ## Mètriques clau a videojocs mòbil
