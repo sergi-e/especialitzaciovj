@@ -67,11 +67,11 @@ El condicionament operand (també anomenat caixa de Skinner) és un mètode d'ap
 > Cal comprendre que reforços i càstics poden ser efectes directes o indirectes. És a dir, aplicar un shock és un càstic, però arrebatar un objecte desitjat també. 
 
 El condicionament operant implica la repetició d'un comportament, però: quant de temps tarda aquest en desaparèixer? Doncs depèn del patró de reforç que seguim. Cal fixar-nos en dos aspectes: la ràtio d'extinció (quant tarda el comportament en desaparèixer quan no hi ha reforç), i la ràtio de repetició (quantes vegades es repeteix el comportament per minut/hora/...).
-- **A) Reforç continu:** es recompensa el comportament sempre que es produeix. &#10132; **Response:** lenta | **Extinction:** ràpida &#10132; _Una màquina expendedora. _
-- **B) Reforç per ràtio fixa:** recompensa cada X vegades que es produeix el comportament. &#10132; **Response:** ràpida | **Extinction:** mitja &#10132; _Un gofre gratuït cada deu compres._
-- **C) Reforç per interval fixe:** recompensa cada Y temps. &#10132; **Response:** mitja | **Extinction:** mitja &#10132; _Estudiar per una prova setmanal._ 
-- **D) Reforç per ràtio variable:** recompensa quan el comportament es produeix un nombre indeterminat de vegades. &#10132; **Response:** ràpida | **Extinction:** lenta &#10132; _La loteria._
-- **E) Reforç per interval variable:** recompensa cada nombre indeterminat de temps. &#10132; **Response:** ràpida | **Extinction:** lenta &#10132; _guanyar un nivell en un joc arcade._
+- **A) Reforç continu:** es recompensa el comportament sempre que es produeix. &#10132; **Resposta:** lenta | **Extinció:** ràpida &#10132; _Una màquina expendedora_
+- **B) Reforç per ràtio fixa:** recompensa cada X vegades que es produeix el comportament. &#10132; **Resposta:** ràpida | **Extinció:** mitja &#10132; _Un gofre gratuït cada deu compres._
+- **C) Reforç per interval fixe:** recompensa cada Y temps. &#10132; **Resposta:** mitja | **Extinció:** mitja &#10132; _Estudiar per una prova setmanal._ 
+- **D) Reforç per ràtio variable:** recompensa quan el comportament es produeix un nombre indeterminat de vegades. &#10132; **Resposta:** ràpida | **Extinció:** lenta &#10132; _La loteria._
+- **E) Reforç per interval variable:** recompensa cada nombre indeterminat de temps. &#10132; **Resposta:** ràpida | **Extinció:** lenta &#10132; _guanyar un nivell en un joc arcade._
 
 ![imatge](https://user-images.githubusercontent.com/59253112/227146191-ec41d3b6-c3ea-49a6-a7c2-c08566782f74.png)
 
