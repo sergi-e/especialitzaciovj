@@ -88,7 +88,7 @@ No obstant, per la pròpia l'abast d'aquest article sobre la creació d'hàbits 
 
 El que sí podem aclarir és que el gacha té una història més complerta als seus paísos d'origen, on, abans dels videojocs, ja existia certa cultura de màquines de joguets que funcionaven amb aquesta mecànica. 
 
-> :pushpin: Ací tenim un article que diferencia entre els [cinc tipus principals de gacha](https://renatus.com/gacha-types-of-gotcha)
+> :pushpin: Ací tenim un article que diferencia entre els [cinc tipus principals de gacha](https://renatus.com/gacha-types-of-gotcha).
 
 ## Altres vies per reforçar comportaments
 
