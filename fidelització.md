@@ -36,8 +36,9 @@ Una de les millors maneres de crear usuaris fidels és crear un hàbit de joc. A
 
 Cada hàbit té un catalitzador que provoca l'acció, especialment si hi ha una recompensa. Obrir el feed de Twitter o Instagram és molt fàcil i gratificant, de s'automatitza fàcilment. Les millors maneres d'acostumar un hàbit són recompenses (intrínseques o extrínseques) i construir-los sobre hàbits ja instaurats.
 De manera molt senzilla:
--> El mòbil vibra (catalitzador) i l'engegem per veure les nostres notificacions (acció). 
--> Llegim les notificacions (catalitzador) i premem la del nostre lloc per recollir una recompensa (acció). 
+
+> El mòbil vibra (catalitzador) i l'engegem per veure les nostres notificacions (acció). -> Llegim les notificacions (catalitzador) i premem la del nostre lloc per recollir una recompensa (acció). 
+
 Aquests són dos hàbits encadenats. Açò pot aplicar-se a dintre del propi joc amb el que anomenem **Feedback loop**, on cada acció del jugador li report aun feedback que provoca una nova acció. 
 
 > Monstre apareix (catalitzador) -> jugador ataca (acció> -> Monstre mor i dóna recompensa (catalitzador) -> Creem nou equipament amb el botí (acció) -> ...
